@@ -21,6 +21,6 @@ Dataset provided was very big and could not be loaded into rstudio without optim
 
 1. Distributed clustering: The provided dataset is very big and can not be loaded in a IDE in a normal way. So I used ``Dask`` for this purpose. Dask was developed to natively scale common data science packages and the surrounding ecosystem to multi-core machines and distributed clusters when datasets exceed memory. 
 2. Column reduction: From distributed cluster, I dropped all the unnecessary columns not used for this project. There were 37 columns before. After column reduction there were 10 columns. This drastically reduced the data size.
-2. Normalizing Data: 
-3. Partitioning:
-4. Calling only the necessary file:
+3. Normalizing Data: To increase data quality, i performed some transformation process. This made writing code and analyzing data more easy.
+4. Partitioning: I broke a single big size csv file  into sections stored in multiple files. Separated those file based on country column and aggregating data row wise. Some data files were still very large so i selected around 110 country for this project. 
+5. Calling only the necessary file: I wrote the code in ``R programming`` in a was so that only the selected country csv file will be loaded for visualization. This makes the data visualization fast and refresh rate is also fast
