@@ -13,10 +13,10 @@ I used **"shiny","shinydashboard","ggplot2",""shinyjs","shinyjs","plotly","leafl
 
 ## Extras
 
-### Beautiful UI 
+### 1. Beautiful UI 
 I used css in the background to make the dashboard more beautiful. style sheets are available in **www/** folder ( style1_1.css and style2_4.css).
 
-### Performance optimization
+### 2. Performance optimization
 Dataset provided was very big and could not be loaded into rstudio without optimizing the dataset. I have used several optimization technique here.
 
 1. Distributed clustering: The provided dataset is very big and can not be loaded in a IDE in a normal way. So I used ``Dask`` for this purpose. Dask was developed to natively scale common data science packages and the surrounding ecosystem to multi-core machines and distributed clusters when datasets exceed memory. 
