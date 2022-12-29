@@ -3,5 +3,5 @@ I have created this Biodiversity map view project
 
 Deployment link : https://sadnan.shinyapps.io/sadnan_appsilon_/
 
-![Biodiversity Project](/path/to/image.png "Text to show on mouseover")
+![Biodiversity Project](https://github.com/sadnanMohosin/sadnan_appsilon/blob/master/map.JPG)
 
