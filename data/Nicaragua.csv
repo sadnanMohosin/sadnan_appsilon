@@ -1,0 +1,622 @@
+,scientificName,taxonRank,vernacularName,individualCount,longitudeDecimal,latitudeDecimal,continent,country,locality,eventDate,eventTime
+28766,Eresia clio,species,Clio Crescent,1,-84.7749094393,11.1336840006,North America,Nicaragua,Nicaragua,2010-02-09,
+48917,Calocitta formosa,species,White-throated Magpie-Jay,1,-85.8792980275,11.2636381,North America,Nicaragua,Nicaragua,2015-01-09,16:39
+48924,Fregata magnificens,species,Magnificent Frigatebird,1,-85.880095,11.262493,North America,Nicaragua,Nicaragua,2015-01-09,16:37
+48989,Cathartes aura,species,Turkey Vulture,20,-85.83588928,11.20431004,North America,Nicaragua,Nicaragua,2015-01-08,13:03
+49044,Leptotes cassius,species,,1,-86.05401903,11.93353211,North America,Nicaragua,Nicaragua,2015-01-05,07:35
+49051,Eumomota superciliosa,species,Turquoise-browed Motmot,5,-86.054019034,11.9335321092,North America,Nicaragua,Nicaragua,2015-01-04,07:38
+49057,Melanerpes santacruzi santacruzi,subspecies,Velasquez's Woodpecker ssp santacruzi,1,-86.054019034,11.9335321092,North America,Nicaragua,Nicaragua,2015-01-04,07:36
+49061,Campylorhynchus capistratus,species,Rufous-backed Wren,1,-86.05401903,11.93353211,North America,Nicaragua,Nicaragua,2015-01-04,07:35
+49071,Actitis macularius,species,Spotted Sandpiper,1,-86.054019034,11.9335321092,North America,Nicaragua,Nicaragua,2015-01-03,15:51
+49077,Fregata magnificens,species,Magnificent Frigatebird,1,-86.054019034,11.9335321092,North America,Nicaragua,Nicaragua,2015-01-03,14:37
+49093,Pandion haliaetus,species,Western Osprey,4,-86.054019034,11.9335321092,North America,Nicaragua,Nicaragua,2015-01-03,07:36
+49100,Ardea alba egretta,subspecies,American Great Egret,1,-86.054019034,11.9335321092,North America,Nicaragua,Nicaragua,2015-01-03,07:45
+66143,Calocitta formosa,species,White-throated Magpie-Jay,1,-85.5285644531,11.4800246486,North America,Nicaragua,Nicaragua,2013-08-10,
+35230,Megaceryle torquata,species,Ringed Kingfisher,2,-86.0540380556,11.9334881,North America,Nicaragua,Nicaragua,2015-01-03,06:44
+43475,Ctenosaura similis,species,Black Iguana,1,-86.2543665245,11.9784339794,North America,Nicaragua,Nicaragua,2014-03-06,14:23
+43487,Coragyps atratus,species,Black Vulture,1,-86.2684960663,11.9755997621,North America,Nicaragua,Nicaragua,2014-03-06,11:07
+43512,Argemone mexicana,species,Mexican Poppy,1,-86.2527320534,11.9780349966,North America,Nicaragua,Nicaragua,2014-03-06,
+43518,Alouatta palliata,species,Mantled Howler Monkey,5,-86.2641187012,11.9777827828,North America,Nicaragua,Nicaragua,2014-03-06,10:25
+122787,Cairina moschata,species,Muscovy Duck,1,-85.6360745432,11.4791779039,North America,Nicaragua,Nicaragua,2014-10-19,17:07
+122796,Chaetura pelagica,species,Chimney Swift,1,-85.6357741358,11.4796195011,North America,Nicaragua,Nicaragua,2014-10-19,16:22
+122879,Sciurus variegatoides dorsalis,subspecies,Variegated Squirrel ssp dorsalis,1,-85.55411339,11.5105394,North America,Nicaragua,Nicaragua,2014-10-19,14:14
+20649,Egretta tricolor,species,Tricolored Heron,1,-87.010724545,12.3537063834,North America,Nicaragua,Nicaragua,2014-10-23,10:40
+52703,Fregata magnificens,species,Magnificent Frigatebird,18,-87.017223988206,12.3595089588613,North America,Nicaragua,Nicaragua,2014-10-23,09:41
+52704,Coragyps atratus,species,Black Vulture,80,-87.017223988206,12.3595089588613,North America,Nicaragua,Nicaragua,2014-10-23,09:41
+52705,Egretta thula,species,Snowy Egret,50,-87.017223988206,12.3595089588613,North America,Nicaragua,Nicaragua,2014-10-23,09:42
+52706,Numenius hudsonicus hudsonicus,subspecies,Hudsonian Whimbrel ssp hudsonicus,10,-87.0131946903,12.3549060125,North America,Nicaragua,Nicaragua,2014-10-23,10:36
+52707,Procyon lotor,species,Northern Raccoon,1,-86.9942048914,12.3453236832,North America,Nicaragua,Nicaragua,2014-10-23,11:10
+52708,Pelecanus occidentalis,species,Brown Pelican,6,-87.0188943804844,12.3597136954412,North America,Nicaragua,Nicaragua,2014-10-23,13:50
+52709,Calidris alba,species,Sanderling,100,-87.0188943804844,12.3597136954412,North America,Nicaragua,Nicaragua,2014-10-23,13:51
+52710,Charadrius semipalmatus,species,Semipalmated Plover,1,-87.0189024063778,12.3598963030805,North America,Nicaragua,Nicaragua,2014-10-23,13:52
+52711,Butorides virescens,species,Green Heron,4,-87.0189226918908,12.3598457709621,North America,Nicaragua,Nicaragua,2014-10-23,13:53
+52712,Nycticorax nycticorax,species,Black-crowned Night Heron,2,-87.0189226918908,12.3598457709621,North America,Nicaragua,Nicaragua,2014-10-23,13:53
+65016,Pandion haliaetus,species,Western Osprey,1,-85.9511674295127,11.9299663377323,North America,Nicaragua,Nicaragua,2014-10-20,15:02
+65017,Pandion haliaetus,species,Western Osprey,1,-85.9171275645905,11.9176344631403,North America,Nicaragua,Nicaragua,2014-10-21,10:09
+65018,Pandion haliaetus,species,Western Osprey,2,-85.9095681175246,11.9140994469643,North America,Nicaragua,Nicaragua,2014-10-21,10:22
+65019,Megaceryle torquata,species,Ringed Kingfisher,1,-85.909274551,11.9138118495,North America,Nicaragua,Nicaragua,2014-10-21,10:22
+65020,Ctenosaura similis,species,Black Iguana,1,-85.8945317621762,11.9018436878843,North America,Nicaragua,Nicaragua,2014-10-21,11:23
+75877,Alouatta palliata,species,Mantled Howler Monkey,15,-85.6352239810383,11.4799509666987,North America,Nicaragua,Nicaragua,2014-10-19,10:38
+75878,Caracara cheriway,species,Northern Crested Caracara,1,-85.5540467219826,11.5108959559535,North America,Nicaragua,Nicaragua,2014-10-19,14:14
+75879,Bubulcus ibis,species,Western Cattle Egret,100,-85.6362549962,11.4787726434,North America,Nicaragua,Nicaragua,2014-10-19,17:04
+80528,Calocitta formosa,species,White-throated Magpie-Jay,1,-85.6350201363405,11.4793661164462,North America,Nicaragua,Nicaragua,2014-10-19,08:48
+110503,Pelecanus occidentalis,species,Brown Pelican,6,-87.0233184098,12.3585117841,North America,Nicaragua,Nicaragua,2014-03-20,06:29
+110509,Passer domesticus,species,House Sparrow,1,-87.0222777127,12.3596803262,North America,Nicaragua,Nicaragua,2014-03-20,07:56
+110643,Egretta thula,species,Snowy Egret,25,-87.0186567302,12.3573626252,North America,Nicaragua,Nicaragua,2014-03-20,06:35
+110662,Coragyps atratus,species,Black Vulture,15,-87.0186567302,12.3573626252,North America,Nicaragua,Nicaragua,2014-03-20,06:34
+110667,Charadrius semipalmatus,species,Semipalmated Plover,2,-87.0231413837,12.3589346608,North America,Nicaragua,Nicaragua,2014-03-20,06:39
+110705,Tringa flavipes,species,Lesser Yellowlegs,1,-87.0101487639,12.3530656799,North America,Nicaragua,Nicaragua,2014-03-19,10:48
+15772,Pelecanus occidentalis,species,Brown Pelican,2,-86.9966948035,12.3410338576,North America,Nicaragua,Nicaragua,2014-03-19,12:53
+15795,Pandion haliaetus,species,Western Osprey,1,-86.9965410237,12.345755121,North America,Nicaragua,Nicaragua,2014-03-19,12:15
+15808,Numenius hudsonicus,species,Hudsonian Whimbrel,1,-87.0184600354,12.3596029476,North America,Nicaragua,Nicaragua,2014-03-19,09:57
+15846,Coragyps atratus,species,Black Vulture,12,-87.0187711717,12.3576169463,North America,Nicaragua,Nicaragua,2014-03-19,07:17
+15868,Cochlearius cochlearius,species,Boat-billed Heron,1,-86.9976782803,12.347432033,North America,Nicaragua,Nicaragua,2014-03-19,11:20
+15881,Chloroceryle aenea,species,American Pygmy Kingfisher,1,-86.9997811322,12.3489202833,North America,Nicaragua,Nicaragua,2014-03-19,11:20
+16045,Arenaria interpres,species,Ruddy Turnstone,1,-87.023497224,12.3590405107,North America,Nicaragua,Nicaragua,2014-03-19,
+33828,Eumomota superciliosa,species,Turquoise-browed Motmot,2,-86.8736582992,12.4334201231,North America,Nicaragua,Nicaragua,2014-03-18,10:41
+33936,Bubulcus ibis,species,Western Cattle Egret,5,-85.9404730799,11.9271650123,North America,Nicaragua,Nicaragua,2014-03-17,09:46
+33966,Jacana spinosa,species,Northern Jacana,20,-85.940397978,11.9272070012,North America,Nicaragua,Nicaragua,2014-03-17,09:50
+33999,Coragyps atratus,species,Black Vulture,15,-85.3723186256,12.1156021805,North America,Nicaragua,Nicaragua,2014-03-16,09:15
+34121,Thraupis episcopus,species,Blue-grey Tanager,1,-84.8998939991,11.4023889053,North America,Nicaragua,Nicaragua,2014-03-16,
+34147,Passer domesticus,species,House Sparrow,1,-84.8996713758,11.4024467493,North America,Nicaragua,Nicaragua,2014-03-16,06:38
+34311,Ardea alba,species,Great Egret,1,-84.9091815966,11.4562867994,North America,Nicaragua,Nicaragua,2014-03-15,16:24
+34386,Egretta thula,species,Snowy Egret,1,-84.9075508135,11.4485195551,North America,Nicaragua,Nicaragua,2014-03-15,16:13
+34422,Iguana iguana,species,Common Green Iguana,1,-84.9066925066,11.4474259545,North America,Nicaragua,Nicaragua,2014-03-15,17:24
+34450,Iguana iguana,species,Common Green Iguana,1,-84.9130439776,11.4636612812,North America,Nicaragua,Nicaragua,2014-03-15,16:43
+46671,Tachycineta albilinea,species,Mangrove Swallow,1,-84.977068305,11.1677578016,North America,Nicaragua,Nicaragua,2014-03-15,08:54
+46726,Pandion haliaetus,species,Western Osprey,1,-84.9781894701,11.1675788657,North America,Nicaragua,Nicaragua,2014-03-15,07:34
+46771,Himantopus mexicanus,species,Black-necked Stilt,1,-84.9061131478,11.4403370766,North America,Nicaragua,Nicaragua,2014-03-15,15:57
+46901,Eudocimus albus,species,American White Ibis,3,-84.9061131478,11.4403370766,North America,Nicaragua,Nicaragua,2014-03-15,15:47
+46912,Coragyps atratus,species,Black Vulture,1,-84.9082589151,11.4538318692,North America,Nicaragua,Nicaragua,2014-03-15,16:41
+46943,Cathartes burrovianus,species,Lesser Yellow-headed Vulture,1,-84.905319214,11.444872801,North America,Nicaragua,Nicaragua,2014-03-15,16:07
+46955,Botaurus pinnatus,species,Pinnated Bittern,1,-84.9046754838,11.4443680563,North America,Nicaragua,Nicaragua,2014-03-15,16:01
+13708,Lepidochelys olivacea,species,Olive Ridley Sea Turtle,1,-87.0190000536,12.3572962501,North America,Nicaragua,Nicaragua,2014-03-19,18:05
+38935,Pandion haliaetus,species,Western Osprey,1,-84.9717521685,11.1606739345,North America,Nicaragua,Nicaragua,2014-03-13,08:53
+38973,Pandion haliaetus,species,Western Osprey,1,-84.9686622637,11.1621054581,North America,Nicaragua,Nicaragua,2014-03-13,09:07
+39321,Pandion haliaetus,species,Western Osprey,1,-84.8854923266,11.0873199764,North America,Nicaragua,Nicaragua,2014-03-14,09:53
+39336,Tigrisoma fasciatum,species,Fasciated Tiger Heron,1,-84.8854923266,11.0835577386,North America,Nicaragua,Nicaragua,2014-03-14,09:28
+39459,Nycticorax nycticorax,species,Black-crowned Night Heron,1,-84.8854923266,11.0835577386,North America,Nicaragua,Nicaragua,2014-03-14,09:27
+39504,Mycteria americana,species,Wood Stork,300,-84.8857498186,11.0822942895,North America,Nicaragua,Nicaragua,2014-03-14,09:02
+68606,Thraupis episcopus,species,Blue-grey Tanager,1,-84.9021255971,11.4028358809,North America,Nicaragua,Nicaragua,2014-03-15,13:06
+68647,Platalea ajaja,species,Roseate Spoonbill,2,-84.9048900622,11.4419859286,North America,Nicaragua,Nicaragua,2014-03-15,15:54
+8924,Eudocimus albus,species,American White Ibis,1,-84.8879814165,11.0806658349,North America,Nicaragua,Nicaragua,2014-03-14,09:11
+9029,Coragyps atratus,species,Black Vulture,20,-84.8909854906,11.0849615638,North America,Nicaragua,Nicaragua,2014-03-14,08:51
+9406,Ardea herodias,species,Great Blue Heron,1,-84.8912429827,11.0850738705,North America,Nicaragua,Nicaragua,2014-03-14,08:29
+9432,Platalea ajaja,species,Roseate Spoonbill,150,-84.8885822314,11.0834735089,North America,Nicaragua,Nicaragua,2014-03-14,09:22
+20191,Eudocimus albus,species,American White Ibis,1,-84.9769824744,11.1676630705,North America,Nicaragua,Nicaragua,2014-03-14,11:18
+20250,Platalea ajaja,species,Roseate Spoonbill,1,-84.9500370043,11.1538530473,North America,Nicaragua,Nicaragua,2014-03-14,10:40
+69446,Tachycineta albilinea,species,Mangrove Swallow,2,-85.0014710431,11.1738836816,North America,Nicaragua,Nicaragua,2014-03-13,15:23
+69456,Pandion haliaetus,species,Western Osprey,1,-84.9630832742,11.1694313803,North America,Nicaragua,Nicaragua,2014-03-13,11:41
+69486,Psarocolius montezuma,species,Montezuma Oropendola,150,-84.976955652,11.1680525204,North America,Nicaragua,Nicaragua,2014-03-13,17:36
+69531,Psarocolius montezuma,species,Montezuma Oropendola,1,-85.0022470953,11.1746429171,North America,Nicaragua,Nicaragua,2014-03-13,16:27
+69700,Eudocimus albus,species,American White Ibis,1,-84.9770772458,11.16791288,North America,Nicaragua,Nicaragua,2014-03-13,06:02
+69794,Peropteryx spec.,multispecies,,100,-84.941468239,11.1514895597,North America,Nicaragua,Nicaragua,2014-03-13,09:55
+76060,Alouatta palliata,species,Mantled Howler Monkey,2,-84.9924373631,11.1724543213,North America,Nicaragua,Nicaragua,2014-03-13,11:58
+76283,Trogon massena,species,Slaty-tailed Trogon,1,-85.0521469151,11.0360314509,North America,Nicaragua,Nicaragua,2014-03-12,08:32
+84829,Phalacrocorax brasilianus,species,Neotropic Cormorant,2,-85.0507164019,11.0393056938,North America,Nicaragua,Nicaragua,2014-03-12,09:04
+84912,Jacana spinosa,species,Northern Jacana,200,-85.0515747088,11.0376489199,North America,Nicaragua,Nicaragua,2014-03-12,09:04
+84943,Ardea alba,species,Great Egret,1,-85.0515747088,11.0376489199,North America,Nicaragua,Nicaragua,2014-03-12,16:09
+57756,Cebus capucinus,species,White-faced Capuchin,8,-85.051331521,11.0347228662,North America,Nicaragua,Nicaragua,2014-03-12,06:22
+57995,Caiman crocodilus,species,Spectacled Caiman,2,-85.051331521,11.0347228662,North America,Nicaragua,Nicaragua,2014-03-12,12:44
+58018,Caiman crocodilus,species,Spectacled Caiman,1,-85.051331521,11.0347228662,North America,Nicaragua,Nicaragua,2014-03-12,11:29
+58062,Alouatta palliata,species,Mantled Howler Monkey,4,-85.051331521,11.0347228662,North America,Nicaragua,Nicaragua,2014-03-12,07:03
+95827,Pandion haliaetus,species,Western Osprey,1,-85.0502586295,11.0533850828,North America,Nicaragua,Nicaragua,2014-03-11,10:14
+95895,Ardea alba,species,Great Egret,4,-85.0469970633,11.0607418127,North America,Nicaragua,Nicaragua,2014-03-11,10:12
+95917,Coragyps atratus,species,Black Vulture,1,-85.0494003226,11.065290539,North America,Nicaragua,Nicaragua,2014-03-11,10:16
+95926,Cochlearius cochlearius,species,Boat-billed Heron,1,-85.0514602591,11.0305836574,North America,Nicaragua,Nicaragua,2014-03-11,19:51
+95930,Chloroceryle aenea,species,American Pygmy Kingfisher,1,-85.0514602591,11.0305836574,North America,Nicaragua,Nicaragua,2014-03-11,19:39
+95940,Megaceryle torquata,species,Ringed Kingfisher,1,-85.0514602591,11.0305836574,North America,Nicaragua,Nicaragua,2014-03-11,16:09
+95993,Cebus capucinus,species,White-faced Capuchin,1,-85.0514602591,11.0305836574,North America,Nicaragua,Nicaragua,2014-03-11,16:18
+96034,Caiman crocodilus,species,Spectacled Caiman,1,-85.0514602591,11.0305836574,North America,Nicaragua,Nicaragua,2014-03-11,20:34
+96041,Caiman crocodilus,species,Spectacled Caiman,1,-85.0514602591,11.0305836574,North America,Nicaragua,Nicaragua,2014-03-11,19:58
+96064,Caiman crocodilus,species,Spectacled Caiman,1,-85.0514602591,11.0305836574,North America,Nicaragua,Nicaragua,2014-03-11,19:46
+96193,Anartia fatima,species,Banded Peacock,1,-85.0514602591,11.0305836574,North America,Nicaragua,Nicaragua,2014-03-11,12:59
+96199,Alouatta palliata,species,Mantled Howler Monkey,8,-85.0514602591,11.0305836574,North America,Nicaragua,Nicaragua,2014-03-11,16:02
+96313,Tachycineta albilinea,species,Mangrove Swallow,2,-84.3937397012,11.0158235669,North America,Nicaragua,Nicaragua,2014-03-10,17:19
+96323,Tachycineta albilinea,species,Mangrove Swallow,1,-84.3939971933,11.0158797334,North America,Nicaragua,Nicaragua,2014-03-10,08:08
+96336,Tachycineta albilinea,species,Mangrove Swallow,1,-84.393832684,11.0157926756,North America,Nicaragua,Nicaragua,2014-03-10,07:47
+96384,Mesembrinibis cayennensis,species,Green Ibis,1,-84.4134235386,11.0175984108,North America,Nicaragua,Nicaragua,2014-03-10,08:43
+100489,Jacana spinosa,species,Northern Jacana,6,-84.4127082833,11.0198478436,North America,Nicaragua,Nicaragua,2014-03-10,08:55
+100514,Ardea alba,species,Great Egret,1,-84.391851426,11.0156354105,North America,Nicaragua,Nicaragua,2014-03-10,08:20
+100609,Caiman crocodilus,species,Spectacled Caiman,1,-84.4132232675,11.0178118427,North America,Nicaragua,Nicaragua,2014-03-10,20:12
+100659,Basiliscus plumifrons,species,Green Basilisk,1,-84.411420823,11.0189491971,North America,Nicaragua,Nicaragua,2014-03-10,19:47
+100773,Anartia fatima,species,Banded Peacock,1,-84.3936967858,11.0156691097,North America,Nicaragua,Nicaragua,2014-03-10,15:13
+103358,Sciurus variegatoides,species,Variegated Squirrel,1,-84.3335151637,10.9623822584,North America,Nicaragua,Nicaragua,2014-03-09,09:49
+112825,Pandion haliaetus,species,Western Osprey,1,-84.3627834338,11.0015064701,North America,Nicaragua,Nicaragua,2014-03-09,08:49
+119437,Ardea alba,species,Great Egret,1,-84.3429565434,10.9791784975,North America,Nicaragua,Nicaragua,2014-03-09,11:43
+119647,Choloepus hoffmanni,species,Hoffmann's Two-toed Sloth,1,-84.4098329546,11.0381487611,North America,Nicaragua,Nicaragua,2014-03-09,16:06
+119780,Megaceryle torquata,species,Ringed Kingfisher,1,-84.3931388864,11.0157814429,North America,Nicaragua,Nicaragua,2014-03-09,05:51
+119825,Thraupis episcopus,species,Blue-grey Tanager,1,-84.3939971933,11.0159078161,North America,Nicaragua,Nicaragua,2014-03-08,16:17
+92142,Tachycineta albilinea,species,Mangrove Swallow,1,-84.3945407885,11.0162223472,North America,Nicaragua,Nicaragua,2014-03-08,12:52
+92681,Passer domesticus,species,House Sparrow,1,-84.7778749475,11.1218039698,North America,Nicaragua,Nicaragua,2014-03-08,07:14
+92714,Pandion haliaetus,species,Western Osprey,1,-84.3916225451,11.0156326029,North America,Nicaragua,Nicaragua,2014-03-08,08:28
+79711,Egretta tricolor,species,Tricolored Heron,1,-84.3938255312,11.016343103,North America,Nicaragua,Nicaragua,2014-03-08,16:29
+79911,Bubulcus ibis,species,Western Cattle Egret,1,-84.3939542773,11.0158376082,North America,Nicaragua,Nicaragua,2014-03-08,11:18
+79923,Bubulcus ibis,species,Western Cattle Egret,9,-84.406185151,11.0235069963,North America,Nicaragua,Nicaragua,2014-03-08,10:36
+80116,Ardea herodias,species,Great Blue Heron,1,-84.4079017648,11.0213165658,North America,Nicaragua,Nicaragua,2014-03-08,10:31
+80151,Ardea alba,species,Great Egret,1,-84.7532272409,11.1230925305,North America,Nicaragua,Nicaragua,2014-03-08,07:58
+80282,Cathartes aura,species,Turkey Vulture,4,-84.7264480661,11.1145582649,North America,Nicaragua,Nicaragua,2014-03-08,08:25
+80374,Anhinga anhinga,species,Anhinga,1,-84.6773529123,11.1334231189,North America,Nicaragua,Nicaragua,2014-03-08,09:00
+91261,Ardea alba,species,Great Egret,1,-84.7783899316,11.1214895533,North America,Nicaragua,Nicaragua,2014-03-07,17:32
+91408,Egretta thula,species,Snowy Egret,1,-84.7797632226,11.1213211156,North America,Nicaragua,Nicaragua,2014-03-07,17:27
+91628,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,2,-86.2347194553,12.0749199183,North America,Nicaragua,Nicaragua,2014-03-06,07:34
+108717,Coragyps atratus,species,Black Vulture,30,-86.1608505266,11.9852111751,North America,Nicaragua,Nicaragua - Volcán  Masaya NP,2014-03-05,10:30
+454,Coragyps atratus,species,Black Vulture,2,-86.1680173875,11.9871684775,North America,Nicaragua,Nicaragua - Volcán  Masaya NP,2014-03-05,09:32
+822,Tyrannus melancholicus,species,Tropical Kingbird,1,-86.2347140909,12.0749382784,North America,Nicaragua,Nicaragua,2014-03-04,17:22
+46369,Cathartes aura,species,Turkey Vulture,3,-86.2348106504,12.0749374041,North America,Nicaragua,Nicaragua,2014-03-03,17:17
+46374,Cathartes aura,species,Turkey Vulture,1,-86.2348106504,12.0749374041,North America,Nicaragua,Nicaragua,2014-03-03,09:39
+46737,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,1,-86.2348294259,12.0749277869,North America,Nicaragua,Nicaragua,2014-03-02,13:53
+51735,Tyrannus forficatus,species,Scissor-tailed Flycatcher,50,-86.8481791019,12.5687892688,North America,Nicaragua,Nicaragua,2014-02-17,
+51809,Eupsittula canicularis,species,Orange-fronted Parakeet,1,-86.8481791019,12.5687892688,North America,Nicaragua,Nicaragua,2014-02-17,
+52102,Piaya cayana,species,Squirrel Cuckoo,1,-86.8481791019,12.5687892688,North America,Nicaragua,Nicaragua,2014-02-17,
+100344,Eumomota superciliosa,species,Turquoise-browed Motmot,4,-86.8382817507,12.5702976835,North America,Nicaragua,Nicaragua,2014-02-17,
+101438,Bubulcus ibis,species,Western Cattle Egret,1,-82.9833117127,12.2989892361,North America,Nicaragua,Nicaragua,2014-02-15,
+101628,Patagioenas leucocephala,species,White-crowned Pigeon,10,-82.980221808,12.2986690399,North America,Nicaragua,Nicaragua,2014-02-15,
+101828,Leucophaeus atricilla,species,Laughing Gull,1,-85.7883417187,11.4635369467,North America,Nicaragua,Nicaragua,2014-02-09,
+101923,Calocitta formosa,species,White-throated Magpie-Jay,1,-85.5398793519,11.4890015979,North America,Nicaragua,Nicaragua,2014-02-09,
+108755,Aythya affinis,species,Lesser Scaup,1,-85.5394072831,11.4955239401,North America,Nicaragua,Nicaragua,2014-02-08,
+19378,Thalasseus acuflavidus,species,Cabot's Tern,1,-85.8735461533,11.2539405214,North America,Nicaragua,Nicaragua,2014-02-06,
+19489,Leucophaeus pipixcan,species,Franklin's Gull,1,-85.8735461533,11.2539405214,North America,Nicaragua,Nicaragua,2014-02-06,
+19529,Leucophaeus atricilla,species,Laughing Gull,50,-85.8735461533,11.2539405214,North America,Nicaragua,Nicaragua,2014-02-06,
+19674,Fregata magnificens,species,Magnificent Frigatebird,50,-85.8735461533,11.2539405214,North America,Nicaragua,Nicaragua,2014-02-06,
+92444,Tyrannus melancholicus,species,Tropical Kingbird,1,-86.2377807498,12.0974892436,North America,Nicaragua,Nicaragua,2014-02-20,
+28532,Fregata magnificens,species,Magnificent Frigatebird,50,-85.872099,11.252945,North America,Nicaragua,Nicaragua,2014-02-07,06:27
+28533,Leucophaeus atricilla,species,Laughing Gull,100,-85.872099,11.252945,North America,Nicaragua,Nicaragua,2014-02-07,06:27
+28534,Pelecanus occidentalis,species,Brown Pelican,30,-85.872099,11.252945,North America,Nicaragua,Nicaragua,2014-02-07,06:28
+28536,Thalasseus acuflavidus,species,Cabot's Tern,1,-85.872099,11.252945,North America,Nicaragua,Nicaragua,2014-02-07,06:39
+28537,Egretta thula,species,Snowy Egret,1,-85.872099,11.252945,North America,Nicaragua,Nicaragua,2014-02-07,06:39
+28538,Leucophaeus atricilla,species,Laughing Gull,1,-85.780406,11.470192,North America,Nicaragua,Nicaragua,2014-02-07,10:58
+28541,Calocitta formosa,species,White-throated Magpie-Jay,10,-85.527152,11.490114,North America,Nicaragua,Nicaragua,2014-02-08,07:14
+28543,Aythya affinis,species,Lesser Scaup,1,-85.540655,11.491709,North America,Nicaragua,Nicaragua,2014-02-08,16:56
+28544,Egretta thula,species,Snowy Egret,2,-85.540655,11.491709,North America,Nicaragua,Nicaragua,2014-02-08,17:25
+58595,Dircenna klugii,species,Klug's Clearwing,1,-85.91398708,12.95431047,North America,Nicaragua,Nicaragua,2010-02-02,
+68745,Siproeta stelenes,species,Malachite,1,-85.6036233902,11.4819783726,North America,Nicaragua,Nicaragua,2010-01-26,
+38144,Agalychnis callidryas,species,Red-eyed Treefrog,1,-85.754211,13.182401,North America,Nicaragua,Nicaragua,2012-12-03,
+38212,Caligo telamonius memnon,subspecies,,1,-85.507108,11.473604,North America,Nicaragua,Nicaragua,2012-11-28,
+42713,Saccopteryx leptura,species,Lesser Sac-winged Bat,5,-87.585168,12.836247,North America,Nicaragua,Nicaragua,2012-11-24,
+42770,Trachemys scripta,species,Pond Slider,1,-87.585168,12.836247,North America,Nicaragua,Nicaragua,2012-11-23,
+115395,Ramphastos sulfuratus,species,Keel-billed Toucan,6,-85.752766,13.185237,North America,Nicaragua,Nicaragua,2012-12-04,06:52
+115396,Momotus lessonii,species,Lesson's Motmot,1,-85.711348,13.26962086896,North America,Nicaragua,Nicaragua,2012-12-03,19:20
+115397,Pionus senilis,species,White-crowned Parrot,5,-85.752684,13.185256,North America,Nicaragua,Nicaragua,2012-12-03,07:07
+115398,Tachybaptus dominicus,species,Least Grebe,2,-85.755285,13.180439,North America,Nicaragua,Nicaragua,2012-12-02,09:28
+115399,Trogon caligatus,species,Gartered Trogon,1,-85.75428,13.182685,North America,Nicaragua,Nicaragua,2012-12-01,20:34
+115400,Ramphocelus sanguinolentus,species,Crimson-collared Tanager,1,-85.754285,13.18236,North America,Nicaragua,Nicaragua,2012-12-01,15:37
+9869,Momotus lessonii,species,Lesson's Motmot,1,-86.273352,12.050057,North America,Nicaragua,Nicaragua,2012-11-30,11:23
+9870,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,1,-86.270575,12.056221,North America,Nicaragua,Nicaragua,2012-11-30,07:32
+13678,Alouatta palliata,species,Mantled Howler Monkey,10,-85.515931,11.482773,North America,Nicaragua,Nicaragua,2012-11-28,20:16
+13679,Alouatta palliata,species,Mantled Howler Monkey,10,-85.507169,11.47641707,North America,Nicaragua,Nicaragua,2012-11-28,20:14
+13680,Alouatta palliata,species,Mantled Howler Monkey,7,-85.521904,11.480417,North America,Nicaragua,Nicaragua,2012-11-28,20:13
+13681,Alouatta palliata,species,Mantled Howler Monkey,10,-85.519028,11.476754,North America,Nicaragua,Nicaragua,2012-11-28,20:12
+13682,Alouatta palliata,species,Mantled Howler Monkey,1,-85.522398,11.480024,North America,Nicaragua,Nicaragua,2012-11-26,16:32
+17152,Egretta thula,species,Snowy Egret,20,-85.543112,11.493308,North America,Nicaragua,Nicaragua,2012-11-27,12:59
+17153,Egretta tricolor,species,Tricolored Heron,1,-85.543281,11.493308,North America,Nicaragua,Nicaragua,2012-11-27,12:40
+17154,Calocitta formosa,species,White-throated Magpie-Jay,5,-85.522475,11.479968,North America,Nicaragua,Nicaragua,2012-11-26,16:28
+17155,Calocitta formosa,species,White-throated Magpie-Jay,5,-85.554511,11.512303,North America,Nicaragua,Nicaragua,2012-11-26,13:56
+17156,Calocitta formosa,species,White-throated Magpie-Jay,3,-86.27,12.057,North America,Nicaragua,Nicaragua,2012-11-26,06:58
+29636,Coragyps atratus,species,Black Vulture,1,-86.269999,12.056434,North America,Nicaragua,Nicaragua,2012-11-21,16:09
+29637,Tyrannus melancholicus,species,Tropical Kingbird,1,-86.270098,12.056377,North America,Nicaragua,Nicaragua,2012-11-21,16:06
+29638,Tyto furcata,species,American Barn Owl,2,-87.632698,12.865031,North America,Nicaragua,Nicaragua,2012-11-24,11:35
+29639,Tyrannus melancholicus,species,Tropical Kingbird,1,-86.27,12.057,North America,Nicaragua,Nicaragua,2012-11-22,17:03
+29640,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,3,-86.27,12.057,North America,Nicaragua,Nicaragua,2012-11-22,07:41
+105909,Cathartes aura,species,Turkey Vulture,10,-85.9570465088,11.9358446812,North America,Nicaragua,Nicaragua,2012-02-06,
+105917,Alouatta palliata,species,Mantled Howler Monkey,20,-85.6137237549,11.5324680965,North America,Nicaragua,Nicaragua,2012-02-04,
+105918,Calocitta formosa,species,White-throated Magpie-Jay,30,-85.4928741455,11.4409547096,North America,Nicaragua,Nicaragua,2012-02-04,
+109888,Ardea herodias,species,Great Blue Heron,10,-84.8872528076,11.0833675323,North America,Nicaragua,Nicaragua,2012-02-03,
+109890,Eudocimus albus,species,American White Ibis,30,-84.8872528076,11.0833675323,North America,Nicaragua,Nicaragua,2012-02-03,
+109893,Coragyps atratus,species,Black Vulture,50,-84.8872528076,11.0833675323,North America,Nicaragua,Nicaragua,2012-02-03,
+109897,Platalea ajaja,species,Roseate Spoonbill,50,-84.8872528076,11.0833675323,North America,Nicaragua,Nicaragua,2012-02-03,
+109942,Eudocimus albus,species,American White Ibis,1,-85.010848999,11.1729742936,North America,Nicaragua,Nicaragua,2012-02-03,
+110330,Eudocimus albus,species,American White Ibis,3,-84.989906311,11.1722796105,North America,Nicaragua,Nicaragua,2012-02-02,
+110363,Cathartes aura,species,Turkey Vulture,10,-84.7736129761,11.1234581747,North America,Nicaragua,Nicaragua,2012-02-02,
+110366,Butorides virescens,species,Green Heron,1,-84.7736129761,11.1234581747,North America,Nicaragua,Nicaragua,2012-02-02,
+110396,Tachycineta albilinea,species,Mangrove Swallow,100,-84.7698364258,11.1130149244,North America,Nicaragua,Nicaragua,2012-02-02,
+110698,Sporophila corvina,species,Variable Seedeater,10,-84.5099411011,11.0446192525,North America,Nicaragua,Nicaragua,2012-02-01,
+110749,Aramides albiventris plumbeicollis,subspecies,Rufous-naped Wood Rail ssp plumbeicollis,2,-84.5099411011,11.0446192525,North America,Nicaragua,Nicaragua,2012-02-01,
+110864,Thraupis episcopus,species,Blue-grey Tanager,10,-84.462562561,11.0294554886,North America,Nicaragua,Nicaragua,2012-01-31,
+110868,Tachycineta albilinea,species,Mangrove Swallow,100,-84.462562561,11.0294554886,North America,Nicaragua,Nicaragua,2012-01-31,
+110874,Megaceryle torquata,species,Ringed Kingfisher,2,-84.462562561,11.0294554886,North America,Nicaragua,Nicaragua,2012-01-31,
+110883,Jacana spinosa,species,Northern Jacana,10,-84.462562561,11.0294554886,North America,Nicaragua,Nicaragua,2012-01-31,
+110893,Bubulcus ibis,species,Western Cattle Egret,100,-84.462562561,11.0294554886,North America,Nicaragua,Nicaragua,2012-01-31,
+110902,Cathartes aura,species,Turkey Vulture,100,-84.7760162353,11.1113304941,North America,Nicaragua,Nicaragua,2012-01-31,
+110903,Bubulcus ibis,species,Western Cattle Egret,1,-84.7526702881,11.0786506245,North America,Nicaragua,Nicaragua,2012-01-31,
+110906,Jacana spinosa,species,Northern Jacana,1,-84.7526702881,11.0786506245,North America,Nicaragua,Nicaragua,2012-01-31,
+110907,Ardea alba egretta,subspecies,American Great Egret,10,-84.7526702881,11.0786506245,North America,Nicaragua,Nicaragua,2012-01-31,
+110908,Actitis macularius,species,Spotted Sandpiper,1,-84.7526702881,11.0786506245,North America,Nicaragua,Nicaragua,2012-01-31,
+110910,Alouatta palliata,species,Mantled Howler Monkey,18,-84.7526702881,11.0786506245,North America,Nicaragua,Nicaragua,2012-01-31,
+110914,Tachycineta albilinea,species,Mangrove Swallow,10,-84.7526702881,11.0786506245,North America,Nicaragua,Nicaragua,2012-01-31,
+110915,Anhinga anhinga,species,Anhinga,3,-84.7526702881,11.0786506245,North America,Nicaragua,Nicaragua,2012-01-31,
+110916,Chloroceryle amazona,species,Amazon Kingfisher,1,-84.7526702881,11.0786506245,North America,Nicaragua,Nicaragua,2012-01-31,
+110917,Chloroceryle americana,species,Green Kingfisher,1,-84.7526702881,11.0786506245,North America,Nicaragua,Nicaragua,2012-01-31,
+106871,Pelecanus occidentalis,species,Brown Pelican,1,-87.6444778442,12.9777565999,North America,Nicaragua,Nicaragua,2011-11-11,
+106873,Thalasseus maximus,species,Royal Tern,1,-87.6444778442,12.9777565999,North America,Nicaragua,Nicaragua,2011-11-11,
+106874,Tyrannus forficatus,species,Scissor-tailed Flycatcher,1,-87.6444778442,12.9777565999,North America,Nicaragua,Nicaragua,2011-11-11,
+106893,Lepidochelys olivacea,species,Olive Ridley Sea Turtle,3,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106896,Crocodylus acutus,species,American Crocodile,1,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106967,Coragyps atratus,species,Black Vulture,1,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106969,Chloroceryle aenea,species,American Pygmy Kingfisher,1,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106972,Egretta tricolor,species,Tricolored Heron,1,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106974,Egretta tricolor,species,Tricolored Heron,1,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106975,Egretta tricolor,species,Tricolored Heron,1,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106976,Numenius hudsonicus hudsonicus,subspecies,Hudsonian Whimbrel ssp hudsonicus,1,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106980,Cathartes aura,species,Turkey Vulture,1,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106981,Fregata magnificens,species,Magnificent Frigatebird,25,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106982,Egretta thula,species,Snowy Egret,1,-86.9664154053,12.3205100235,North America,Nicaragua,Nicaragua,2011-11-10,
+106983,Quiscalus mexicanus,species,Great-tailed Grackle,1,-86.9513092041,12.3117890684,North America,Nicaragua,Nicaragua,2011-11-10,
+108625,Calocitta formosa,species,White-throated Magpie-Jay,1,-86.1479768753,11.9904229344,North America,Nicaragua,Nicaragua - Volcán  Masaya NP,2011-11-09,
+108652,Rhynchonycteris naso,species,Proboscis Bat,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108694,Quiscalus mexicanus,species,Great-tailed Grackle,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108699,Egretta thula,species,Snowy Egret,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108701,Ardea herodias,species,Great Blue Heron,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108703,Egretta caerulea,species,Little Blue Heron,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108707,Cathartes aura,species,Turkey Vulture,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108711,Fregata magnificens,species,Magnificent Frigatebird,2,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108713,Pandion haliaetus,species,Western Osprey,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108716,Nycticorax nycticorax,species,Black-crowned Night Heron,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108717,Butorides virescens,species,Green Heron,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108720,Phalacrocorax brasilianus,species,Neotropic Cormorant,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108722,Ardea alba,species,Great Egret,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108727,Jacana spinosa,species,Northern Jacana,1,-85.923787117,11.9155219671,North America,Nicaragua,Nicaragua,2011-11-08,
+108817,Aythya affinis,species,Lesser Scaup,2,-84.7674331665,11.1259847113,North America,Nicaragua,Nicaragua,2011-11-06,
+108826,Bubulcus ibis,species,Western Cattle Egret,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-06,
+108829,Pandion haliaetus,species,Western Osprey,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-06,
+108863,Argia sp.,multispecies,,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+108865,Hetaerina titia,species,Smoky Rubyspot,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+108867,Neoneura amelia,species,Amelia's Threadtail,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+108869,Perithemis spec,multispecies,,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+108909,Butorides virescens,species,Green Heron,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+108915,Tachycineta albilinea,species,Mangrove Swallow,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+108927,Ardea alba,species,Great Egret,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+109102,Actitis macularius,species,Spotted Sandpiper,1,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+109110,Caiman crocodilus,species,Spectacled Caiman,2,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+109269,Basiliscus plumifrons,species,Green Basilisk,3,-84.733959198,11.1184050358,North America,Nicaragua,Nicaragua,2011-11-05,
+109277,Alouatta palliata,species,Mantled Howler Monkey,1,-84.733295705,11.1174562229,North America,Nicaragua,Nicaragua,2011-11-04,
+109279,Bubulcus ibis,species,Western Cattle Egret,50,-84.733295705,11.1174562229,North America,Nicaragua,Nicaragua,2011-11-04,
+109282,Pandion haliaetus,species,Western Osprey,1,-84.733295705,11.1174562229,North America,Nicaragua,Nicaragua,2011-11-04,
+109284,Anhinga anhinga,species,Anhinga,1,-84.733295705,11.1174562229,North America,Nicaragua,Nicaragua,2011-11-04,
+109291,Jacana spinosa,species,Northern Jacana,1,-84.733295705,11.1174562229,North America,Nicaragua,Nicaragua,2011-11-04,
+64282,Siproeta epaphus epaphus,subspecies,Rusty-tipped Page,1,-85.9439849854,11.8223252509,North America,Nicaragua,Nicaragua,2011-03-06,
+56478,Psittacara rubritorquis,species,Red-throated Parakeet,7,-85.1623249054,12.2202400201,North America,Nicaragua,Nicaragua,2011-07-25,
+56485,Psittacara rubritorquis,species,Red-throated Parakeet,11,-85.1623249054,12.2202400201,North America,Nicaragua,Nicaragua,2011-07-26,
+56486,Psittacara rubritorquis,species,Red-throated Parakeet,3,-85.1623249054,12.2202400201,North America,Nicaragua,Nicaragua,2011-07-27,
+56842,Tramea calverti,species,Striped Saddlebags,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-12,
+56885,Tramea binotata,species,Sooty Saddlebags,1,-84.339,10.9728,North America,Nicaragua,Nicaragua,2002-08-05,
+56898,Tramea abdominalis,species,Vermilion Saddlebags,1,-85.80302,13.58302,North America,Nicaragua,Nicaragua,2001-08-01,
+57001,Telebasis salva,species,Desert Firetail,1,-85.80302,13.58302,North America,Nicaragua,Nicaragua,2001-08-01,
+57002,Telebasis salva,species,Desert Firetail,1,-85.80864,13.5918,North America,Nicaragua,Nicaragua,2001-08-01,
+60630,Rhionaeschna psilus,species,Turquoise-tipped Darner,1,-85.78003,12.93978,North America,Nicaragua,Nicaragua,2009-03-08,
+60635,Rhionaeschna psilus,species,Turquoise-tipped Darner,1,-85.91049,12.99869,North America,Nicaragua,Nicaragua,2001-08-03,
+60926,Remartinia luteipennis,species,Malachite Darner,1,-85.91049,12.99869,North America,Nicaragua,Nicaragua,2001-08-03,
+61003,Protoneura cara,species,Orange-striped Threadtail,1,-85.9522,11.7013,North America,Nicaragua,Nicaragua,2009-03-14,
+62934,Pantala hymenaea,species,Spot-winged Glider,1,-85.73621,13.6355,North America,Nicaragua,Nicaragua,2001-07-31,
+63038,Paltothemis lineatipes,species,Red Rock Skimmer,1,-85.78003,12.93978,North America,Nicaragua,Nicaragua,2009-03-04,
+63871,Orthemis ferruginea,species,Roseate Skimmer,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-13,
+63872,Orthemis ferruginea,species,Roseate Skimmer,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-12,
+63920,Orthemis ferruginea,species,Roseate Skimmer,1,-85.80864,13.5918,North America,Nicaragua,Nicaragua,2001-08-01,
+64084,Orthemis discolor,species,Carmine Skimmer,1,-85.788,12.8971,North America,Nicaragua,Nicaragua,2009-03-09,
+64101,Orthemis discolor,species,Carmine Skimmer,1,-85.79217,13.56409,North America,Nicaragua,Nicaragua,2001-08-01,
+64102,Orthemis discolor,species,Carmine Skimmer,1,-85.80302,13.58302,North America,Nicaragua,Nicaragua,2001-08-01,
+64103,Orthemis discolor,species,Carmine Skimmer,1,-85.80864,13.5918,North America,Nicaragua,Nicaragua,2001-08-01,
+64742,Neoneura amelia,species,Amelia's Threadtail,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-13,
+64743,Neoneura amelia,species,Amelia's Threadtail,1,-85.9522,11.7013,North America,Nicaragua,Nicaragua,2009-03-14,
+64749,Neoneura amelia,species,Amelia's Threadtail,1,-84.339,10.9728,North America,Nicaragua,Nicaragua,2002-08-05,
+64784,Neoerythromma cultellatum,species,Caribbean Yellowface,1,-85.9522,11.7013,North America,Nicaragua,Nicaragua,2009-03-14,
+64786,Neoerythromma cultellatum,species,Caribbean Yellowface,1,-85.91049,12.99869,North America,Nicaragua,Nicaragua,2001-08-03,
+65171,Micrathyria hagenii,species,Thornbush Dasher,1,-85.80302,13.58302,North America,Nicaragua,Nicaragua,2001-08-01,
+65266,Micrathyria aequalis,species,Spot-tailed Dasher,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-13,
+65317,Miathyria marcella,species,Hyacinth Glider,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-13,
+65318,Miathyria marcella,species,Hyacinth Glider,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-12,
+65332,Miathyria marcella,species,Hyacinth Glider,1,-85.80302,13.58302,North America,Nicaragua,Nicaragua,2001-08-01,
+65333,Miathyria marcella,species,Hyacinth Glider,1,-84.339,10.9728,North America,Nicaragua,Nicaragua,2002-08-05,
+65449,Macrothemis inacuta,species,Straw-colored Sylph,1,-85.80864,13.5918,North America,Nicaragua,Nicaragua,2001-08-01,
+70544,Leptobasis vacillans,species,,1,-84.339,10.9728,North America,Nicaragua,Nicaragua,2002-08-05,
+71444,Ischnura ramburii,species,Rambur's Forktail,1,-85.91049,12.99869,North America,Nicaragua,Nicaragua,2001-08-03,
+72798,Hetaerina titia,species,Smoky Rubyspot,1,-84.339,10.9728,North America,Nicaragua,Nicaragua,2002-08-05,
+73584,Gynacantha mexicana,species,Bar-sided Darner,1,-85.9552,11.9298,North America,Nicaragua,Nicaragua,2009-03-11,
+75511,Erythrodiplax umbrata,species,Band-winged Dragonlet,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-12,
+75553,Erythrodiplax umbrata,species,Band-winged Dragonlet,1,-85.80302,13.58302,North America,Nicaragua,Nicaragua,2001-08-01,
+75747,Erythrodiplax fusca,species,Red-faced Dragonlet,1,-85.92837,13.15214,North America,Nicaragua,Nicaragua,2001-08-02,
+75748,Erythrodiplax fusca,species,Red-faced Dragonlet,1,-85.90359,13.24285,North America,Nicaragua,Nicaragua,2001-08-02,
+75749,Erythrodiplax fusca,species,Red-faced Dragonlet,1,-84.339,10.9728,North America,Nicaragua,Nicaragua,2002-08-05,
+75766,Erythrodiplax funerea,species,Black-winged Dragonlet,1,-85.9558,11.7097,North America,Nicaragua,Nicaragua,2009-03-14,
+75767,Erythrodiplax funerea,species,Black-winged Dragonlet,1,-85.9558,11.7097,North America,Nicaragua,Nicaragua,2009-03-13,
+75768,Erythrodiplax funerea,species,Black-winged Dragonlet,1,-85.80302,13.58302,North America,Nicaragua,Nicaragua,2001-08-01,
+75769,Erythrodiplax funerea,species,Black-winged Dragonlet,1,-84.339,10.9728,North America,Nicaragua,Nicaragua,2002-08-05,
+75907,Erythemis vesiculosa,species,Great Pondhawk,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-12,
+76787,Erythemis plebeja,species,Pin-tailed Pondhawk,1,-85.9558,11.7097,North America,Nicaragua,Nicaragua,2009-03-12,
+76850,Erythemis mithroides,species,Claret Pondhawk,1,-85.80302,13.58302,North America,Nicaragua,Nicaragua,2001-08-01,
+78663,Enallagma novaehispaniae,species,Neotropical Bluet,1,-85.92837,13.15214,North America,Nicaragua,Nicaragua,2001-08-02,
+78664,Enallagma novaehispaniae,species,Neotropical Bluet,1,-85.79217,13.56409,North America,Nicaragua,Nicaragua,2001-08-01,
+78665,Enallagma novaehispaniae,species,Neotropical Bluet,1,-85.80864,13.5918,North America,Nicaragua,Nicaragua,2001-08-01,
+79569,Enallagma civile,species,Familiar Bluet,1,-85.91049,12.99869,North America,Nicaragua,Nicaragua,2001-08-03,
+84175,Brechmorhoga pertinax,species,Masked Clubskimmer,1,-85.91049,12.99869,North America,Nicaragua,Nicaragua,2001-08-03,
+84176,Brechmorhoga pertinax,species,Masked Clubskimmer,1,-85.92837,13.15214,North America,Nicaragua,Nicaragua,2001-08-02,
+84177,Brechmorhoga pertinax,species,Masked Clubskimmer,1,-85.79217,13.56409,North America,Nicaragua,Nicaragua,2001-08-01,
+84178,Brechmorhoga pertinax,species,Masked Clubskimmer,1,-85.73621,13.6355,North America,Nicaragua,Nicaragua,2001-07-31,
+84179,Brechmorhoga pertinax,species,Masked Clubskimmer,1,-85.71,13.58667,North America,Nicaragua,Nicaragua,2001-07-29,
+85408,Argia translata,species,Dusky Dancer,1,-85.9558,11.7097,North America,Nicaragua,Nicaragua,2009-03-12,
+85451,Argia translata,species,Dusky Dancer,1,-85.79217,13.56409,North America,Nicaragua,Nicaragua,2001-08-01,
+85455,Argia translata,species,Dusky Dancer,1,-85.80864,13.5918,North America,Nicaragua,Nicaragua,2001-08-01,
+85457,Argia translata,species,Dusky Dancer,1,-84.339,10.9728,North America,Nicaragua,Nicaragua,2002-08-05,
+86286,Argia oenea,species,Fiery-eyed Dancer,1,-85.9558,11.7097,North America,Nicaragua,Nicaragua,2009-03-13,
+86287,Argia oenea,species,Fiery-eyed Dancer,1,-85.9522,11.7013,North America,Nicaragua,Nicaragua,2009-03-12,
+86288,Argia oenea,species,Fiery-eyed Dancer,1,-85.788,12.8971,North America,Nicaragua,Nicaragua,2009-03-09,
+86289,Argia oenea,species,Fiery-eyed Dancer,1,-85.9558,11.7097,North America,Nicaragua,Nicaragua,2009-03-12,
+86294,Argia oenea,species,Fiery-eyed Dancer,1,-85.92837,13.15214,North America,Nicaragua,Nicaragua,2001-08-02,
+86295,Argia oenea,species,Fiery-eyed Dancer,1,-85.79217,13.56409,North America,Nicaragua,Nicaragua,2001-08-01,
+86297,Argia oenea,species,Fiery-eyed Dancer,1,-85.80864,13.5918,North America,Nicaragua,Nicaragua,2001-08-01,
+87466,Argia extranea,species,Spine-tipped Dancer,1,-85.7814,12.9382,North America,Nicaragua,Nicaragua,2009-03-07,
+87467,Argia extranea,species,Spine-tipped Dancer,1,-85.78003,12.93978,North America,Nicaragua,Nicaragua,2009-03-04,
+88031,Archilestes grandis,species,Great Spreadwing,1,-85.788,12.8971,North America,Nicaragua,Nicaragua,2009-03-09,
+91268,Acanthagrion quadratum,species,Mexican Wedgetail,1,-85.92837,13.15214,North America,Nicaragua,Nicaragua,2001-08-02,
+91269,Acanthagrion quadratum,species,Mexican Wedgetail,1,-85.79217,13.56409,North America,Nicaragua,Nicaragua,2001-08-01,
+91270,Acanthagrion quadratum,species,Mexican Wedgetail,1,-85.80302,13.58302,North America,Nicaragua,Nicaragua,2001-08-01,
+91271,Acanthagrion quadratum,species,Mexican Wedgetail,1,-85.80864,13.5918,North America,Nicaragua,Nicaragua,2001-08-01,
+94164,Pantala flavescens,species,Wandering Glider,1,-85.95355,11.70864,North America,Nicaragua,Nicaragua,2009-03-12,
+47725,Tyrannus forficatus,species,Scissor-tailed Flycatcher,1,-85.9554157257,11.928622734,North America,Nicaragua,Nicaragua,2010-11-16,
+1386,Sphiggurus mexicanus,synonym,,1,-85.1631832123,12.2184053223,North America,Nicaragua,Nicaragua,2011-03-04,
+75915,Psittacara rubritorquis,species,Red-throated Parakeet,6,-85.955329895,11.9345010777,North America,Nicaragua,Nicaragua,2011-03-09,
+75917,Cathartes aura,species,Turkey Vulture,2,-85.9422836304,11.9294625052,North America,Nicaragua,Nicaragua,2011-03-09,
+75943,Jacana spinosa,species,Northern Jacana,3,-85.9422836304,11.9294625052,North America,Nicaragua,Nicaragua,2011-03-09,
+75951,Bubulcus ibis,species,Western Cattle Egret,9,-85.9422836304,11.9294625052,North America,Nicaragua,Nicaragua,2011-03-09,
+75965,Egretta tricolor,species,Tricolored Heron,1,-85.9422836304,11.9294625052,North America,Nicaragua,Nicaragua,2011-03-09,
+75969,Egretta thula,species,Snowy Egret,2,-85.9422836304,11.9294625052,North America,Nicaragua,Nicaragua,2011-03-09,
+75971,Ardea alba egretta,subspecies,American Great Egret,1,-85.9422836304,11.9294625052,North America,Nicaragua,Nicaragua,2011-03-09,
+78007,Psittacara rubritorquis,species,Red-throated Parakeet,2,-85.9546432495,11.937188278,North America,Nicaragua,Nicaragua,2011-03-08,
+81098,Jacana spinosa,species,Northern Jacana,5,-85.9390068054,11.9214498819,North America,Nicaragua,Nicaragua,2011-03-08,
+81110,Egretta caerulea,species,Little Blue Heron,1,-85.9390068054,11.9214498819,North America,Nicaragua,Nicaragua,2011-03-08,
+81114,Egretta tricolor,species,Tricolored Heron,1,-85.9390068054,11.9214498819,North America,Nicaragua,Nicaragua,2011-03-08,
+81119,Bubulcus ibis,species,Western Cattle Egret,9,-85.9390068054,11.9214498819,North America,Nicaragua,Nicaragua,2011-03-08,
+81128,Egretta thula,species,Snowy Egret,2,-85.9390068054,11.9214498819,North America,Nicaragua,Nicaragua,2011-03-08,
+81136,Ardea alba egretta,subspecies,American Great Egret,1,-85.9390068054,11.9214498819,North America,Nicaragua,Nicaragua,2011-03-08,
+85061,Psittacara rubritorquis,species,Red-throated Parakeet,6,-86.1616668701,11.9761496862,North America,Nicaragua,Nicaragua,2011-03-07,
+88973,Psittacara rubritorquis,species,Red-throated Parakeet,6,-85.9518814087,11.9335426558,North America,Nicaragua,Nicaragua,2011-03-07,
+90590,Psittacara rubritorquis,species,Red-throated Parakeet,2,-85.9513602257,11.9351098988,North America,Nicaragua,Nicaragua,2011-03-05,
+108631,Cyanocorax melanocyaneus,species,Bushy-crested Jay,1,-83.8009796142,12.2956880827,North America,Nicaragua,Nicaragua,2005-05-09,13:15
+732,Tyrannus forficatus,species,Scissor-tailed Flycatcher,1,-85.888381958,11.8014514797,North America,Nicaragua,Nicaragua,2010-11-15,
+754,Pandion haliaetus,species,Western Osprey,1,-85.7565460205,11.6938894392,North America,Nicaragua,Nicaragua,2010-11-16,
+758,Eumomota superciliosa,species,Turquoise-browed Motmot,2,-85.9460601807,11.8256471396,North America,Nicaragua,Nicaragua,2010-11-16,
+2852,Hemidactylus garnotii,species,Indo-Pacific Gecko,1,-85.976272583,11.758431704,North America,Nicaragua,Nicaragua,2010-11-15,
+63385,Ardea alba egretta,subspecies,American Great Egret,1,-85.9158325195,11.9103535558,North America,Nicaragua,Nicaragua,2010-02-21,
+65144,Calocitta formosa,species,White-throated Magpie-Jay,1,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65148,Psarocolius montezuma,species,Montezuma Oropendola,10,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65155,Quiscalus mexicanus,species,Great-tailed Grackle,8,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65164,Pandion haliaetus,species,Western Osprey,2,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65175,Himantopus mexicanus,species,Black-necked Stilt,7,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-21,
+65180,Himantopus mexicanus,species,Black-necked Stilt,7,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65193,Butorides virescens,species,Green Heron,1,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-21,
+65203,Egretta tricolor,species,Tricolored Heron,2,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65224,Bubulcus ibis,species,Western Cattle Egret,2,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65227,Egretta thula,species,Snowy Egret,3,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-21,
+65233,Egretta thula,species,Snowy Egret,1,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65239,Ardea alba egretta,subspecies,American Great Egret,8,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65247,Jacana spinosa,species,Northern Jacana,48,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-21,
+65250,Jacana spinosa,species,Northern Jacana,60,-85.9391784668,11.9271496163,North America,Nicaragua,Nicaragua,2010-02-20,
+65318,Psarocolius montezuma,species,Montezuma Oropendola,25,-85.1644706726,12.2186461839,North America,Nicaragua,Nicaragua,2010-02-14,
+65437,Bubulcus ibis,species,Western Cattle Egret,7,-85.1644706726,12.2186461839,North America,Nicaragua,Nicaragua,2010-02-14,
+99262,Alouatta palliata,species,Mantled Howler Monkey,1,-85.64849859,11.54318123,North America,Nicaragua,Nicaragua,2003-08-28,
+97253,Sciurus variegatoides dorsalis,subspecies,Variegated Squirrel ssp dorsalis,1,-85.61050418,11.51070761,North America,Nicaragua,Nicaragua,2003-08-28,
+37524,Thraupis episcopus,species,Blue-grey Tanager,1,-84.7791711,11.1213949,North America,Nicaragua,Nicaragua,2018-02-22,14:02
+37703,Piranga hepatica,species,Hepatic Tanager,1,-85.9081507,13.000885,North America,Nicaragua,Nicaragua,2018-02-11,08:30
+37901,Melanerpes santacruzi,species,Velasquez's Woodpecker,1,-85.9081507,13.000885,North America,Nicaragua,Nicaragua,2018-02-11,08:30
+38355,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,1,-86.0683295,11.9077973,North America,Nicaragua,Nicaragua,2018-01-27,11:00
+38356,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,2,-86.271566,12.123893,North America,Nicaragua,Nicaragua,2018-02-07,08:45
+25690,Thalasseus acuflavidus,species,Cabot's Tern,1,-84.804,11.1196,North America,Nicaragua,Nicaragua,2018-05-20,10:43
+26151,Sporophila morelleti,species,Morelet's Seedeater,1,-84.7776,11.1239,North America,Nicaragua,Nicaragua,2018-05-17,11:25
+26152,Thraupis episcopus,species,Blue-grey Tanager,1,-84.7774,11.1237,North America,Nicaragua,Nicaragua,2018-05-17,11:19
+26153,Dendrocygna autumnalis,species,Black-bellied Whistling Duck,14,-84.7178,11.1134,North America,Nicaragua,Nicaragua,2018-05-17,09:48
+26154,Actitis macularius,species,Spotted Sandpiper,2,-84.5482,11.0735,North America,Nicaragua,Nicaragua,2018-05-17,08:32
+26155,Actitis macularius,species,Spotted Sandpiper,1,-84.4882,11.0335,North America,Nicaragua,Nicaragua,2018-05-17,08:01
+26156,Actitis macularius,species,Spotted Sandpiper,1,-84.4408,10.9969,North America,Nicaragua,Nicaragua,2018-05-17,07:23
+26157,Actitis macularius,species,Spotted Sandpiper,2,-84.4184,11.016,North America,Nicaragua,Nicaragua,2018-05-17,07:02
+26158,Anhinga anhinga,species,Anhinga,1,-84.4115,11.0208,North America,Nicaragua,Nicaragua,2018-05-17,07:00
+26159,Chloroceryle amazona,species,Amazon Kingfisher,1,-84.4076,11.0237,North America,Nicaragua,Nicaragua,2018-05-17,06:58
+78794,Tachycineta albilinea,species,Mangrove Swallow,1,-84.3976,11.0201,North America,Nicaragua,Nicaragua,2018-05-15,14:26
+78795,Anhinga anhinga,species,Anhinga,2,-84.4737,11.0384,North America,Nicaragua,Nicaragua,2018-05-15,12:08
+78796,Dendrocygna autumnalis,species,Black-bellied Whistling Duck,3,-84.7132,11.1147,North America,Nicaragua,Nicaragua,2018-05-15,10:43
+78797,Pandion haliaetus,species,Western Osprey,1,-84.712,11.1146,North America,Nicaragua,Nicaragua,2018-05-15,10:43
+78798,Jacana spinosa,species,Northern Jacana,1,-84.7757,11.1165,North America,Nicaragua,Nicaragua,2018-05-15,07:07
+78799,Pandion haliaetus,species,Western Osprey,1,-84.7758,11.1165,North America,Nicaragua,Nicaragua,2018-05-15,06:51
+78800,Sporophila morelleti,species,Morelet's Seedeater,1,-84.7758,11.1162,North America,Nicaragua,Nicaragua,2018-05-15,06:23
+78801,Sporophila morelleti,species,Morelet's Seedeater,1,-84.7775,11.124,North America,Nicaragua,Nicaragua,2018-05-14,12:54
+78802,Thraupis episcopus,species,Blue-grey Tanager,1,-84.7773,11.1236,North America,Nicaragua,Nicaragua,2018-05-14,12:54
+78803,Thalasseus acuflavidus,species,Cabot's Tern,1,-84.7797,11.1214,North America,Nicaragua,Nicaragua,2018-05-14,11:56
+78804,Cathartes aura,species,Turkey Vulture,2,-84.7593,11.0995,North America,Nicaragua,Nicaragua,2018-05-14,10:45
+78805,Mycteria americana,species,Wood Stork,1,-84.757,11.106,North America,Nicaragua,Nicaragua,2018-05-14,10:17
+78806,Anhinga anhinga,species,Anhinga,1,-84.7573,11.1066,North America,Nicaragua,Nicaragua,2018-05-14,10:14
+78807,Jacana spinosa,species,Northern Jacana,1,-84.7589,11.1085,North America,Nicaragua,Nicaragua,2018-05-14,10:04
+78808,Chloroceryle amazona,species,Amazon Kingfisher,1,-84.7694,11.1155,North America,Nicaragua,Nicaragua,2018-05-14,09:15
+78809,Pandion haliaetus,species,Western Osprey,2,-84.7757,11.1164,North America,Nicaragua,Nicaragua,2018-05-14,07:02
+78810,Jacana spinosa,species,Northern Jacana,1,-84.7761,11.116,North America,Nicaragua,Nicaragua,2018-05-13,15:55
+78811,Thraupis episcopus,species,Blue-grey Tanager,1,-84.7756,11.1163,North America,Nicaragua,Nicaragua,2018-05-13,15:28
+111762,Phaethornis striigularis saturatus,subspecies,Stripe-throated Hermit ssp saturatus,5,-85.911026,12.91112625,North America,Nicaragua,Nicaragua,1993-12-01,
+305,Trogon caligatus,species,Gartered Trogon,2,-85.63173294,11.50811718,North America,Nicaragua,Nicaragua,1993-11-09,
+307,Amazona guatemalae virenticeps,subspecies,Northern Mealy Amazon ssp virenticeps,2,-85.63173294,11.50811718,North America,Nicaragua,Nicaragua,1993-11-09,
+599,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,10,-85.92883587,11.91257909,North America,Nicaragua,Nicaragua,1993-11-06,
+22998,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,1,-86.08260155,11.98550783,North America,Nicaragua,Nicaragua,1993-11-05,
+22118,Tigrisoma mexicanum,species,Bare-throated Tiger Heron,1,-85.94351468,11.97000396,North America,Nicaragua,Nicaragua,2018-02-14,
+22120,Gallinula galeata,species,Common Gallinule,1,-85.94351468,11.97000396,North America,Nicaragua,Nicaragua,2018-02-14,
+22134,Megaceryle torquata,species,Ringed Kingfisher,1,-85.91860537,11.91705856,North America,Nicaragua,Nicaragua,2018-02-11,
+112829,Amazona guatemalae virenticeps,subspecies,Northern Mealy Amazon ssp virenticeps,1,-84.79248047,11.14168733,North America,Nicaragua,Nicaragua,2018-02-12,16:00
+116252,Pachyramphus aglaiae,species,Rose-throated Becard,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,16:30
+116368,Rupornis magnirostris,species,Roadside Hawk,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116378,Psilorhinus morio,species,Brown Jay,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116384,Mycteria americana,species,Wood Stork,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116408,Choloepus hoffmanni,species,Hoffmann's Two-toed Sloth,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116413,Aramus guarauna,species,Limpkin,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116734,Jacana spinosa,species,Northern Jacana,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116739,Leucophaeus atricilla,species,Laughing Gull,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116746,Leucophaeus atricilla,species,Laughing Gull,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116751,Himantopus mexicanus,species,Black-necked Stilt,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116756,Platalea ajaja,species,Roseate Spoonbill,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-10,08:30
+116776,Porphyrio martinica,species,Purple Gallinule,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-09,07:30
+116782,Jacana spinosa,species,Northern Jacana,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-09,07:30
+116930,Himantopus mexicanus,species,Black-necked Stilt,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-09,07:30
+116961,Leucophaeus atricilla,species,Laughing Gull,1,-84.89959717,11.40784599,North America,Nicaragua,Nicaragua,2018-02-08,15:00
+117130,Thraupis episcopus,species,Blue-grey Tanager,1,-84.7869873,11.20096722,North America,Nicaragua,Nicaragua,2018-02-08,08:30
+117178,Passer domesticus,species,House Sparrow,1,-84.7869873,11.20096722,North America,Nicaragua,Nicaragua,2018-02-08,08:30
+117191,Egretta thula,species,Snowy Egret,1,-84.7869873,11.20096722,North America,Nicaragua,Nicaragua,2018-02-08,08:30
+117198,Pandion haliaetus,species,Western Osprey,1,-84.7869873,11.20096722,North America,Nicaragua,Nicaragua,2018-02-08,08:30
+8371,Momotus lessonii,species,Lesson's Motmot,1,-85.81014215,12.93480267,North America,Nicaragua,Nicaragua,2018-02-08,
+8896,Sporophila morelleti,species,Morelet's Seedeater,1,-86.18615043,12.1523067,North America,Nicaragua,Nicaragua,2018-02-02,
+8900,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,1,-86.18615043,12.1523067,North America,Nicaragua,Nicaragua,2018-02-02,
+11815,Ardea herodias,species,Great Blue Heron,1,-85.9519726,11.93000476,North America,Nicaragua,Nicaragua,2018-02-10,
+11818,Thalasseus maximus,species,Royal Tern,1,-85.9519726,11.93000476,North America,Nicaragua,Nicaragua,2018-02-10,
+11820,Thalasseus acuflavidus,species,Cabot's Tern,1,-85.9519726,11.93000476,North America,Nicaragua,Nicaragua,2018-02-10,
+11823,Egretta thula,species,Snowy Egret,1,-85.9519726,11.93000476,North America,Nicaragua,Nicaragua,2018-02-10,
+42101,Sporophila morelleti,species,Morelet's Seedeater,1,-84.79357917,11.21282164,North America,Nicaragua,Nicaragua,2018-02-07,08:30
+42102,Mycteria americana,species,Wood Stork,2,-84.79357917,11.21282164,North America,Nicaragua,Nicaragua,2018-02-07,08:30
+42103,Passer domesticus,species,House Sparrow,1,-84.79357917,11.21282164,North America,Nicaragua,Nicaragua,2018-02-07,08:30
+42104,Egretta thula,species,Snowy Egret,1,-84.79357917,11.21282164,North America,Nicaragua,Nicaragua,2018-02-07,08:30
+42105,Porphyrio martinica,species,Purple Gallinule,1,-84.79357917,11.21282164,North America,Nicaragua,Nicaragua,2018-02-07,08:30
+42106,Pandion haliaetus,species,Western Osprey,1,-84.79357917,11.21282164,North America,Nicaragua,Nicaragua,2018-02-07,08:30
+42107,Egretta thula,species,Snowy Egret,1,-84.79357917,11.21282164,North America,Nicaragua,Nicaragua,2018-02-06,16:00
+42108,Passer domesticus,species,House Sparrow,1,-84.79357917,11.21282164,North America,Nicaragua,Nicaragua,2018-02-06,16:00
+42109,Pandion haliaetus,species,Western Osprey,1,-84.79357917,11.21282164,North America,Nicaragua,Nicaragua,2018-02-06,16:00
+107011,Agalychnis callidryas,species,Red-eyed Treefrog,1,-85.9800911,11.83367932,North America,Nicaragua,Nicaragua,2009-12-28,
+111542,Megaceryle torquata,species,Ringed Kingfisher,1,-85.9230423,11.89221264,North America,Nicaragua,Nicaragua,2017-12-03,
+111549,Megaceryle alcyon,species,Belted Kingfisher,1,-85.922953333333,11.874868333333,North America,Nicaragua,Nicaragua,2017-12-03,22:33
+111776,Tachycineta albilinea,species,Mangrove Swallow,1,-84.472685,11.038376666667,North America,Nicaragua,Nicaragua,2017-12-07,06:32
+111790,Chloroceryle amazona,species,Amazon Kingfisher,1,-84.468558333333,11.03587,North America,Nicaragua,Nicaragua,2017-12-07,06:24
+112192,Tachycineta albilinea,species,Mangrove Swallow,3,-84.46825504,11.03562484,North America,Nicaragua,Nicaragua,2017-12-06,
+112510,Anhinga anhinga,species,Anhinga,1,-84.467966666667,11.035395,North America,Nicaragua,Nicaragua,2017-12-06,14:50
+112577,Actitis macularius,species,Spotted Sandpiper,1,-84.468,11.035441666667,North America,Nicaragua,Nicaragua,2017-12-06,14:50
+112832,Elanus leucurus majusculus,subspecies,White-tailed Kite ssp majusculus,1,-84.50598,11.044928333333,North America,Nicaragua,Nicaragua,2017-12-06,13:40
+112867,Pandion haliaetus,species,Western Osprey,1,-84.66293,11.124888333333,North America,Nicaragua,Nicaragua,2017-12-06,12:34
+113293,Cathartes burrovianus burrovianus,subspecies,Lesser Yellow-headed Vulture ssp burrovianus,1,-84.719785,11.113345,North America,Nicaragua,Nicaragua,2017-12-06,12:17
+113607,Coragyps atratus,species,Black Vulture,1,-84.779661666667,11.12142,North America,Nicaragua,Nicaragua,2017-12-06,09:42
+113701,Thraupis episcopus cana,subspecies,Blue-grey Tanager ssp cana,1,-84.77617264,11.12308186,North America,Nicaragua,Nicaragua,2017-12-06,
+113940,Pelecanus occidentalis carolinensis,subspecies,Brown Pelican ssp carolinensis,1,-84.779791666667,11.121551666667,North America,Nicaragua,Nicaragua,2017-12-06,08:33
+113953,Thraupis palmarum atripennis,subspecies,Palm Tanager ssp atripennis,1,-84.77971852,11.12363362,North America,Nicaragua,Nicaragua,2017-12-06,
+114269,Thraupis abbas,species,Yellow-winged Tanager,1,-84.77971852,11.12363362,North America,Nicaragua,Nicaragua,2017-12-06,
+115074,Cathartes aura,species,Turkey Vulture,1,-85.923441666667,11.876618333333,North America,Nicaragua,Nicaragua,2017-12-03,23:47
+115080,Falco peregrinus tundrius,subspecies,Peregrine Falcon ssp tundrius,1,-85.92311,11.874918333333,North America,Nicaragua,Nicaragua,2017-12-03,23:31
+115211,Alouatta palliata,species,Mantled Howler Monkey,1,-85.923568333333,11.875835,North America,Nicaragua,Nicaragua,2017-12-03,22:27
+115226,Ardea herodias,species,Great Blue Heron,1,-85.912153333333,11.88459,North America,Nicaragua,Nicaragua,2017-12-03,22:09
+115279,Pandion haliaetus carolinensis,subspecies,American Osprey,1,-85.911096666667,11.889896666667,North America,Nicaragua,Nicaragua,2017-12-03,22:01
+115377,Tigrisoma mexicanum,species,Bare-throated Tiger Heron,1,-85.911193333333,11.889966666667,North America,Nicaragua,Nicaragua,2017-12-03,22:01
+115628,Caracara cheriway,species,Northern Crested Caracara,1,-85.912681666667,11.890675,North America,Nicaragua,Nicaragua,2017-12-03,21:59
+115637,Egretta thula,species,Snowy Egret,1,-85.913335,11.89108,North America,Nicaragua,Nicaragua,2017-12-03,21:58
+115640,Cathartes aura,species,Turkey Vulture,1,-85.913781666667,11.891281666667,North America,Nicaragua,Nicaragua,2017-12-03,21:58
+115657,Ardea alba egretta,subspecies,American Great Egret,1,-85.913998333333,11.89125,North America,Nicaragua,Nicaragua,2017-12-03,21:57
+115700,Nycticorax nycticorax,species,Black-crowned Night Heron,1,-85.922361666667,11.891775,North America,Nicaragua,Nicaragua,2017-12-03,21:45
+116402,Phalacrocorax brasilianus,species,Neotropic Cormorant,1,-85.929186666667,11.898721666667,North America,Nicaragua,Nicaragua,2017-12-03,21:25
+86149,Lepidochelys olivacea,species,Olive Ridley Sea Turtle,70,-86.99606143,12.34188377,North America,Nicaragua,Nicaragua,2017-12-17,09:58
+43213,Trogon massena,species,Slaty-tailed Trogon,1,-84.53207,11.05111159,North America,Nicaragua,Nicaragua,2017-12-07,09:51
+101886,Egretta thula,species,Snowy Egret,1,-85.59799813,11.55430389,North America,Nicaragua,Nicaragua,2011-07-05,
+101915,Calocitta formosa,species,White-throated Magpie-Jay,1,-85.59799813,11.55430389,North America,Nicaragua,Nicaragua,2011-07-05,
+101946,Egretta tricolor,species,Tricolored Heron,1,-85.91671145,11.91992071,North America,Nicaragua,Nicaragua,2011-07-05,
+110611,Jacana spinosa,species,Northern Jacana,1,-85.91671145,11.91992071,North America,Nicaragua,Nicaragua,2011-07-05,
+110781,Ardea alba egretta,subspecies,American Great Egret,1,-85.91671145,11.91992071,North America,Nicaragua,Nicaragua,2011-07-05,
+122548,Campylorhynchus capistratus nicaraguae,subspecies,Rufous-backed Wren ssp nicaraguae,1,-85.9915,12.9206,North America,Nicaragua,Nicaragua,2017-09-29,08:21
+43125,Ithomia patilla,species,,1,-85.97495556,11.83832029,North America,Nicaragua,Nicaragua,2009-12-28,
+20448,Alouatta palliata,species,Mantled Howler Monkey,1,-85.58166507,11.51070761,North America,Nicaragua,Nicaragua,2010-08-17,
+105869,Campylorhynchus capistratus,species,Rufous-backed Wren,1,-86.06848061,11.91228236,North America,Nicaragua,Nicaragua,2017-05-07,
+80717,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,1,-87.4568,12.75,North America,Nicaragua,Nicaragua,2017-02-09,06:38
+28011,Tyto furcata,species,American Barn Owl,1,-86.87876701,12.43498402,North America,Nicaragua,Nicaragua,2017-02-03,21:35
+37158,Aramides albiventris plumbeicollis,subspecies,Rufous-naped Wood Rail ssp plumbeicollis,1,-85.0522,11.0355,North America,Nicaragua,Nicaragua,2017-02-01,10:06
+71527,Sporophila morelleti,species,Morelet's Seedeater,5,-84.5557,11.0969,North America,Nicaragua,Nicaragua,2017-01-25,15:40
+71530,Anhinga anhinga,species,Anhinga,5,-84.4451,11.0006,North America,Nicaragua,Nicaragua,2017-01-25,11:17
+107273,Amazona guatemalae virenticeps,subspecies,Northern Mealy Amazon ssp virenticeps,2,-84.3095,10.986,North America,Nicaragua,Nicaragua,2017-01-25,07:24
+107274,Amazona guatemalae virenticeps,subspecies,Northern Mealy Amazon ssp virenticeps,2,-84.3096,10.9859,North America,Nicaragua,Nicaragua,2017-01-24,06:12
+107275,Amazona guatemalae virenticeps,subspecies,Northern Mealy Amazon ssp virenticeps,2,-84.3096,10.986,North America,Nicaragua,Nicaragua,2017-01-23,17:03
+107276,Chloroceryle amazona,species,Amazon Kingfisher,1,-84.3945,11.0162,North America,Nicaragua,Nicaragua,2017-01-23,06:52
+11138,Sporophila morelleti,species,Morelet's Seedeater,1,-84.3952,11.0159,North America,Nicaragua,Nicaragua,2017-01-22,06:17
+24715,Tachycineta albilinea,species,Mangrove Swallow,6,-84.3959,11.0179,North America,Nicaragua,Nicaragua,2017-01-21,10:49
+24716,Chloroceryle amazona,species,Amazon Kingfisher,1,-84.3962,11.0179,North America,Nicaragua,Nicaragua,2017-01-21,09:40
+54739,Megaceryle torquata,species,Ringed Kingfisher,1,-85.9307,11.9127,North America,Nicaragua,Nicaragua,2017-01-18,16:19
+54740,Pandion haliaetus,species,Western Osprey,2,-85.938,11.9195,North America,Nicaragua,Nicaragua,2017-01-18,14:35
+111772,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,2,-86.053,11.9376,North America,Nicaragua,Nicaragua,2017-01-11,09:28
+15848,Megaceryle torquata,species,Ringed Kingfisher,1,-86.0527,11.9353,North America,Nicaragua,Nicaragua,2017-01-09,06:26
+15849,Pandion haliaetus,species,Western Osprey,1,-86.0519,11.9365,North America,Nicaragua,Nicaragua,2017-01-09,06:18
+18293,Fregata magnificens,species,Magnificent Frigatebird,1,-86.0349,11.9471,North America,Nicaragua,Nicaragua,2017-01-08,16:03
+28088,Actitis macularius,species,Spotted Sandpiper,1,-86.0493,11.9388,North America,Nicaragua,Nicaragua,2017-01-08,06:36
+28089,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,3,-86.0493,11.9388,North America,Nicaragua,Nicaragua,2017-01-08,06:36
+72145,Aramides albiventris pacificus,subspecies,Rufous-naped Wood Rail ssp pacificus,1,-86.26026034,13.24290104,North America,Nicaragua,Nicaragua,2017-01-01,14:04
+96201,Sporophila morelleti,species,Morelet's Seedeater,1,-86.256,13.2416,North America,Nicaragua,Nicaragua,2016-12-31,11:44
+64212,Sporophila morelleti,species,Morelet's Seedeater,1,-84.5444116666667,11.084015,North America,Nicaragua,Nicaragua,2016-12-20,06:19
+64213,Tachycineta albilinea,species,Mangrove Swallow,1,-84.54735,11.0840933333333,North America,Nicaragua,Nicaragua,2016-12-20,07:01
+64215,Aramides albiventris plumbeicollis,subspecies,Rufous-naped Wood Rail ssp plumbeicollis,1,-84.5413833333333,11.08362,North America,Nicaragua,Nicaragua,2016-12-21,10:29
+64216,Thraupis episcopus,species,Blue-grey Tanager,2,-84.7792816666667,11.1218283333333,North America,Nicaragua,Nicaragua,2016-12-21,15:37
+64741,Campylorhynchus capistratus nicaraguae,subspecies,Rufous-backed Wren ssp nicaraguae,4,-86.5551,13.0811,North America,Nicaragua,Nicaragua,2016-12-20,15:21
+64742,Campylorhynchus capistratus nicaraguae,subspecies,Rufous-backed Wren ssp nicaraguae,2,-86.5579,13.0808,North America,Nicaragua,Nicaragua,2016-12-19,06:02
+64743,Campylorhynchus capistratus nicaraguae,subspecies,Rufous-backed Wren ssp nicaraguae,4,-86.5579,13.0837,North America,Nicaragua,Nicaragua,2016-12-18,15:45
+113101,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,3,-86.9419,12.4446,North America,Nicaragua,Nicaragua,2016-12-17,12:12
+58504,Calocitta formosa,species,White-throated Magpie-Jay,3,-85.6338285,11.47678163,North America,Nicaragua,Nicaragua,2016-08-26,
+58506,Bubulcus ibis,species,Western Cattle Egret,1,-85.6338285,11.47678163,North America,Nicaragua,Nicaragua,2016-08-26,
+58526,Calocitta formosa,species,White-throated Magpie-Jay,1,-85.52741947,11.42574768,North America,Nicaragua,Nicaragua,2016-08-25,
+58580,Lepidochelys olivacea,species,Olive Ridley Sea Turtle,1,-85.79389544,11.14124311,North America,Nicaragua,Nicaragua,2016-08-23,
+58588,Fregata magnificens,species,Magnificent Frigatebird,3,-85.91448755,11.29657462,North America,Nicaragua,Nicaragua,2016-08-23,
+58604,Tyto furcata,species,American Barn Owl,1,-85.05000086,11.06489393,North America,Nicaragua,Nicaragua,2016-08-21,
+58606,Megaceryle torquata,species,Ringed Kingfisher,1,-85.05000086,11.06489393,North America,Nicaragua,Nicaragua,2016-08-21,
+58675,Aramides albiventris plumbeicollis,subspecies,Rufous-naped Wood Rail ssp plumbeicollis,1,-85.05000086,11.06489393,North America,Nicaragua,Nicaragua,2016-08-21,
+58677,Coragyps atratus,species,Black Vulture,26,-85.05000086,11.06489393,North America,Nicaragua,Nicaragua,2016-08-21,
+58678,Ardea alba,species,Great Egret,1,-85.05000086,11.06489393,North America,Nicaragua,Nicaragua,2016-08-21,
+58681,Megaceryle torquata,species,Ringed Kingfisher,1,-85.04783385,11.05854096,North America,Nicaragua,Nicaragua,2016-08-21,
+58684,Alouatta palliata,species,Mantled Howler Monkey,10,-85.04783385,11.05854096,North America,Nicaragua,Nicaragua,2016-08-21,
+59569,Megaceryle torquata,species,Ringed Kingfisher,1,-85.04783385,11.05854096,North America,Nicaragua,Nicaragua,2016-08-20,
+59571,Chloroceryle aenea,species,American Pygmy Kingfisher,1,-85.04783385,11.05854096,North America,Nicaragua,Nicaragua,2016-08-20,
+59572,Aramides albiventris plumbeicollis,subspecies,Rufous-naped Wood Rail ssp plumbeicollis,1,-85.04783385,11.05854096,North America,Nicaragua,Nicaragua,2016-08-20,
+59596,Bubulcus ibis,species,Western Cattle Egret,1,-85.04783385,11.05854096,North America,Nicaragua,Nicaragua,2016-08-20,
+59644,Basiliscus plumifrons,species,Green Basilisk,1,-84.46798296,11.03563466,North America,Nicaragua,Nicaragua,2016-08-18,
+59661,Actitis macularius,species,Spotted Sandpiper,1,-84.46798296,11.03563466,North America,Nicaragua,Nicaragua,2016-08-18,
+59664,Chloroceryle amazona,species,Amazon Kingfisher,1,-84.46798296,11.03563466,North America,Nicaragua,Nicaragua,2016-08-18,
+59666,Thraupis episcopus,species,Blue-grey Tanager,1,-84.46798296,11.03563466,North America,Nicaragua,Nicaragua,2016-08-18,
+59673,Ardea alba,species,Great Egret,1,-84.46798296,11.03563466,North America,Nicaragua,Nicaragua,2016-08-18,
+59677,Anhinga anhinga,species,Anhinga,1,-84.46798296,11.03563466,North America,Nicaragua,Nicaragua,2016-08-18,
+64719,Actitis macularius,species,Spotted Sandpiper,1,-84.39494104,11.0167496,North America,Nicaragua,Nicaragua,2016-08-16,
+64720,Thraupis episcopus,species,Blue-grey Tanager,1,-84.39494104,11.0167496,North America,Nicaragua,Nicaragua,2016-08-16,
+64723,Tachycineta albilinea,species,Mangrove Swallow,1,-84.39494104,11.0167496,North America,Nicaragua,Nicaragua,2016-08-16,
+64734,Chlorothraupis carmioli carmioli,subspecies,Carmiol's Tanager ssp carmioli,1,-84.31033859,10.984261,North America,Nicaragua,Nicaragua,2016-08-15,
+64735,Megaceryle torquata,species,Ringed Kingfisher,1,-84.31033859,10.984261,North America,Nicaragua,Nicaragua,2016-08-15,
+64743,Thraupis episcopus,species,Blue-grey Tanager,1,-84.31033859,10.984261,North America,Nicaragua,Nicaragua,2016-08-15,
+64760,Dendrobates auratus,species,Green Poison Frog,1,-84.31033859,10.984261,North America,Nicaragua,Nicaragua,2016-08-14,
+64785,Amazona guatemalae virenticeps,subspecies,Northern Mealy Amazon ssp virenticeps,2,-84.31308518,10.98358693,North America,Nicaragua,Nicaragua,2016-08-14,
+64824,Thraupis episcopus,species,Blue-grey Tanager,1,-84.31194191,10.98244439,North America,Nicaragua,Nicaragua,2016-08-14,
+64831,Megaceryle torquata,species,Ringed Kingfisher,1,-84.31194191,10.98244439,North America,Nicaragua,Nicaragua,2016-08-14,
+64836,Ardea alba,species,Great Egret,1,-84.39547062,11.01744676,North America,Nicaragua,Nicaragua,2016-08-13,
+64838,Tachycineta albilinea,species,Mangrove Swallow,1,-84.39547062,11.01744676,North America,Nicaragua,Nicaragua,2016-08-13,
+64840,Anhinga anhinga,species,Anhinga,1,-84.39547062,11.01744676,North America,Nicaragua,Nicaragua,2016-08-13,
+64841,Megaceryle torquata,species,Ringed Kingfisher,1,-84.39547062,11.01744676,North America,Nicaragua,Nicaragua,2016-08-13,
+64919,Fregata magnificens,species,Magnificent Frigatebird,2,-86.01974259,11.90994372,North America,Nicaragua,Nicaragua,2016-08-12,
+64923,Megaceryle torquata,species,Ringed Kingfisher,1,-86.01974259,11.90994372,North America,Nicaragua,Nicaragua,2016-08-12,
+64932,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,1,-85.94101653,11.92865659,North America,Nicaragua,Nicaragua,2016-08-11,
+64934,Pandion haliaetus,species,Western Osprey,1,-85.94101653,11.92865659,North America,Nicaragua,Nicaragua,2016-08-11,
+64938,Ardea herodias,species,Great Blue Heron,1,-85.94101653,11.92865659,North America,Nicaragua,Nicaragua,2016-08-11,
+64942,Egretta thula,species,Snowy Egret,1,-85.94101653,11.92865659,North America,Nicaragua,Nicaragua,2016-08-11,
+39770,Calocitta formosa,species,White-throated Magpie-Jay,2,-86.263754939719,12.085808730378,North America,Nicaragua,Nicaragua,2016-11-06,15:00
+39771,Campylorhynchus capistratus capistratus,subspecies,Rufous-backed Wren ssp capistratus,4,-86.237946724905,12.097495747775,North America,Nicaragua,Nicaragua,2016-11-06,
+39772,Tyrannus melancholicus,species,Tropical Kingbird,2,-86.237946724905,12.097495747775,North America,Nicaragua,Nicaragua,2016-11-06,
+62733,Butorides virescens,species,Green Heron,1,-85.632905967068,11.478312923944,North America,Nicaragua,Nicaragua,2003-08-29,
+62741,Melanerpes santacruzi,species,Velasquez's Woodpecker,1,-85.632905967068,11.478312923944,North America,Nicaragua,Nicaragua,2003-08-29,
+62790,Phalacrocorax brasilianus,species,Neotropic Cormorant,1,-85.632905967068,11.478312923944,North America,Nicaragua,Nicaragua,2003-08-29,
+62883,Cathartes aura,species,Turkey Vulture,1,-85.586814866401,11.529922002633,North America,Nicaragua,Nicaragua,2003-08-29,
+63095,Calocitta formosa,species,White-throated Magpie-Jay,1,-85.556259141304,11.510858964848,North America,Nicaragua,Nicaragua,2003-08-29,
+63120,Ardea alba,species,Great Egret,1,-85.884819016792,11.77605422367,North America,Nicaragua,Nicaragua - Archipiélago  de Zapatera NP,2003-08-27,
+63129,Butorides virescens,species,Green Heron,1,-85.884819016792,11.77605422367,North America,Nicaragua,Nicaragua - Archipiélago  de Zapatera NP,2003-08-27,
+63162,Tigrisoma mexicanum,species,Bare-throated Tiger Heron,1,-85.889039037866,11.784377400337,North America,Nicaragua,Nicaragua,2003-08-27,
+63180,Phalacrocorax brasilianus,species,Neotropic Cormorant,1,-85.889039037866,11.784377400337,North America,Nicaragua,Nicaragua,2003-08-27,
+63185,Ardea alba,species,Great Egret,1,-85.889039037866,11.784377400337,North America,Nicaragua,Nicaragua,2003-08-27,
+63475,Coragyps atratus,species,Black Vulture,1,-86.166057579685,11.99605574644,North America,Nicaragua,Nicaragua - Volcán  Masaya NP,2003-08-26,
+43376,Boa constrictor,species,Boa Constrictor,2,-85.517977774143,11.188252063841,North America,Nicaragua,Nicaragua,2014-06-29,15:00
+22866,Calocitta formosa,species,White-throated Magpie-Jay,1,-85.5091,11.4826,North America,Nicaragua,Nicaragua,2016-01-15,10:06
+22867,Calocitta formosa,species,White-throated Magpie-Jay,4,-85.6388,11.4808,North America,Nicaragua,Nicaragua,2016-01-15,06:10
+22868,Egretta thula,species,Snowy Egret,1,-85.942,11.9294,North America,Nicaragua,Nicaragua,2016-01-14,11:05
+22869,Bubulcus ibis,species,Western Cattle Egret,10,-85.9205,11.9206,North America,Nicaragua,Nicaragua,2016-01-13,17:45
+24821,Bubulcus ibis,species,Western Cattle Egret,1,-85.4976511004,11.4694878247,North America,Nicaragua,Nicaragua,2004-12-31,
+24825,Ananas comosus,species,Pineapple,1,-85.4976511004,11.4694878247,North America,Nicaragua,Nicaragua,2004-12-31,
+24836,Hibiscus rosa-sinensis,species,China-rose,1,-85.4976511004,11.4694878247,North America,Nicaragua,Nicaragua,2004-12-31,
+24843,Alouatta palliata,species,Mantled Howler Monkey,1,-85.4976511004,11.4694878247,North America,Nicaragua,Nicaragua,2004-12-31,
+25228,Astraptes egregius egregius,subspecies,Small-spotted Flasher,1,-85.9718513506,11.8281890862,North America,Nicaragua,Nicaragua,2004-12-30,
+25235,Pareuptychia ocirrhoe,species,,1,-85.9718513506,11.8281890862,North America,Nicaragua,Nicaragua,2004-12-30,
+25242,Morpho helenor,species,Helenor Morpho,1,-85.9718513506,11.8281890862,North America,Nicaragua,Nicaragua,2004-12-30,
+25357,Begonia spec.,multispecies,,1,-85.9718513506,11.8281890862,North America,Nicaragua,Nicaragua,2004-12-30,
+25649,Tyrannus forficatus,species,Scissor-tailed Flycatcher,1,-86.6067552569,12.1135073458,North America,Nicaragua,Nicaragua,2004-12-28,
+30181,Nycticorax nycticorax hoactli,subspecies,Black-crowned Night Heron ssp hoactli,1,-86.9927215594,12.3395658259,North America,Nicaragua,Nicaragua,2004-12-27,
+30204,Himantopus mexicanus mexicanus,subspecies,Black-necked Stilt ssp mexicanus,1,-86.9927215594,12.3395658259,North America,Nicaragua,Nicaragua,2004-12-27,
+30211,Tachycineta albilinea,species,Mangrove Swallow,1,-86.9927215594,12.3395658259,North America,Nicaragua,Nicaragua,2004-12-27,
+37446,Ctenosaura similis,species,Black Iguana,1,-86.8984794608,12.4422019729,North America,Nicaragua,Nicaragua,2004-12-27,
+37462,Quiscalus mexicanus mexicanus,subspecies,Great-tailed Grackle ssp mexicanus,1,-86.3629388814,13.0902587761,North America,Nicaragua,Nicaragua,2004-12-26,
+106896,Cathartes aura,species,Turkey Vulture,1,-85.6226348877,11.4874265458,North America,Nicaragua,Nicaragua,2003-12-20,
+107067,Coragyps atratus,species,Black Vulture,1,-86.1672735214,11.9846262547,North America,Nicaragua,Nicaragua - Volcán  Masaya NP,2003-12-18,
+35736,Gallinula galeata,species,Common Gallinule,10,-86.2827221533,12.1636571558,North America,Nicaragua,Nicaragua,2015-03-22,
+35737,Tyrannus melancholicus,species,Tropical Kingbird,1,-86.2364164968,12.0970578276,North America,Nicaragua,Nicaragua,2015-03-21,

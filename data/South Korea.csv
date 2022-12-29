@@ -1,0 +1,929 @@
+,scientificName,taxonRank,vernacularName,individualCount,longitudeDecimal,latitudeDecimal,continent,country,locality,eventDate,eventTime
+79390,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.585857,36.707655,Asia,South Korea,South Korea,2011-10-21,07:14
+79766,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.832208333,37.3233416667,Asia,South Korea,South Korea - Seoul,2009-05-11,
+80653,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.841977239,37.2708161938,Asia,South Korea,South Korea,2009-05-11,
+83086,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.663888889,37.3,Asia,South Korea,South Korea - Seoul,2009-05-10,13:00
+85657,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.648683333,37.4124694444,Asia,South Korea,South Korea - Seoul,2009-05-07,17:15
+98411,Sittiparus varius,species,Varied Tit,1,126.982061863,37.5531175322,Asia,South Korea,South Korea - Seoul,2012-06-19,
+98413,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,126.982061863,37.5531175322,Asia,South Korea,South Korea - Seoul,2012-06-19,
+112713,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,1,127.0078165177256,37.57859545759857,Asia,South Korea,South Korea - Seoul,2014-12-29,05:50
+69637,Xenus cinereus,species,Terek Sandpiper,1,126.755,36.0082,Asia,South Korea,South Korea,2014-10-04,15:07
+69638,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.7672,36.0233,Asia,South Korea,South Korea,2014-10-04,12:03
+69639,Parus minor minor,subspecies,Japanese Tit ssp minor,1,126.7648,36.0194,Asia,South Korea,South Korea,2014-10-04,11:43
+85462,Gallicrex cinerea,species,Watercock,1,126.449252693,37.4583335993,Asia,South Korea,South Korea - Seoul,2014-09-30,21:00
+89789,Parus minor minor,subspecies,Japanese Tit ssp minor,1,127.3552,36.3325,Asia,South Korea,South Korea,2014-10-03,13:25
+89790,Streptopelia orientalis,species,Oriental Turtle Dove,1,127.3505,36.346,Asia,South Korea,South Korea,2014-10-03,10:54
+89791,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,127.3491,36.3472,Asia,South Korea,South Korea,2014-10-03,10:46
+89792,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,127.3501,36.3543,Asia,South Korea,South Korea,2014-10-03,09:59
+69712,Euphorbia maculata,species,Spotted Spurge,1,126.459052563,37.4433217855,Asia,South Korea,South Korea,2014-07-28,15:13
+66429,Orthetrum albistylum,species,White-tailed Skimmer,1,126.460597515,37.4430619795,Asia,South Korea,South Korea,2014-07-28,15:13
+106966,Ischnura asiatica,species,Asian Bluetail,1,126.4604,37.4435,Asia,South Korea,South Korea,2014-07-28,15:13
+106967,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,5,126.4611,37.4432,Asia,South Korea,South Korea,2014-07-28,15:15
+106968,Pantala flavescens,species,Wandering Glider,501,126.4572,37.4429,Asia,South Korea,South Korea,2014-07-28,14:56
+106969,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.4573,37.4426,Asia,South Korea,South Korea,2014-07-28,14:52
+41399,Platalea minor,species,Black-faced Spoonbill,3,126.756335199,36.009671518,Asia,South Korea,South Korea,2014-04-25,19:30
+41406,Calidris acuminata,species,Sharp-tailed Sandpiper,30,126.756335199,36.009671518,Asia,South Korea,South Korea,2014-04-25,17:00
+40406,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,12,127.355089411,36.3391715443,Asia,South Korea,South Korea,2014-04-21,10:59
+40417,Cyanopica cyanus koreensis,synonym,,3,127.355089411,36.3391715443,Asia,South Korea,South Korea,2014-04-21,11:03
+40460,Ardea alba modesta,subspecies,Great Egret ssp modesta,1,127.352836356,36.3411765386,Asia,South Korea,South Korea,2014-05-04,12:15
+40705,Falco subbuteo,species,Eurasian Hobby,1,127.354424223,36.3380998883,Asia,South Korea,South Korea,2014-05-06,09:07
+40721,Falco tinnunculus,species,Common Kestrel,1,127.354016528,36.3375640547,Asia,South Korea,South Korea,2014-05-06,09:14
+41242,Remiz consobrinus,species,Chinese Penduline Tit,2,127.354874834,36.334469976,Asia,South Korea,South Korea,2014-05-05,10:47
+48027,Calidris acuminata,species,Sharp-tailed Sandpiper,72,126.756492108,36.0102969277,Asia,South Korea,South Korea,2014-04-26,09:31
+48032,Limosa lapponica,species,Bar-tailed Godwit,100,126.756492108,36.0102969277,Asia,South Korea,South Korea,2014-04-26,10:03
+48034,Xenus cinereus,species,Terek Sandpiper,23,126.756492108,36.0102969277,Asia,South Korea,South Korea,2014-04-26,10:02
+49937,Ardea cinerea jouyi,subspecies,Grey Heron ssp jouyi,10,127.396574467,36.3742339446,Asia,South Korea,South Korea,2014-04-29,12:23
+50083,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,35,127.410092801,36.3886760683,Asia,South Korea,South Korea,2014-04-29,11:37
+50125,Lepidium spec.,multispecies,Whitetop,2,127.410693616,36.4233538464,Asia,South Korea,South Korea,2014-04-29,10:36
+50152,Thlaspi arvense,species,Field Penny-cress,2,127.406616658,36.4260818195,Asia,South Korea,South Korea,2014-04-29,10:27
+55683,Motacilla grandis,species,Japanese Wagtail,6,127.391682118,36.4373725366,Asia,South Korea,South Korea,2014-04-29,11:34
+55708,Anas zonorhyncha,species,Eastern Spot-billed Duck,30,127.3949866,36.435335495,Asia,South Korea,South Korea,2014-04-29,11:39
+63924,Turdus obscurus,species,Eyebrowed Thrush,1,127.355175242,36.3370282175,Asia,South Korea,South Korea,2014-05-03,10:30
+67487,Larvivora cyane cyane,subspecies,Siberian Blue Robin ssp cyane,1,127.35427402,36.3367516549,Asia,South Korea,South Korea,2014-05-05,07:00
+74661,Tringa brevipes,species,Grey-tailed Tattler,1,129.123874158,35.1228916889,Asia,South Korea,South Korea,2014-05-01,09:55
+75385,Muscicapa dauurica,species,Asian Brown Flycatcher,1,129.125368819,35.1116236619,Asia,South Korea,South Korea,2014-05-01,11:26
+75420,Fringilla montifringilla,species,Brambling,5,129.125368819,35.1116236619,Asia,South Korea,South Korea,2014-05-01,11:26
+75422,Bombycilla japonica,species,Japanese Waxwing,5,129.125368819,35.1116236619,Asia,South Korea,South Korea,2014-05-01,11:26
+75494,Hypsipetes amaurotis amaurotis,subspecies,Brown-eared Bulbul ssp amaurotis,1,129.125368819,35.1116236619,Asia,South Korea,South Korea,2014-05-01,11:26
+75502,Ficedula narcissina,species,Narcissus Flycatcher,1,129.125368819,35.1116236619,Asia,South Korea,South Korea,2014-05-01,11:26
+75581,Turdus hortulorum,species,Grey-backed Thrush,2,129.125368819,35.1116236619,Asia,South Korea,South Korea,2014-05-01,11:26
+78585,Phoenicurus auroreus auroreus,subspecies,Daurian Redstart ssp auroreus,2,129.125719517,35.1113074314,Asia,South Korea,South Korea,2014-05-01,10:30
+78872,Larus schistisagus,species,Slaty-backed Gull,1,129.132497963,35.1543061723,Asia,South Korea,South Korea,2014-05-01,07:58
+78877,Larus crassirostris,species,Black-tailed Gull,5,129.132497963,35.1543061723,Asia,South Korea,South Korea,2014-05-01,07:58
+79023,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,129.150699433,35.153683362,Asia,South Korea,South Korea,2014-05-01,06:42
+79343,Zosterops japonicus japonicus,subspecies,Warbling White-eye ssp japonicus,6,129.150694069,35.1536526599,Asia,South Korea,South Korea,2014-05-01,06:46
+89064,Hypsipetes amaurotis amaurotis,subspecies,Brown-eared Bulbul ssp amaurotis,4,129.082031697,35.0562070255,Asia,South Korea,South Korea,2014-04-30,14:00
+89389,Monticola solitarius philippensis,subspecies,Blue Rock Thrush ssp philippensis,1,129.085035771,35.0512886736,Asia,South Korea,South Korea,2014-04-30,14:30
+89533,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,129.086237401,35.0512886736,Asia,South Korea,South Korea,2014-04-30,14:32
+89580,Phoenicurus auroreus auroreus,subspecies,Daurian Redstart ssp auroreus,2,129.088426083,35.0506562925,Asia,South Korea,South Korea,2014-04-30,14:43
+89735,Parus minor minor,subspecies,Japanese Tit ssp minor,4,129.083877057,35.0512535414,Asia,South Korea,South Korea,2014-04-30,14:43
+89845,Emberiza elegans elegans,subspecies,Yellow-throated Bunting ssp elegans,4,129.08286117,35.055364175,Asia,South Korea,South Korea - Taeanhaean Seashore NP,2014-04-30,15:09
+91370,Sciurus vulgaris,species,Eurasian Red Squirrel,1,127.35491775,36.338566579,Asia,South Korea,South Korea,2014-04-29,07:13
+107317,Charadrius dubius,species,Little Ringed Plover,2,127.353294007,36.3552447505,Asia,South Korea,South Korea,2014-04-23,11:56
+108374,Trigomphus nigripes,species,,1,127.3544886,36.3371665,Asia,South Korea,South Korea,2014-04-21,09:56
+108379,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,127.356569991,36.3379443241,Asia,South Korea,South Korea,2014-04-21,08:53
+110026,Butorides striata,species,Striated Heron,1,127.352864854,36.3401396141,Asia,South Korea,South Korea,2014-04-21,10:47
+102933,Muscicapa sibirica,species,Dark-sided Flycatcher,1,127.032623289,37.5434067925,Asia,South Korea,South Korea - Seoul,2014-05-17,07:00
+115791,Passer montanus,species,Eurasian Tree Sparrow,1,127.037812489926,37.5444268864922,Asia,South Korea,South Korea - Seoul,2014-05-17,05:59
+115792,Streptopelia orientalis,species,Oriental Turtle Dove,1,127.037812489926,37.5444268864922,Asia,South Korea,South Korea - Seoul,2014-05-17,06:00
+115793,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,127.037736378062,37.5444652882095,Asia,South Korea,South Korea - Seoul,2014-05-17,06:00
+115794,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,127.037605888995,37.5474644782209,Asia,South Korea,South Korea - Seoul,2014-05-17,07:06
+115795,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,127.037684383295,37.5476057971059,Asia,South Korea,South Korea - Seoul,2014-05-17,07:07
+115796,Parus minor,species,Japanese Tit,1,127.038172916626,37.5478186036938,Asia,South Korea,South Korea - Seoul,2014-05-17,07:07
+115797,Aegithalos caudatus,species,Long-tailed Tit,1,127.03804566696,37.5477984058656,Asia,South Korea,South Korea - Seoul,2014-05-17,07:07
+115798,Poecile palustris,species,Marsh Tit,1,127.038268534098,37.5438585103315,Asia,South Korea,South Korea - Seoul,2014-05-17,08:16
+115799,Anas zonorhyncha,species,Eastern Spot-billed Duck,1,127.042015331809,37.5419145420477,Asia,South Korea,South Korea - Seoul,2014-05-17,08:53
+115800,Phoenicurus auroreus,species,Daurian Redstart,1,127.042973067563,37.5413697295235,Asia,South Korea,South Korea - Seoul,2014-05-17,08:58
+115801,Turdus pallidus,species,Pale Thrush,1,127.018431,37.5097186,Asia,South Korea,South Korea - Seoul,2014-05-18,00:43
+115802,Garrulus glandarius,species,Eurasian Jay,1,127.0184085,37.5096182,Asia,South Korea,South Korea - Seoul,2014-05-18,01:33
+115803,Phoenicurus auroreus,species,Daurian Redstart,1,127.0184251,37.5095668,Asia,South Korea,South Korea - Seoul,2014-05-18,01:47
+115804,Poecile palustris,species,Marsh Tit,1,127.018376,37.509769,Asia,South Korea,South Korea - Seoul,2014-05-18,01:48
+115805,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.971166302115,37.4312146052203,Asia,South Korea,South Korea - Seoul,2014-05-18,16:03
+32091,Milvus migrans lineatus,subspecies,Black-eared Kite,1,129.12228629,35.1268234897,Asia,South Korea,South Korea,2014-05-01,09:29
+32481,Pericrocotus divaricatus,species,Ashy Minivet,1,129.12590526,35.1139233578,Asia,South Korea,South Korea,2014-05-01,11:00
+32548,Monticola solitarius philippensis,subspecies,Blue Rock Thrush ssp philippensis,5,129.123459086,35.1225236727,Asia,South Korea,South Korea,2014-05-01,09:21
+33430,Ficedula narcissina,species,Narcissus Flycatcher,2,129.082539305,35.0530106794,Asia,South Korea,South Korea,2014-04-30,14:15
+35893,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,129.056410796,35.2237576681,Asia,South Korea,South Korea,2014-04-06,13:00
+122136,Spodiopsar cineraceus,species,White-cheeked Starling,10,127.401645184,36.4303640474,Asia,South Korea,South Korea,2014-04-29,12:00
+122152,Charadrius placidus,species,Long-billed Plover,3,127.401645184,36.4303640474,Asia,South Korea,South Korea,2014-04-29,11:16
+122158,Tringa brevipes,species,Grey-tailed Tattler,2,127.401645184,36.4303640474,Asia,South Korea,South Korea,2014-04-29,11:16
+101574,Motacilla cinerea,species,Grey Wagtail,1,127.03029871,37.469459619,Asia,South Korea,South Korea - Seoul,2014-03-15,
+9667,Anser cygnoides,species,Swan Goose,2,126.67753458,37.7852324486,Asia,South Korea,South Korea,2014-03-17,16:35
+9692,Carpodacus sibiricus,species,Long-tailed Rosefinch,2,126.897926331,37.9631473994,Asia,South Korea,South Korea,2014-03-17,15:28
+9706,Haliaeetus albicilla,species,White-tailed Eagle,1,127.205200195,38.1259146292,Asia,South Korea,South Korea,2014-03-17,14:15
+9711,Bubo bubo kiautschensis,subspecies,Eurasian Eagle-Owl ssp kiautschensis,1,127.205200195,38.1259146292,Asia,South Korea,South Korea,2014-03-17,14:30
+9781,Antigone vipio,species,White-naped Crane,4,127.195587158,38.2609629048,Asia,South Korea,South Korea,2014-03-17,10:43
+10073,Chloris sinica ussuriensis,subspecies,Grey-capped Greenfinch ssp ussuriensis,3,127.165696621,38.2701784667,Asia,South Korea,South Korea,2014-03-17,09:56
+31487,Aegypius monachus,species,Cinereous Vulture,1,127.167761922,38.2695972638,Asia,South Korea,South Korea,2014-03-17,09:22
+31499,Accipiter gentilis,species,Northern Goshawk,1,127.167026997,38.2694961845,Asia,South Korea,South Korea,2014-03-17,09:21
+31512,Cyanopica cyanus cyanus,subspecies,Azure-winged Magpie ssp cyanus,1,127.167027,38.26949618,Asia,South Korea,South Korea,2014-03-17,09:13
+32159,Carpodacus sibiricus,species,Long-tailed Rosefinch,1,127.167026997,38.2694961845,Asia,South Korea,South Korea,2014-03-17,08:30
+32183,Corvus macrorhynchos mandshuricus,subspecies,Large-billed Crow ssp mandshuricus,1,127.166506648,38.2686791222,Asia,South Korea,South Korea,2014-03-17,08:04
+34021,Chloris sinica,species,Grey-capped Greenfinch,1,127.164881229,38.2692097926,Asia,South Korea,South Korea,2014-03-17,08:00
+34160,Lanius bucephalus bucephalus,subspecies,Bull-headed Shrike ssp bucephalus,1,127.165921926,38.2725200777,Asia,South Korea,South Korea,2014-03-17,07:30
+53581,Emberiza leucocephalos,species,Pine Bunting,10,126.759449244,37.9021815211,Asia,South Korea,South Korea,2014-03-16,
+53588,Emberiza rustica,species,Rustic Bunting,15,126.759449244,37.9021815211,Asia,South Korea,South Korea,2014-03-16,
+55598,Tachybaptus ruficollis poggei,subspecies,Little Grebe ssp poggei,1,127.028995156,37.5411788272,Asia,South Korea,South Korea - Seoul,2014-03-13,
+58044,Sittiparus varius varius,subspecies,Varied Tit ssp varius,1,127.181403637,37.4810564735,Asia,South Korea,South Korea - Seoul,2014-03-16,
+58279,Sitta europaea amurensis,subspecies,Eurasian Nuthatch ssp amurensis,1,127.179708481,37.4795239528,Asia,South Korea,South Korea - Seoul,2014-03-16,
+58307,Emberiza rustica,species,Rustic Bunting,1,127.179708481,37.4795239528,Asia,South Korea,South Korea - Seoul,2014-03-16,
+58317,Sittiparus varius varius,subspecies,Varied Tit ssp varius,1,127.179708481,37.4795239528,Asia,South Korea,South Korea - Seoul,2014-03-16,
+71320,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,127.030084133,37.4682930222,Asia,South Korea,South Korea - Seoul,2014-03-15,
+71331,Emberiza elegans,species,Yellow-throated Bunting,5,127.029805183,37.4680631069,Asia,South Korea,South Korea - Seoul,2014-03-15,
+71341,Turdus eunomus,species,Dusky Thrush,1,127.030470371,37.4683270837,Asia,South Korea,South Korea - Seoul,2014-03-15,
+71344,Buteo japonicus japonicus,subspecies,Eastern Buzzard ssp japonicus,1,127.031081915,37.4704218347,Asia,South Korea,South Korea - Seoul,2014-03-15,
+71351,Falco tinnunculus,species,Common Kestrel,1,127.031081915,37.4704218347,Asia,South Korea,South Korea - Seoul,2014-03-15,
+85106,Coccothraustes coccothraustes,species,Hawfinch,3,127.03057766,37.4700386529,Asia,South Korea,South Korea - Seoul,2014-03-15,
+85340,Motacilla cinerea,species,Grey Wagtail,1,127.030717134,37.4701663804,Asia,South Korea,South Korea - Seoul,2014-03-15,
+85442,Phoenicurus auroreus auroreus,subspecies,Daurian Redstart ssp auroreus,1,127.030717134,37.4701663804,Asia,South Korea,South Korea - Seoul,2014-03-15,
+85479,Egretta garzetta garzetta,subspecies,Little Egret ssp garzetta,1,127.030717134,37.4701663804,Asia,South Korea,South Korea - Seoul,2014-03-15,
+85550,Tringa ochropus,species,Green Sandpiper,1,127.030599117,37.4699279556,Asia,South Korea,South Korea - Seoul,2014-03-15,
+85552,Garrulus glandarius brandtii,subspecies,Eurasian Jay ssp brandtii,1,127.030459642,37.4698683493,Asia,South Korea,South Korea - Seoul,2014-03-15,
+85563,Fringilla montifringilla,species,Brambling,15,127.030459642,37.4698683493,Asia,South Korea,South Korea - Seoul,2014-03-15,
+66825,Turdus pallidus,species,Pale Thrush,1,127.030491829,37.4692041614,Asia,South Korea,South Korea - Seoul,2014-03-15,
+66854,Emberiza elegans,species,Yellow-throated Bunting,2,127.030320168,37.4683952066,Asia,South Korea,South Korea - Seoul,2014-03-15,
+66857,Turdus eunomus,species,Dusky Thrush,1,127.030320168,37.4683952066,Asia,South Korea,South Korea - Seoul,2014-03-15,
+70858,Sinosuthora webbiana fulvicauda,subspecies,Vinous-throated Parrotbill ssp fulvicauda,80,127.031071186,37.4708901653,Asia,South Korea,South Korea - Seoul,2014-03-14,
+73391,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,127.029907107,37.469067917,Asia,South Korea,South Korea - Seoul,2014-03-14,
+73440,Troglodytes troglodytes,species,Eurasian Wren,1,127.029907107,37.469067917,Asia,South Korea,South Korea - Seoul,2014-03-14,
+73701,Coccothraustes coccothraustes,species,Hawfinch,1,127.029907107,37.469067917,Asia,South Korea,South Korea - Seoul,2014-03-14,
+73707,Fringilla montifringilla,species,Brambling,200,127.029907107,37.469067917,Asia,South Korea,South Korea - Seoul,2014-03-14,
+73863,Phoenicurus auroreus auroreus,subspecies,Daurian Redstart ssp auroreus,1,127.029907107,37.469067917,Asia,South Korea,South Korea - Seoul,2014-03-14,
+73881,Hypsipetes amaurotis amaurotis,subspecies,Brown-eared Bulbul ssp amaurotis,15,127.030309439,37.4696043779,Asia,South Korea,South Korea - Seoul,2014-03-14,
+73907,Egretta garzetta garzetta,subspecies,Little Egret ssp garzetta,1,127.030309439,37.4696043779,Asia,South Korea,South Korea - Seoul,2014-03-14,
+75616,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,127.029333115,37.4679438912,Asia,South Korea,South Korea - Seoul,2014-03-14,
+76030,Emberiza elegans,species,Yellow-throated Bunting,1,127.029880285,37.4683952066,Asia,South Korea,South Korea - Seoul,2014-03-14,
+76108,Dendrocopos major japonicus,subspecies,Great Spotted Woodpecker ssp japonicus,1,127.029579878,37.4677310056,Asia,South Korea,South Korea - Seoul,2014-03-14,
+76258,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,127.029708624,37.4677735828,Asia,South Korea,South Korea - Seoul,2014-03-14,
+76574,Turdus naumanni,species,Naumann's Thrush,1,127.029815912,37.4673392946,Asia,South Korea,South Korea - Seoul,2014-03-14,
+77373,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,1,127.020782232,37.543990358,Asia,South Korea,South Korea - Seoul,2014-03-13,
+90034,Picus canus jessoensis,subspecies,Grey-headed Woodpecker ssp jessoensis,1,127.17777729,37.4811586405,Asia,South Korea,South Korea - Seoul,2014-03-16,
+90039,Dendrocopos leucotos leucotos,subspecies,White-backed Woodpecker ssp leucotos,1,127.17777729,37.4811586405,Asia,South Korea,South Korea - Seoul,2014-03-16,
+97492,Aix galericulata,species,Mandarin Duck,2,127.030470371,37.4697661669,Asia,South Korea,South Korea - Seoul,2014-03-14,
+97493,Anas platyrhynchos,species,Mallard,5,127.030470371,37.4697661669,Asia,South Korea,South Korea - Seoul,2014-03-14,
+97497,Anas zonorhyncha,species,Eastern Spot-billed Duck,10,127.030470371,37.4696639844,Asia,South Korea,South Korea - Seoul,2014-03-14,
+97499,Ardea cinerea jouyi,subspecies,Grey Heron ssp jouyi,1,127.029826641,37.4690168253,Asia,South Korea,South Korea - Seoul,2014-03-14,
+97500,Cinclus pallasii pallasii,subspecies,Brown Dipper ssp pallasii,1,127.032154799,37.4716054282,Asia,South Korea,South Korea - Seoul,2014-03-14,
+115534,Carpodacus roseus,species,Pallas's Rosefinch,7,127.178249359,37.47964315,Asia,South Korea,South Korea - Seoul,2014-03-16,
+4266,Antigone vipio,species,White-naped Crane,120,127.165825367,38.2724674344,Asia,South Korea,South Korea,2014-03-17,07:45
+4306,Grus japonensis,species,Red-crowned Crane,2,127.168078423,38.2709365505,Asia,South Korea,South Korea,2014-03-17,08:45
+47971,Streptopelia orientalis,species,Oriental Turtle Dove,3,127.027906179,37.5450707063,Asia,South Korea,South Korea - Seoul,2014-03-13,
+47974,Parus minor,species,Japanese Tit,10,127.027906179,37.5450707063,Asia,South Korea,South Korea - Seoul,2014-03-13,
+48000,Aix galericulata,species,Mandarin Duck,3,127.028995156,37.5411788272,Asia,South Korea,South Korea - Seoul,2014-03-13,
+48008,Turdus naumanni,species,Naumann's Thrush,1,127.034477592,37.5430801312,Asia,South Korea,South Korea - Seoul,2014-03-13,
+92744,Cyanopica cyanus,species,Asian Azure-winged Magpie,4,127.523803711,35.2725317566,Asia,South Korea,South Korea - Jirisan NP,2013-08-30,
+96879,Egretta sacra,species,Pacific Reef Heron,1,126.891746521,33.5270857348,Asia,South Korea,South Korea - Jeju,2013-09-03,
+97003,Egretta sacra,species,Pacific Reef Heron,1,126.822052002,33.5139194239,Asia,South Korea,South Korea - Jeju,2012-09-04,
+97911,Phoenicurus auroreus,species,Daurian Redstart,1,128.609390259,35.9468829322,Asia,South Korea,South Korea,2013-08-28,
+98126,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,126.991825104,37.5526071885,Asia,South Korea,South Korea - Seoul,2013-08-24,
+50831,Larus crassirostris,species,Black-tailed Gull,100,126.620178223,37.3122908598,Asia,South Korea,South Korea,2012-06-16,
+64711,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,6,129.05387877,35.2841911278,Asia,South Korea,South Korea,2013-11-21,
+64712,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,128.833007365,35.5286499824,Asia,South Korea,South Korea,2013-11-23,
+79410,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,4,129.206542522,35.2420301188,Asia,South Korea,South Korea,2013-11-19,
+79412,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,2,129.136962835,35.2743256232,Asia,South Korea,South Korea,2013-11-18,
+20531,Eumeninae indet.,multispecies,Potter Wasp (Eumeninae) unknown,1,128.486166894,38.1747146974,Asia,South Korea,South Korea - Seoraksan NP,2013-10-12,
+26830,Sympetrum croceolum,species,,1,126.88356578,37.56771188,Asia,South Korea,South Korea,2013-10-16,
+94644,Vespa mandarinia,species,Asian Giant Hornet,3,128.47710371,38.1755918548,Asia,South Korea,South Korea - Seoraksan NP,2013-10-10,
+107599,Phylloscopus inornatus,species,Yellow-browed Warbler,1,126.882362813,37.5698888835,Asia,South Korea,South Korea,2013-10-16,
+107691,Corvus macrorhynchos,species,Large-billed Crow,3,128.485343456,38.1750520669,Asia,South Korea,South Korea - Seoraksan NP,2013-10-12,
+17610,Trachemys scripta troostii,subspecies,Cumberland Slider,18,127.030491829,37.5440158783,Asia,South Korea,South Korea,2013-10-14,
+17764,Phylloscopus inornatus,species,Yellow-browed Warbler,1,127.028053,37.546759,Asia,South Korea,South Korea,2013-10-14,12:16
+17765,Streptopelia orientalis,species,Oriental Turtle Dove,1,127.030744,37.541651,Asia,South Korea,South Korea,2013-10-14,13:47
+17766,Aix galericulata,species,Mandarin Duck,40,127.033468,37.542894,Asia,South Korea,South Korea,2013-10-14,14:02
+17767,Phoenicurus auroreus,species,Daurian Redstart,2,127.034974,37.543178,Asia,South Korea,South Korea,2013-10-14,14:21
+34988,Phylloscopus inornatus,species,Yellow-browed Warbler,1,126.984640472,37.5222779948,Asia,South Korea,South Korea,2013-09-28,
+35870,Monticola solitarius philippensis,subspecies,Blue Rock Thrush ssp philippensis,2,128.600709,38.214237,Asia,South Korea,South Korea,2013-10-11,12:46
+35871,Calidris alpina,species,Dunlin,2,128.590042,38.220288,Asia,South Korea,South Korea,2013-10-11,14:15
+35872,Ardea cinerea,species,Grey Heron,1,128.590195,38.220004,Asia,South Korea,South Korea,2013-10-11,14:25
+35873,Aix galericulata,species,Mandarin Duck,6,128.585239,38.216331,Asia,South Korea,South Korea,2013-10-11,14:49
+39198,Corvus macrorhynchos,species,Large-billed Crow,2,128.49451,38.17247,Asia,South Korea,South Korea - Seoraksan NP,2013-10-10,09:52
+39918,Eutamias sibiricus,species,Siberian Chipmunk,1,128.485912085,38.1737025795,Asia,South Korea,South Korea - Seoraksan NP,2013-10-10,
+44286,Larus vegae,species,Vega Gull,40,128.588133752,38.1931327865,Asia,South Korea,South Korea,2013-10-09,
+45445,Phalacrocorax carbo,species,Great Cormorant,13,128.583902,38.19685,Asia,South Korea,South Korea,2013-10-09,10:40
+45446,Ardea cinerea,species,Grey Heron,6,128.584021,38.196815,Asia,South Korea,South Korea,2013-10-09,10:42
+45447,Ardea intermedia,species,Intermediate Egret,1,128.581649,38.193191,Asia,South Korea,South Korea,2013-10-09,11:07
+45448,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,128.581622,38.193131,Asia,South Korea,South Korea,2013-10-09,11:13
+45449,Larus crassirostris,species,Black-tailed Gull,350,128.583268,38.192346,Asia,South Korea,South Korea,2013-10-09,11:34
+45450,Larus vegae,species,Vega Gull,30,128.585731,38.192148,Asia,South Korea,South Korea,2013-10-09,12:18
+45451,Chroicocephalus ridibundus,species,Black-headed Gull,1,128.58791,38.192491,Asia,South Korea,South Korea,2013-10-09,12:34
+45452,Chroicocephalus ridibundus,species,Black-headed Gull,40,128.597807,38.201132,Asia,South Korea,South Korea,2013-10-09,15:28
+52025,Larus vegae,species,Vega Gull,1,128.591457,38.202147,Asia,South Korea,South Korea,2013-10-07,16:49
+69731,Ardea alba,species,Great Egret,1,128.705664,36.554986,Asia,South Korea,South Korea,2013-10-06,12:11
+69732,Anas zonorhyncha,species,Eastern Spot-billed Duck,2,128.713527,36.55608,Asia,South Korea,South Korea,2013-10-06,12:41
+75883,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,128.52098,36.53969,Asia,South Korea,South Korea,2013-10-05,13:37
+75884,Lanius bucephalus,species,Bull-headed Shrike,1,128.527507,36.548425,Asia,South Korea,South Korea,2013-10-05,17:01
+101170,Ardea alba,species,Great Egret,20,128.417024,35.548904,Asia,South Korea,South Korea,2013-10-01,10:30
+101171,Hydrophasianus chirurgus,species,Pheasant-tailed Jacana,7,128.41241,35.5481,Asia,South Korea,South Korea,2013-10-01,11:10
+101172,Anas zonorhyncha,species,Eastern Spot-billed Duck,100,128.423001,35.553161,Asia,South Korea,South Korea,2013-10-01,11:21
+101173,Anser fabalis,species,Taiga Bean Goose,14,128.423034,35.553186,Asia,South Korea,South Korea,2013-10-01,11:23
+101174,Anas platyrhynchos,species,Mallard,40,128.423991,35.554657,Asia,South Korea,South Korea,2013-10-01,11:26
+101175,Lanius bucephalus,species,Bull-headed Shrike,1,128.420636,35.549096,Asia,South Korea,South Korea,2013-10-01,11:58
+101176,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,128.417853,35.54707,Asia,South Korea,South Korea,2013-10-01,12:46
+107510,Larus crassirostris,species,Black-tailed Gull,10,129.030442,35.095929,Asia,South Korea,South Korea,2013-09-30,11:51
+107511,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,5,129.032686,35.100886,Asia,South Korea,South Korea,2013-09-30,14:52
+107512,Passer montanus,species,Eurasian Tree Sparrow,20,129.032696,35.100878,Asia,South Korea,South Korea,2013-09-30,14:52
+115209,Sinosuthora webbiana,species,Vinous-throated Parrotbill,20,129.15228,35.152612,Asia,South Korea,South Korea,2013-09-29,14:01
+115210,Hypsipetes amaurotis,species,Brown-eared Bulbul,5,129.152192,35.15338,Asia,South Korea,South Korea,2013-09-29,14:10
+9630,Macroglossum stellatarum,species,Humming-bird Hawk Moth,1,126.981611,37.521891,Asia,South Korea,South Korea,2013-09-27,15:52
+9631,Hypsipetes amaurotis,species,Brown-eared Bulbul,10,126.981587,37.521897,Asia,South Korea,South Korea,2013-09-27,15:52
+9632,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,6,126.981564,37.521885,Asia,South Korea,South Korea,2013-09-27,15:53
+9633,Parus minor minor,subspecies,Japanese Tit ssp minor,1,126.984834,37.521801,Asia,South Korea,South Korea,2013-09-27,16:27
+9634,Streptopelia orientalis,species,Oriental Turtle Dove,2,126.984779,37.521768,Asia,South Korea,South Korea,2013-09-27,16:33
+15567,Macroglossum stellatarum,species,Humming-bird Hawk Moth,1,126.988358,37.551891,Asia,South Korea,South Korea,2013-09-26,13:29
+15568,Passer montanus,species,Eurasian Tree Sparrow,5,126.985415,37.56079,Asia,South Korea,South Korea,2013-09-26,15:22
+16365,Hypsipetes amaurotis,species,Brown-eared Bulbul,2,126.990323,37.57053,Asia,South Korea,South Korea,2013-09-25,12:08
+30851,Pantala flavescens,species,Wandering Glider,1,126.69914245605,37.450331947758,Asia,South Korea,South Korea,2013-07-27,10:00
+1217,Larus crassirostris,species,Black-tailed Gull,1,126.62901878357,37.175910738953,Asia,South Korea,South Korea,2013-06-22,
+1317,Egretta eulophotes,species,Chinese Egret,10,126.62610054016,37.176184292549,Asia,South Korea,South Korea,2013-06-22,
+1420,Butorides striata,species,Striated Heron,2,126.62618637085,37.175773961783,Asia,South Korea,South Korea,2013-06-22,
+56634,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.85011863708,37.181928689274,Asia,South Korea,South Korea,2013-06-16,
+56677,Oriolus chinensis,species,Black-naped Oriole,1,126.85612678528,37.174953293564,Asia,South Korea,South Korea,2013-06-16,
+56685,Eurystomus orientalis,species,Oriental Dollarbird,1,126.85252189636,37.161616185656,Asia,South Korea,South Korea,2013-06-16,
+56706,Ardea intermedia,species,Intermediate Egret,1,126.85724258423,37.167566878456,Asia,South Korea,South Korea,2013-06-16,
+56715,Nycticorax nycticorax,species,Black-crowned Night Heron,1,126.86359405518,37.148003069504,Asia,South Korea,South Korea,2013-06-16,
+63157,Pseudothemis zonata,species,Pied Skimmer,1,126.83887481689,37.165207177024,Asia,South Korea,South Korea,2013-06-15,
+63325,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.83728694916,37.187228191675,Asia,South Korea,South Korea,2013-06-15,
+63352,Oriolus chinensis,species,Black-naped Oriole,1,126.83788776398,37.188971817611,Asia,South Korea,South Korea,2013-06-15,
+63355,Oriolus chinensis,species,Black-naped Oriole,1,126.84415340424,37.181826114592,Asia,South Korea,South Korea,2013-06-15,
+63399,Ardea intermedia,species,Intermediate Egret,1,126.84372425079,37.182715090545,Asia,South Korea,South Korea,2013-06-15,
+63401,Ardea intermedia,species,Intermediate Egret,1,126.84222221375,37.188595744834,Asia,South Korea,South Korea,2013-06-15,
+93128,Cygnus columbianus bewickii,subspecies,Bewick's Swan,9,127.96487965595358,36.46234130859375,Asia,South Korea,South Korea,2003-02-20,
+108505,Anthus rubescens,species,Buff-bellied Pipit,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108509,Calcarius lapponicus,species,Lapland Longspur,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108511,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108522,Anas platyrhynchos,species,Mallard,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108526,Fulica atra atra,subspecies,Eurasian Coot ssp atra,2,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108534,Ardea alba,species,Great Egret,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108539,Anser albifrons albifrons,subspecies,Greater White-fronted Goose ssp albifrons,30,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108544,Phoenicurus auroreus,species,Daurian Redstart,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108551,Passer montanus,species,Eurasian Tree Sparrow,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108555,Alauda arvensis,species,Eurasian Skylark,2,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108567,Remiz consobrinus,species,Chinese Penduline Tit,15,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108572,Sinosuthora webbiana,species,Vinous-throated Parrotbill,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108652,Emberiza pusilla,species,Little Bunting,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108658,Emberiza spodocephala,species,Black-faced Bunting,4,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108663,Buteo japonicus japonicus,subspecies,Eastern Buzzard ssp japonicus,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108672,Hypsipetes amaurotis,species,Brown-eared Bulbul,4,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108683,Turdus eunomus,species,Dusky Thrush,25,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108685,Lanius bucephalus bucephalus,subspecies,Bull-headed Shrike ssp bucephalus,2,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108687,Phoenicurus auroreus,species,Daurian Redstart,1,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108690,Mergus merganser orientalis,subspecies,Common Merganser ssp orientalis,2,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108692,Chloris sinica,species,Grey-capped Greenfinch,2,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108696,Parus minor minor,subspecies,Japanese Tit ssp minor,2,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+108702,Zosterops japonicus japonicus,subspecies,Warbling White-eye ssp japonicus,3,126.5588298964034,34.88941372575,Asia,South Korea,South Korea - Jeolla,2003-02-18,
+118152,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.72328948276,37.40311012581,Asia,South Korea,South Korea,2003-02-15,
+43868,Tursiops aduncus,species,Indo-Pacific Bottlenose Dolphin,3,126.50658669367226,33.3358825519,Asia,South Korea,South Korea - Jeju,2013-06-04,
+70612,Mirabilis jalapa,species,Marvel-of-Peru,1,126.42000714407,33.242118506497,Asia,South Korea,South Korea - Jeju,2012-07-09,
+70618,Verbena officinalis,species,Vervain,1,126.41133824323,33.250265779826,Asia,South Korea,South Korea - Jeju,2012-07-09,
+70700,Thespesia populnea,species,,1,126.41846219,33.24295974,Asia,South Korea,South Korea - Jeju,2012-07-11,
+70731,Pittosporum tobira,species,Japanese cheesewood,1,126.44250014789,33.237409700241,Asia,South Korea,South Korea - Jeju,2012-07-12,
+70742,Sida rhombifolia,species,Queensland-hemp,1,126.43445352052,33.236018770543,Asia,South Korea,South Korea - Jeju,2012-07-12,
+74419,Tagetes erecta,species,African Marigold,1,126.58903727325,33.24363496191,Asia,South Korea,South Korea - Jeju,2012-07-14,
+77712,Coreopsis tinctoria,species,Garden Tickseed,1,126.84960583266,33.337292310499,Asia,South Korea,South Korea - Jeju,2012-07-15,
+77743,Dicranopteris linearis,species,Uluhe,1,126.85478249655,33.385004878578,Asia,South Korea,South Korea - Jeju,2012-07-15,
+77755,Geraniaceae spec.,multispecies,,1,126.85456792278,33.395772319961,Asia,South Korea,South Korea - Jeju,2012-07-15,
+77795,Nelumbo nucifera,species,Sacred lotus,1,126.39245549176,33.244458233479,Asia,South Korea,South Korea - Jeju,2012-07-17,
+77801,Crocothemis servilia,species,Oriental Scarlet,1,126.39185468,33.24433261,Asia,South Korea,South Korea - Jeju,2012-07-17,
+78967,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,126.488708,37.494734,Asia,South Korea,South Korea,2012-11-11,08:08
+83523,Oenothera lindheimeri,species,Lindheimer's beeblossom,1,126.31379166594,33.2342329636,Asia,South Korea,South Korea - Jeju,2012-07-17,
+26864,Humulus scandens,species,,1,126.418542657,33.2427802765,Asia,South Korea,South Korea - Jeju,2012-07-11,
+31009,Monticola solitarius philippensis,subspecies,Blue Rock Thrush ssp philippensis,2,126.524951935,35.7315546825,Asia,South Korea,South Korea,2012-06-17,
+67637,Fagopyrum esculentum,species,Buckwheat,1,126.314596329,33.2359402497,Asia,South Korea,South Korea - Jeju,2012-07-17,
+77038,Silene armeria,species,Sweet-William Catchfly,1,126.421991979,33.2436349618,Asia,South Korea,South Korea - Jeju,2012-07-10,
+80617,Amaranthus retroflexus,species,Common Amaranth,1,126.952232513,33.5228941246,Asia,South Korea,South Korea - Jeju,2012-07-16,
+78719,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,128.604454994,35.8708469184,Asia,South Korea,South Korea,2011-05-01,
+78954,Lanius bucephalus,species,Bull-headed Shrike,1,126.56248945,33.2350366142,Asia,South Korea,South Korea,2010-10-16,
+78959,Actitis hypoleucos,species,Common Sandpiper,1,126.56120199,33.2434537395,Asia,South Korea,South Korea,2010-10-16,
+79010,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.58115226,33.2441401751,Asia,South Korea,South Korea,2010-10-16,
+79013,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.58115226,33.2441401751,Asia,South Korea,South Korea,2010-10-16,
+79280,Motacilla alba lugens,subspecies,White Wagtail ssp lugens,1,126.934554577,33.4608940204,Asia,South Korea,South Korea,2010-10-15,
+79328,Phalacrocorax carbo,species,Great Cormorant,1,126.938846111,33.4621292032,Asia,South Korea,South Korea,2010-10-15,
+79346,Monticola solitarius,species,Blue Rock Thrush,1,126.938695908,33.4621650054,Asia,South Korea,South Korea,2010-10-15,
+79415,Falco peregrinus,species,Peregrine Falcon,1,126.939125061,33.4598020326,Asia,South Korea,South Korea,2010-10-15,
+79417,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.942214966,33.4580834664,Asia,South Korea,South Korea,2010-10-15,
+79452,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.942500755,33.4575021118,Asia,South Korea,South Korea,2010-10-10,
+103467,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,126.523385525,33.5147907274,Asia,South Korea,South Korea,2010-10-12,
+103566,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.612695038,33.5343581462,Asia,South Korea,South Korea,2010-10-13,
+103814,Monticola solitarius philippensis,subspecies,Blue Rock Thrush ssp philippensis,1,126.63412857,33.5419974276,Asia,South Korea,South Korea,2010-10-13,
+104025,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.492459476,33.4689604309,Asia,South Korea,South Korea,2010-10-14,
+104146,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,126.492459476,33.4689604309,Asia,South Korea,South Korea,2010-10-14,
+104500,Zosterops japonicus,species,Warbling White-eye,1,126.492459476,33.4689604309,Asia,South Korea,South Korea,2010-10-14,
+105348,Monticola solitarius philippensis,subspecies,Blue Rock Thrush ssp philippensis,1,126.529369354,33.5216656078,Asia,South Korea,South Korea,2010-10-11,
+109031,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,128.03393054,35.1737504829,Asia,South Korea,South Korea,2010-10-10,
+109052,Parus minor minor,subspecies,Japanese Tit ssp minor,1,128.03393054,35.1737504829,Asia,South Korea,South Korea,2010-10-10,
+109957,Larus vegae,species,Vega Gull,1,129.081837237,35.0553183408,Asia,South Korea,South Korea,2010-10-06,
+109959,Corvus corone,species,Carrion Crow,1,129.086987078,35.0505755978,Asia,South Korea,South Korea,2010-10-06,
+109960,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,129.086987078,35.0505755978,Asia,South Korea,South Korea,2010-10-06,
+109978,Sinosuthora webbiana,species,Vinous-throated Parrotbill,1,129.086729586,35.0507161274,Asia,South Korea,South Korea,2010-10-06,
+111053,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,129.066827774,35.2851650549,Asia,South Korea,South Korea,2010-10-05,
+111060,Streptopelia orientalis,species,Oriental Turtle Dove,1,129.066827774,35.2851650549,Asia,South Korea,South Korea,2010-10-05,
+111079,Phoenicurus auroreus,species,Daurian Redstart,2,129.066827774,35.2851650549,Asia,South Korea,South Korea,2010-10-05,
+111299,Muscicapa griseisticta,species,Grey-streaked Flycatcher,1,128.941579342,35.0901660222,Asia,South Korea,South Korea,2010-10-04,
+111431,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,128.936686993,35.0866544054,Asia,South Korea,South Korea,2010-10-04,
+111635,Egretta garzetta,species,Little Egret,1,128.949518681,35.1068441369,Asia,South Korea,South Korea,2010-10-04,
+111636,Ardea alba,species,Great Egret,1,128.949518681,35.1068441369,Asia,South Korea,South Korea,2010-10-04,
+111815,Larus crassirostris,species,Black-tailed Gull,1,129.034448147,35.0968376775,Asia,South Korea,South Korea,2010-10-03,
+111819,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,129.034319401,35.0997870774,Asia,South Korea,South Korea,2010-10-03,
+111928,Eutamias sibiricus,species,Siberian Chipmunk,1,126.99399519,37.5755726408,Asia,South Korea,South Korea,2010-10-21,
+111955,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.99399519,37.5755726408,Asia,South Korea,South Korea,2010-10-21,
+111961,Sittiparus varius,species,Varied Tit,1,126.99399519,37.5755726408,Asia,South Korea,South Korea,2010-10-21,
+111965,Parus minor,species,Japanese Tit,1,126.99399519,37.5755726408,Asia,South Korea,South Korea,2010-10-21,
+111969,Passer montanus,species,Eurasian Tree Sparrow,1,126.99399519,37.5755726408,Asia,South Korea,South Korea,2010-10-21,
+111971,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.99399519,37.5755726408,Asia,South Korea,South Korea,2010-10-21,
+111978,Anas zonorhyncha,species,Eastern Spot-billed Duck,1,126.959823847,37.5174991096,Asia,South Korea,South Korea,2010-10-20,
+112015,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.959223032,37.5174991096,Asia,South Korea,South Korea,2010-10-20,
+112017,Passer montanus,species,Eurasian Tree Sparrow,1,126.958536386,37.5131419839,Asia,South Korea,South Korea,2010-10-20,
+112034,Anas zonorhyncha,species,Eastern Spot-billed Duck,1,126.959480524,37.5174310314,Asia,South Korea,South Korea,2010-09-30,
+112043,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.959523439,37.5174650705,Asia,South Korea,South Korea,2010-09-30,
+112056,Passer montanus,species,Eurasian Tree Sparrow,1,126.988091469,37.5707647682,Asia,South Korea,South Korea,2010-09-29,
+112058,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.988091469,37.5707647682,Asia,South Korea,South Korea,2010-09-29,
+77283,Monticola solitarius,species,Blue Rock Thrush,1,126.403490782,33.2437700389,Asia,South Korea,South Korea,2012-07-18,
+77286,Motacilla alba,species,White Wagtail,1,126.395358324,33.2464529297,Asia,South Korea,South Korea,2012-07-17,
+77290,Ardea alba,species,Great Egret,1,126.394317627,33.2457171618,Asia,South Korea,South Korea,2012-07-17,
+77348,Spiranthes sinensis,species,Ladies-tresses,1,126.95,33.49,Asia,South Korea,South Korea,2012-07-16,
+77364,Monticola solitarius,species,Blue Rock Thrush,1,126.970300555,33.4992897252,Asia,South Korea,South Korea,2012-07-16,
+77365,Tringa brevipes,species,Grey-tailed Tattler,1,126.96684587,33.5135853674,Asia,South Korea,South Korea,2012-07-16,
+77392,Tringa brevipes,species,Grey-tailed Tattler,1,126.948628306,33.5147124578,Asia,South Korea,South Korea,2012-07-16,
+77394,Phalacrocorax carbo,species,Great Cormorant,1,126.946085572,33.5137911072,Asia,South Korea,South Korea,2012-07-16,
+77402,Falco peregrinus,species,Peregrine Falcon,1,126.939326405,33.4610878489,Asia,South Korea,South Korea,2012-07-16,
+77423,Camellia japonica,species,Japanese Camellia,1,126.938371539,33.4602375335,Asia,South Korea,South Korea,2012-07-16,
+77501,Egretta garzetta,species,Little Egret,1,126.849193454,33.3384311366,Asia,South Korea,South Korea,2012-07-15,
+77547,Prunella vulgaris,species,Selfheal,1,126.854144812,33.396498344,Asia,South Korea,South Korea,2012-07-15,
+77550,Emberiza cioides,species,Meadow Bunting,1,126.858050108,33.3969820372,Asia,South Korea,South Korea,2012-07-15,
+77610,Erigeron sumatrensis,species,Guernsey Fleabane,1,126.879958391,33.3935602977,Asia,South Korea,South Korea,2012-07-15,
+77672,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.573457003,33.2446740657,Asia,South Korea,South Korea,2012-07-14,
+77686,Anas zonorhyncha,species,Eastern Spot-billed Duck,1,126.554987311,33.2461815039,Asia,South Korea,South Korea,2012-07-14,
+77689,Anas platyrhynchos forma domestica,forma,Domestic Duck,1,126.559506833,33.2450980353,Asia,South Korea,South Korea,2012-07-14,
+77690,Cyprinus carpio x C. rubrofuscus,hybrid,Koi,1,126.559359312,33.2449993335,Asia,South Korea,South Korea,2012-07-14,
+77769,Lonicera japonica,species,Japanese Honeysuckle,1,126.493564725,33.2322479263,Asia,South Korea,South Korea,2012-07-12,
+77845,Crassocephalum crepidioides,species,Redflower ragleaf,1,126.440532088,33.2384264442,Asia,South Korea,South Korea,2012-07-12,
+77863,Monticola solitarius,species,Blue Rock Thrush,1,126.427410722,33.2362189193,Asia,South Korea,South Korea,2012-07-12,
+77947,Phytolacca americana,species,Virginian Pokeweed,1,126.43977571,33.23823351,Asia,South Korea,South Korea,2012-07-12,
+77950,Hirundo rustica,species,Barn Swallow,1,126.438649177,33.2387988463,Asia,South Korea,South Korea,2012-07-12,
+82859,Erigeron annuus,species,Tall Fleabane,1,126.418672085,33.2468970793,Asia,South Korea,South Korea,2012-07-09,
+82882,Phasianus colchicus,species,Common Pheasant,1,126.425989151,33.2388347404,Asia,South Korea,South Korea,2012-07-09,
+82938,Polygonum perfoliatum,synonym,,1,126.42691183,33.23725539,Asia,South Korea,South Korea,2012-07-09,
+82955,Portulaca oleracea,species,Common Purslane,1,126.409981728,33.2567081712,Asia,South Korea,South Korea,2012-07-09,
+82963,Ardea alba modesta,subspecies,Great Egret ssp modesta,1,126.404102325,33.2445417149,Asia,South Korea,South Korea,2012-07-09,
+82993,Commelina communis,species,Common dayflower,1,126.416268825,33.2447301464,Asia,South Korea,South Korea,2012-07-08,
+82999,Pica serica serica,subspecies,Oriental Magpie ssp serica,1,126.416333198,33.2442994453,Asia,South Korea,South Korea,2012-07-08,
+83010,Chloris sinica,species,Grey-capped Greenfinch,1,126.41493845,33.2437162008,Asia,South Korea,South Korea,2012-07-08,
+83073,Tetragonia tetragonioides,species,New Zealand Spinach,1,126.407921791,33.2449544691,Asia,South Korea,South Korea,2012-07-08,
+83077,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,126.406687975,33.2478257483,Asia,South Korea,South Korea,2012-07-08,
+93665,Sciurus vulgaris,species,Eurasian Red Squirrel,1,126.995132446,37.54548247,Asia,South Korea,South Korea,2012-03-03,
+93666,Sciurus vulgaris,species,Eurasian Red Squirrel,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+93667,Eutamias sibiricus,species,Siberian Chipmunk,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+93668,Eutamias sibiricus,species,Siberian Chipmunk,1,126.997879028,37.5389491375,Asia,South Korea,South Korea,2012-03-03,
+93669,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.994445801,37.5465713031,Asia,South Korea,South Korea,2012-03-03,
+93670,Sittiparus varius,species,Varied Tit,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93671,Emberiza elegans,species,Yellow-throated Bunting,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93672,Periparus ater,species,Coal Tit,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93673,Garrulus glandarius,species,Eurasian Jay,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93674,Passer montanus,species,Eurasian Tree Sparrow,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93675,Poecile palustris,species,Marsh Tit,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93676,Picus canus,species,Grey-headed Woodpecker,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93677,Periparus ater,species,Coal Tit,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+93678,Parus minor,species,Japanese Tit,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93679,Picus canus,species,Grey-headed Woodpecker,1,126.95,37.5,Asia,South Korea,South Korea,2012-03-03,
+93680,Poecile palustris,species,Marsh Tit,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+93681,Microscelis amaurotis,synonym,,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93682,Microscelis amaurotis,synonym,,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+93683,Emberiza elegans,species,Yellow-throated Bunting,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+93684,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.994102478,37.5487489215,Asia,South Korea,South Korea,2012-03-03,
+93685,Garrulus glandarius,species,Eurasian Jay,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+93686,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+93687,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+93688,Sittiparus varius,species,Varied Tit,1,126.991398811,37.5493273407,Asia,South Korea,South Korea,2012-03-03,
+9117,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.853981018,37.1671565009,Asia,South Korea,South Korea,2011-10-22,
+9129,Ardea intermedia,species,Intermediate Egret,1,126.853981018,37.1671565009,Asia,South Korea,South Korea,2011-10-22,
+25764,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.585928,36.706889,Asia,South Korea,South Korea,2011-10-19,06:59
+25765,Parus minor minor,subspecies,Japanese Tit ssp minor,1,126.585958,36.70675,Asia,South Korea,South Korea,2011-10-19,07:28
+25767,Parus minor minor,subspecies,Japanese Tit ssp minor,1,126.587952,36.707648,Asia,South Korea,South Korea,2011-10-20,06:48
+25768,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.585857,36.707655,Asia,South Korea,South Korea,2011-10-20,07:14
+113211,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,126.675109863,37.3908908564,Asia,South Korea,South Korea,2010-10-30,
+113216,Larus crassirostris,species,Black-tailed Gull,5,126.675109863,37.3908908564,Asia,South Korea,South Korea,2010-10-30,
+6602,Spodiopsar cineraceus,species,White-cheeked Starling,1,126.975474358,37.566062082,Asia,South Korea,South Korea,1998-05-29,
+6611,Aix galericulata,species,Mandarin Duck,5,126.99508667,37.5816231819,Asia,South Korea,South Korea,1998-05-29,
+6614,Aix galericulata,species,Mandarin Duck,2,126.974573135,37.5803648094,Asia,South Korea,South Korea,1998-05-29,
+19769,Larus crassirostris,species,Black-tailed Gull,1,126.40856266,37.4377591846,Asia,South Korea,South Korea,1998-05-28,
+19771,Chroicocephalus saundersi,species,Saunders's Gull,3,126.40856266,37.4377591846,Asia,South Korea,South Korea,1998-05-28,
+19781,Oriolus chinensis,species,Black-naped Oriole,1,127.099328041,37.5477417364,Asia,South Korea,South Korea,1998-05-25,
+58654,Hypsipetes amaurotis,species,Brown-eared Bulbul,3,126.95687056,37.56634272,Asia,South Korea,South Korea - Seoul,2017-12-05,
+81959,Rissa tridactyla pollicaris,subspecies,Black-legged Kittiwake ssp pollicaris,1,129.604247733951,35.1722138358588,Asia,South Korea,South Korean Exclusive Economic Zone,2020-02-08,12:17
+25428,Larus glaucescens,species,Glaucous-winged Gull,2,129.39704432,36.0643953,Asia,South Korea,South Korea,2004-01-14,
+41521,Prunella montanella,species,Siberian Accentor,7,128.67622202,35.30411988,Asia,South Korea,South Korea,2004-01-12,
+41751,Ciconia boyciana,species,Oriental Stork,12,126.47987723,34.55039311,Asia,South Korea,South Korea - Jeolla,2004-01-10,
+35627,Monticola solitarius,species,Blue Rock Thrush,1,129.15373028894328,35.154535975354314,Asia,South Korea,South Korea,2019-10-20,14:40
+35628,Hypsipetes amaurotis,species,Brown-eared Bulbul,2,129.15287699794806,35.157409659405204,Asia,South Korea,South Korea,2019-10-19,15:20
+103476,Parus minor,species,Japanese Tit,1,125.863,36.45469198,Asia,South Korea,South Korea,2019-10-21,10:13
+53746,Columba livia domestica,forma,Feral Pigeon,10,129.0993845835328,35.1913037057966,Asia,South Korea,South Korea,2019-08-07,14:57
+53747,Columba livia domestica,forma,Feral Pigeon,30,129.0737797971815,35.18090260215104,Asia,South Korea,South Korea,2019-08-07,13:26
+53748,Passer montanus,species,Eurasian Tree Sparrow,4,129.07378356903791,35.18090134486556,Asia,South Korea,South Korea,2019-08-07,12:26
+53749,Columba livia domestica,forma,Feral Pigeon,30,129.0737724211067,35.18088759854436,Asia,South Korea,South Korea,2019-08-07,12:26
+53750,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,129.0737396478653,35.174978859722614,Asia,South Korea,South Korea,2019-08-07,12:06
+53751,Columba livia domestica,forma,Feral Pigeon,12,129.06787139363587,35.168527476489544,Asia,South Korea,South Korea,2019-08-07,11:42
+53752,Passer montanus,species,Eurasian Tree Sparrow,2,129.06701819971204,35.166613049805164,Asia,South Korea,South Korea,2019-08-07,11:40
+53753,Columba livia domestica,forma,Feral Pigeon,2,129.06579410657287,35.16724420711398,Asia,South Korea,South Korea,2019-08-07,11:37
+53754,Passer montanus,species,Eurasian Tree Sparrow,2,129.06603667885065,35.16741570085287,Asia,South Korea,South Korea,2019-08-07,11:37
+53755,Columba livia domestica,forma,Feral Pigeon,2,129.06136100180447,35.16417148523033,Asia,South Korea,South Korea,2019-08-07,11:25
+53756,Streptopelia orientalis,species,Oriental Turtle Dove,1,129.06041367910802,35.13565951958299,Asia,South Korea,South Korea,2019-08-05,14:59
+53757,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,129.06585294753313,35.1383061055094,Asia,South Korea,South Korea,2019-08-05,14:41
+53758,Passer montanus,species,Eurasian Tree Sparrow,2,129.06600709073246,35.14317682944238,Asia,South Korea,South Korea,2019-08-05,14:27
+53759,Passer montanus,species,Eurasian Tree Sparrow,4,129.05866286717355,35.14379038475454,Asia,South Korea,South Korea,2019-08-05,13:44
+53760,Columba livia domestica,forma,Feral Pigeon,3,129.05942687764764,35.15058324672282,Asia,South Korea,South Korea,2019-08-05,13:10
+33786,Corvus macrorhynchos,species,Large-billed Crow,1,126.97441289122573,37.57596720974246,Asia,South Korea,South Korea - Seoul,2019-08-03,16:41
+77316,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.571815490723,33.2454299926758,Asia,South Korea,South Korea - Jeju,2019-08-04,14:08
+77317,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,126.507385253906,33.2452774047852,Asia,South Korea,South Korea - Jeju,2019-08-04,19:12
+77318,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,128.949157714844,35.1706886291504,Asia,South Korea,South Korea,2019-08-05,11:27
+77319,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,129.059036254883,35.150520324707,Asia,South Korea,South Korea,2019-08-05,13:10
+77320,Passer montanus,species,Eurasian Tree Sparrow,1,129.060897827148,35.1359062194824,Asia,South Korea,South Korea,2019-08-05,14:56
+77321,Passer montanus,species,Eurasian Tree Sparrow,1,129.053558349609,35.1329231262207,Asia,South Korea,South Korea,2019-08-05,15:42
+77322,Ardea cinerea,species,Grey Heron,1,129.036514282227,35.1034851074219,Asia,South Korea,South Korea,2019-08-05,17:57
+77323,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,129.028472900391,35.1287117004395,Asia,South Korea,South Korea,2019-08-06,13:42
+77325,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,129.034439086914,35.1398086547852,Asia,South Korea,South Korea,2019-08-06,14:42
+77326,Passer montanus,species,Eurasian Tree Sparrow,3,129.06623840332,35.1664505004883,Asia,South Korea,South Korea,2019-08-07,11:39
+77327,Columba livia domestica,forma,Feral Pigeon,2,129.066345214844,35.1666145324707,Asia,South Korea,South Korea,2019-08-07,11:39
+77328,Columba livia domestica,forma,Feral Pigeon,50,129.075317382813,35.1788330078125,Asia,South Korea,South Korea,2019-08-07,12:20
+77329,Columba livia domestica,forma,Feral Pigeon,1,129.071350097656,35.1850051879883,Asia,South Korea,South Korea,2019-08-07,12:42
+77330,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,129.113311767578,35.1870803833008,Asia,South Korea,South Korea,2019-08-07,15:56
+64146,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.395881652832,34.7854919433594,Asia,South Korea,South Korea - Jeolla,2019-08-01,17:31
+64147,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.39461517334,34.7860984802246,Asia,South Korea,South Korea - Jeolla,2019-08-01,17:39
+64148,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.536186218262,33.5187950134277,Asia,South Korea,South Korea - Jeju,2019-08-02,06:11
+64149,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.52848815918,33.5052795410156,Asia,South Korea,South Korea - Jeju,2019-08-02,07:59
+64150,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,4,126.533065795898,33.5043869018555,Asia,South Korea,South Korea - Jeju,2019-08-02,08:58
+64151,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.543975830078,33.4967613220215,Asia,South Korea,South Korea - Jeju,2019-08-02,11:21
+81043,Anas zonorhyncha,species,Eastern Spot-billed Duck,1,129.227093942463,35.8357447227528,Asia,South Korea,South Korea,2019-08-01,16:50
+106525,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.940521240234,37.5512504577637,Asia,South Korea,South Korea - Seoul,2019-07-29,13:03
+106526,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.940536499023,37.5520706176758,Asia,South Korea,South Korea - Seoul,2019-07-29,13:12
+106527,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,5,126.968818664551,37.5705490112305,Asia,South Korea,South Korea - Seoul,2019-07-29,16:02
+106528,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,6,126.987548828125,37.503978729248,Asia,South Korea,South Korea - Seoul,2019-07-30,13:44
+106529,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,126.724296569824,37.3705291748047,Asia,South Korea,South Korea - Seoul,2019-07-31,13:22
+106530,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,3,126.718940734863,37.3725662231445,Asia,South Korea,South Korea - Seoul,2019-07-31,14:19
+106531,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,126.724197387695,37.3486518859863,Asia,South Korea,South Korea - Seoul,2019-07-31,16:32
+106532,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.725769042969,37.3483047485352,Asia,South Korea,South Korea - Seoul,2019-07-31,16:44
+106533,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.726348876953,37.3485527038574,Asia,South Korea,South Korea - Seoul,2019-07-31,16:46
+106534,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,3,126.76424407959,37.3347434997559,Asia,South Korea,South Korea - Seoul,2019-07-31,18:57
+46030,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.940292358398,37.569263458252,Asia,South Korea,South Korea - Seoul,2019-07-28,14:13
+46031,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.943374633789,37.5742034912109,Asia,South Korea,South Korea - Seoul,2019-07-28,14:34
+46032,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.947105407715,37.5765037536621,Asia,South Korea,South Korea - Seoul,2019-07-28,15:10
+119062,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,126.97643291,37.57958243,Asia,South Korea,South Korea - Seoul,2017-07-08,
+119067,Nycticorax nycticorax,species,Black-crowned Night Heron,1,126.98224425,37.56879189,Asia,South Korea,South Korea - Seoul,2017-07-07,
+88157,Egretta eulophotes,species,Chinese Egret,1,126.4338631,37.42194221,Asia,South Korea,South Korea,2019-05-21,06:55
+89693,Eutamias sibiricus,species,Siberian Chipmunk,4,126.80184625,37.50165705,Asia,South Korea,South Korea - Seoul,2019-05-25,16:34
+92746,Charadrius alexandrinus nihonensis,subspecies,Kentish Plover ssp nihonensis,2,126.69233367,37.38468446,Asia,South Korea,South Korea - Seoul,2019-05-25,11:05
+92795,Tringa nebularia,species,Common Greenshank,2,126.69327781,37.38372967,Asia,South Korea,South Korea - Seoul,2019-05-25,11:05
+93139,Charadrius mongolus mongolus,subspecies,Lesser Sand Plover ssp mongolus,12,126.69704329,37.38411369,Asia,South Korea,South Korea - Seoul,2019-05-25,10:10
+93299,Haematopus ostralegus osculans,subspecies,Eurasian Oystercatcher ssp osculans,4,126.69620644,37.38450584,Asia,South Korea,South Korea - Seoul,2019-05-25,10:10
+102867,Anas platyrhynchos platyrhynchos,subspecies,Mallard ssp platyrhynchos,2,126.67440914,37.39153842,Asia,South Korea,South Korea - Seoul,2019-05-25,09:22
+102889,Anser albifrons albifrons,subspecies,Greater White-fronted Goose ssp albifrons,1,126.67440914,37.39153842,Asia,South Korea,South Korea - Seoul,2019-05-25,09:22
+103104,Larus vegae mongolicus,subspecies,Mongolian Gull,5,126.67734884,37.39099288,Asia,South Korea,South Korea - Seoul,2019-05-25,09:22
+103160,Anas zonorhyncha,species,Eastern Spot-billed Duck,40,126.67546056,37.39303865,Asia,South Korea,South Korea - Seoul,2019-05-25,09:02
+103542,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,1,126.43212687,37.4228581,Asia,South Korea,South Korea,2019-05-21,07:02
+2598,Hypsipetes amaurotis amaurotis,subspecies,Brown-eared Bulbul ssp amaurotis,4,126.43037841,37.42320705,Asia,South Korea,South Korea,2019-05-21,07:35
+3516,Alcedo atthis bengalensis,subspecies,Common Kingfisher ssp bengalensis,2,126.42837547,37.42417864,Asia,South Korea,South Korea,2019-05-21,07:35
+3599,Numenius phaeopus variegatus,subspecies,Eurasian Whimbrel ssp variegatus,2,126.42975932,37.42572528,Asia,South Korea,South Korea,2019-05-21,06:55
+6909,Charadrius dubius curonicus,subspecies,Little Ringed Plover ssp curonicus,2,126.42952865,37.42552931,Asia,South Korea,South Korea,2019-05-21,06:30
+20565,Ardea alba modesta,subspecies,Great Egret ssp modesta,1,126.67492676,37.39784241,Asia,South Korea,South Korea - Seoul,2019-05-25,08:21
+20566,Platalea minor,species,Black-faced Spoonbill,80,126.67727038,37.39095852,Asia,South Korea,South Korea - Seoul,2019-05-25,08:51
+20567,Tachybaptus ruficollis poggei,subspecies,Little Grebe ssp poggei,1,126.67580187,37.39303359,Asia,South Korea,South Korea - Seoul,2019-05-25,08:51
+20568,Tachybaptus ruficollis poggei,subspecies,Little Grebe ssp poggei,1,126.67590078,37.39301841,Asia,South Korea,South Korea - Seoul,2019-05-25,08:56
+20569,Chroicocephalus saundersi,species,Saunders's Gull,1,126.676139831543,37.3939933776855,Asia,South Korea,South Korea - Seoul,2019-05-25,09:01
+20570,Actitis hypoleucos,species,Common Sandpiper,1,126.676177978516,37.3939437866211,Asia,South Korea,South Korea - Seoul,2019-05-25,09:03
+20571,Ardea alba modesta,subspecies,Great Egret ssp modesta,20,126.67666626,37.39375305,Asia,South Korea,South Korea - Seoul,2019-05-25,09:07
+20572,Chroicocephalus saundersi,species,Saunders's Gull,15,126.69503734,37.38444577,Asia,South Korea,South Korea - Seoul,2019-05-25,10:09
+20573,Arenaria interpres interpres,subspecies,Ruddy Turnstone ssp interpres,3,126.6990509,37.38448334,Asia,South Korea,South Korea - Seoul,2019-05-25,10:24
+20574,Platalea minor,species,Black-faced Spoonbill,3,126.704788208008,37.3835411071777,Asia,South Korea,South Korea - Seoul,2019-05-25,10:33
+20575,Actitis hypoleucos,species,Common Sandpiper,1,126.682220458984,37.3873329162598,Asia,South Korea,South Korea - Seoul,2019-05-25,11:41
+20576,Tachybaptus ruficollis poggei,subspecies,Little Grebe ssp poggei,5,126.67258453,37.38865662,Asia,South Korea,South Korea - Seoul,2019-05-25,11:56
+20577,Garrulus glandarius brandtii,subspecies,Eurasian Jay ssp brandtii,4,126.79949951,37.50023651,Asia,South Korea,South Korea - Seoul,2019-05-25,16:34
+20578,Falco subbuteo subbuteo,subspecies,Eurasian Hobby ssp subbuteo,1,126.79949951,37.50023651,Asia,South Korea,South Korea - Seoul,2019-05-25,16:34
+20579,Parus minor minor,subspecies,Japanese Tit ssp minor,2,126.80120087,37.49858856,Asia,South Korea,South Korea - Seoul,2019-05-25,16:51
+20580,Yungipicus kizuki nippon,subspecies,Japanese Pygmy Woodpecker ssp nippon,1,126.80178833,37.50064087,Asia,South Korea,South Korea - Seoul,2019-05-25,17:03
+20581,Aegithalos caudatus magnus,subspecies,Long-tailed Tit ssp magnus,5,126.79962921,37.50011063,Asia,South Korea,South Korea - Seoul,2019-05-25,17:35
+20582,Eurystomus orientalis cyanocollis,subspecies,Oriental Dollarbird ssp cyanocollis,1,126.79911804,37.50034714,Asia,South Korea,South Korea - Seoul,2019-05-25,17:37
+98339,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,126.93009186,37.51349258,Asia,South Korea,South Korea - Seoul,2019-05-22,09:32
+24503,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,2,126.42745209,37.42456055,Asia,South Korea,South Korea,2019-05-19,22:03
+24504,Sternula albifrons sinensis,subspecies,Little Tern ssp sinensis,10,126.42833591,37.42400371,Asia,South Korea,South Korea,2019-05-20,08:30
+24505,Larus crassirostris,species,Black-tailed Gull,4,126.428304389119,37.4227466705553,Asia,South Korea,South Korea,2019-05-20,08:32
+24506,Larus crassirostris,species,Black-tailed Gull,50,126.372688293457,37.447868347168,Asia,South Korea,South Korea,2019-05-20,18:00
+103988,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,126.983772277832,37.5540199279785,Asia,South Korea,South Korea - Seoul,2019-05-06,13:31
+103989,Corvus macrorhynchos,species,Large-billed Crow,2,126.983924865723,37.5539588928223,Asia,South Korea,South Korea - Seoul,2019-05-06,13:40
+296,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,126.982719421387,37.5765609741211,Asia,South Korea,South Korea - Seoul,2019-05-05,10:27
+297,Corvus macrorhynchos,species,Large-billed Crow,2,126.98250579834,37.5772018432617,Asia,South Korea,South Korea - Seoul,2019-05-05,10:29
+298,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.982765197754,37.5783462524414,Asia,South Korea,South Korea - Seoul,2019-05-05,10:34
+38022,Larus crassirostris,species,Black-tailed Gull,1,126.489395141602,37.4559364318848,Asia,South Korea,South Korea,2019-04-24,16:46
+38023,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,127.043182373047,37.5407257080078,Asia,South Korea,South Korea - Seoul,2019-04-25,11:49
+38024,Streptopelia orientalis,species,Oriental Turtle Dove,1,127.036010742188,37.5419578552246,Asia,South Korea,South Korea - Seoul,2019-04-25,12:20
+38025,Corvus macrorhynchos,species,Large-billed Crow,1,127.04174041748,37.5430183410645,Asia,South Korea,South Korea - Seoul,2019-04-25,14:43
+38026,Sittiparus varius,species,Varied Tit,1,126.821479797363,37.7492370605469,Asia,South Korea,South Korea,2019-04-26,12:35
+38027,Picus canus,species,Grey-headed Woodpecker,1,126.8,37.7,Asia,South Korea,South Korea,2019-04-26,13:30
+38028,Dendrocopos leucotos,species,White-backed Woodpecker,1,126.822227478027,37.747428894043,Asia,South Korea,South Korea,2019-04-26,13:36
+38029,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,126.821823120117,37.7461013793945,Asia,South Korea,South Korea,2019-04-26,13:48
+38030,Coccothraustes coccothraustes,species,Hawfinch,2,126.817428588867,37.7461853027344,Asia,South Korea,South Korea,2019-04-26,14:05
+38031,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,126.817451477051,37.7461395263672,Asia,South Korea,South Korea,2019-04-26,14:05
+38032,Picus canus,species,Grey-headed Woodpecker,1,126.8,37.7,Asia,South Korea,South Korea,2019-04-26,14:07
+38033,Dendrocopos leucotos,species,White-backed Woodpecker,1,126.82197571,37.74401855,Asia,South Korea,South Korea,2019-04-26,14:18
+38034,Hypsipetes amaurotis,species,Brown-eared Bulbul,2,126.820518493652,37.7384605407715,Asia,South Korea,South Korea,2019-04-26,14:44
+38035,Passer montanus,species,Eurasian Tree Sparrow,1,127.915733337402,36.9702568054199,Asia,South Korea,South Korea,2019-04-27,16:06
+38036,Larus crassirostris,species,Black-tailed Gull,4,128.036178588867,36.9608459472656,Asia,South Korea,South Korea,2019-04-28,17:15
+38037,Passer montanus,species,Eurasian Tree Sparrow,1,128.005294799805,36.9970703125,Asia,South Korea,South Korea,2019-04-28,17:53
+38038,Anas zonorhyncha,species,Eastern Spot-billed Duck,7,127.922988891602,36.9631385803223,Asia,South Korea,South Korea,2019-04-29,11:02
+38039,Cyanopica cyanus,species,Asian Azure-winged Magpie,6,127.923126220703,36.9596328735352,Asia,South Korea,South Korea,2019-04-29,12:07
+38040,Ardea alba,species,Great Egret,1,127.916320800781,36.963794708252,Asia,South Korea,South Korea,2019-04-29,15:16
+38041,Bubulcus coromandus,species,Eastern Cattle Egret,1,127.91463470459,36.9641799926758,Asia,South Korea,South Korea,2019-04-29,15:22
+38042,Passer montanus,species,Eurasian Tree Sparrow,1,127.864929199219,37.0178146362305,Asia,South Korea,South Korea,2019-04-30,11:20
+38043,Ardea alba,species,Great Egret,1,127.869132995605,37.013240814209,Asia,South Korea,South Korea,2019-04-30,13:00
+38044,Egretta garzetta,species,Little Egret,1,127.909080505371,36.9828605651855,Asia,South Korea,South Korea,2019-04-30,16:42
+38045,Ardea alba,species,Great Egret,2,127.91136932373,36.9778900146484,Asia,South Korea,South Korea,2019-04-30,17:01
+38046,Garrulus glandarius,species,Eurasian Jay,1,127.901702880859,36.9882316589355,Asia,South Korea,South Korea,2019-05-01,10:50
+38047,Passer montanus,species,Eurasian Tree Sparrow,1,127.902412414551,36.9882583618164,Asia,South Korea,South Korea,2019-05-01,10:55
+38048,Garrulus glandarius,species,Eurasian Jay,1,127.899574279785,36.9890937805176,Asia,South Korea,South Korea,2019-05-01,12:01
+38049,Sciurus vulgaris,species,Eurasian Red Squirrel,2,127.89698792,36.98660278,Asia,South Korea,South Korea,2019-05-01,13:05
+38050,Dendrocopos major,species,Great Spotted Woodpecker,1,127.897636413574,36.9865074157715,Asia,South Korea,South Korea,2019-05-01,13:12
+38052,Actitis hypoleucos,species,Common Sandpiper,1,127.908485412598,36.9819297790527,Asia,South Korea,South Korea,2019-05-01,16:32
+38053,Egretta garzetta,species,Little Egret,1,127.907501220703,36.9807777404785,Asia,South Korea,South Korea,2019-05-01,16:41
+38054,Tringa ochropus,species,Green Sandpiper,1,127.90750122,36.98077774,Asia,South Korea,South Korea,2019-05-01,16:42
+38055,Ardea alba,species,Great Egret,1,127.909057617188,36.9794235229492,Asia,South Korea,South Korea,2019-05-01,16:53
+38056,Egretta garzetta,species,Little Egret,1,127.90901184,36.97939301,Asia,South Korea,South Korea,2019-05-01,16:53
+38057,Anas zonorhyncha,species,Eastern Spot-billed Duck,2,127.911041259766,36.9787979125977,Asia,South Korea,South Korea,2019-05-01,17:01
+38058,Passer montanus,species,Eurasian Tree Sparrow,1,127.917053222656,36.9755744934082,Asia,South Korea,South Korea,2019-05-01,17:18
+38059,Corvus macrorhynchos,species,Large-billed Crow,3,126.989730834961,37.5734405517578,Asia,South Korea,South Korea - Seoul,2019-05-02,14:35
+38060,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,126.819915771484,37.7390480041504,Asia,South Korea,South Korea,2019-05-03,11:36
+38061,Eurystomus orientalis,species,Oriental Dollarbird,1,126.820098876953,37.7493171691895,Asia,South Korea,South Korea,2019-05-03,12:58
+38062,Picus canus,species,Grey-headed Woodpecker,1,126.8,37.7,Asia,South Korea,South Korea,2019-05-03,14:10
+38063,Falco tinnunculus,species,Common Kestrel,1,126.821243286133,37.7455253601074,Asia,South Korea,South Korea,2019-05-03,15:02
+38064,Sciurus vulgaris,species,Eurasian Red Squirrel,1,126.82148743,37.74302292,Asia,South Korea,South Korea,2019-05-03,15:03
+20307,Ardea cinerea,species,Grey Heron,2,127.5133324081541,34.88098546446659,Asia,South Korea,South Korea - Jeolla,2019-04-27,13:44
+21515,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,129.15955370832356,35.19905153244875,Asia,South Korea,South Korea,2019-04-28,14:36
+21516,Streptopelia orientalis,species,Oriental Turtle Dove,1,129.1634194274154,35.18543745157648,Asia,South Korea,South Korea,2019-04-28,12:34
+21517,Corvus macrorhynchos,species,Large-billed Crow,1,129.1644562571003,35.184651489871634,Asia,South Korea,South Korea,2019-04-28,12:26
+21518,Motacilla cinerea,species,Grey Wagtail,3,129.16444726287483,35.18460435812819,Asia,South Korea,South Korea,2019-04-28,12:26
+21519,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,129.1653532959304,35.182564095139575,Asia,South Korea,South Korea,2019-04-28,11:55
+21520,Spatula clypeata,species,Northern Shoveler,1,127.5133324081541,34.88098546446659,Asia,South Korea,South Korea - Jeolla,2019-04-27,13:44
+21521,Tringa nebularia,species,Common Greenshank,8,127.51698908811257,34.87346151115313,Asia,South Korea,South Korea - Jeolla,2019-04-27,13:51
+21522,Limosa lapponica,species,Bar-tailed Godwit,10,127.51698908811257,34.87346151115313,Asia,South Korea,South Korea - Jeolla,2019-04-27,13:51
+21524,Larus vegae,species,Vega Gull,4,127.51167557,34.8694613,Asia,South Korea,South Korea - Jeolla,2019-04-27,13:54
+21525,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,127.01129351191916,37.521669150910405,Asia,South Korea,South Korea - Seoul,2019-04-25,13:42
+21526,Anas crecca,species,Eurasian Teal,2,127.51778213862988,34.87808014714626,Asia,South Korea,South Korea - Jeolla,2019-04-27,13:58
+21527,Actitis hypoleucos,species,Common Sandpiper,1,127.51736104179147,34.873645119411826,Asia,South Korea,South Korea - Jeolla,2019-04-27,14:03
+21528,Anas zonorhyncha,species,Eastern Spot-billed Duck,1,127.51698908811257,34.87346151115313,Asia,South Korea,South Korea - Jeolla,2019-04-27,13:51
+21529,Numenius phaeopus,species,Eurasian Whimbrel,4,127.5133324081541,34.88098546446659,Asia,South Korea,South Korea - Jeolla,2019-04-27,13:44
+21530,Egretta garzetta,species,Little Egret,2,127.51346735407658,34.88384612694877,Asia,South Korea,South Korea - Jeolla,2019-04-27,13:05
+21531,Streptopelia orientalis,species,Oriental Turtle Dove,1,127.01129351191916,37.521669150910405,Asia,South Korea,South Korea - Seoul,2019-04-25,13:42
+21532,Egretta garzetta,species,Little Egret,1,126.52764938458616,37.51262288423465,Asia,South Korea,South Korea,2019-04-25,08:04
+45623,Platalea minor,species,Black-faced Spoonbill,40,126.675422668457,37.3944282531738,Asia,South Korea,South Korea - Seoul,2019-04-07,08:04
+45639,Chroicocephalus saundersi,species,Saunders's Gull,2,126.743751525879,37.4046173095703,Asia,South Korea,South Korea - Seoul,2019-04-07,10:21
+45664,Platalea minor,species,Black-faced Spoonbill,25,126.67610168457,37.39404296875,Asia,South Korea,South Korea - Seoul,2019-04-08,16:17
+113053,Neophocaena asiaeorientalis sunameri,subspecies,East Asian Finless Porpoise,3,127.8122532,34.81326495,Asia,South Korea,South Korea - Jeolla,2019-03-30,13:50
+54578,Streptopelia orientalis,species,Oriental Turtle Dove,5,128.913882,37.79969618,Asia,South Korea,South Korea,2018-02-19,10:02
+55235,Aythya ferina,species,Common Pochard,2,128.90980504,37.79886538,Asia,South Korea,South Korea,2018-02-06,09:49
+55532,Hypsipetes amaurotis,species,Brown-eared Bulbul,10,128.91081356,37.80159511,Asia,South Korea,South Korea,2018-02-13,10:04
+55589,Aythya marila,species,Greater Scaup,10,128.90997671,37.79825499,Asia,South Korea,South Korea,2018-02-13,09:54
+55602,Tachybaptus ruficollis,species,Little Grebe,1,128.90991233,37.79889929,Asia,South Korea,South Korea,2018-02-06,09:44
+55603,Periparus ater,species,Coal Tit,10,128.9133241,37.80018787,Asia,South Korea,South Korea,2018-02-06,09:34
+55667,Anas acuta,species,Northern Pintail,5,128.90989088,37.79883147,Asia,South Korea,South Korea,2018-02-06,09:42
+96821,Neophocaena asiaeorientalis sunameri,subspecies,East Asian Finless Porpoise,2,127.8,34.811667,Asia,South Korea,South Korea - Jeolla,2018-12-21,10:17
+44791,Parus minor minor,subspecies,Japanese Tit ssp minor,1,126.70115537021933,37.76245304852515,Asia,South Korea,South Korea,2018-10-20,16:24
+44792,Phalacrocorax carbo,species,Great Cormorant,1,126.71491191734252,37.75529347829311,Asia,South Korea,South Korea,2018-10-20,15:35
+44793,Platalea minor,species,Black-faced Spoonbill,3,126.70164143678424,37.758264611510334,Asia,South Korea,South Korea,2018-10-20,15:02
+44794,Motacilla alba,species,White Wagtail,1,126.68817624461528,37.72173359527972,Asia,South Korea,South Korea,2018-10-20,14:17
+44795,Anas platyrhynchos,species,Mallard,1,127.04319778841644,37.553402977099225,Asia,South Korea,South Korea - Seoul,2018-10-20,11:16
+44796,Parus minor minor,subspecies,Japanese Tit ssp minor,1,127.04122804117112,37.55296648949157,Asia,South Korea,South Korea - Seoul,2018-10-20,11:11
+44797,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,127.03574476775437,37.5503501622356,Asia,South Korea,South Korea - Seoul,2018-10-20,10:42
+44798,Pica serica,species,Oriental Magpie,1,127.03553664854948,37.55038467134067,Asia,South Korea,South Korea - Seoul,2018-10-20,10:25
+120049,Tringa nebularia,species,Common Greenshank,10,126.64624214,37.36212362,Asia,South Korea,South Korea - Seoul,2018-10-11,15:00
+120051,Platalea minor,species,Black-faced Spoonbill,1,126.62529945,37.36817218,Asia,South Korea,South Korea - Seoul,2018-10-11,12:00
+105163,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.97601818,37.58042008,Asia,South Korea,South Korea - Seoul,2018-10-22,
+105166,Hypsipetes amaurotis,species,Brown-eared Bulbul,5,126.97601818,37.58042008,Asia,South Korea,South Korea - Seoul,2018-10-22,
+30253,Platalea minor,species,Black-faced Spoonbill,8,126.64535522,37.35973362,Asia,South Korea,South Korea - Seoul,2018-10-15,13:00
+57638,Tringa nebularia,species,Common Greenshank,1,126.695993518969,37.3820368397126,Asia,South Korea,South Korea - Seoul,2018-08-22,14:53
+57639,Calidris tenuirostris,species,Great Knot,10,126.695993518969,37.3820368397126,Asia,South Korea,South Korea - Seoul,2018-08-22,14:53
+57640,Haematopus ostralegus osculans,subspecies,Eurasian Oystercatcher ssp osculans,1,126.686851055469,37.3638353871187,Asia,South Korea,South Korea - Seoul,2018-08-22,14:56
+57641,Platalea minor,species,Black-faced Spoonbill,1,126.685305928086,37.3632411347554,Asia,South Korea,South Korea - Seoul,2018-08-22,14:56
+57642,Ardea alba modesta,subspecies,Great Egret ssp modesta,15,126.677157636588,37.393592460033,Asia,South Korea,South Korea - Seoul,2018-08-22,17:03
+57643,Actitis hypoleucos,species,Common Sandpiper,1,126.677104709404,37.393619941772,Asia,South Korea,South Korea - Seoul,2018-08-22,17:11
+73044,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.46150333333,37.635948333333,Asia,South Korea,South Korea,2018-09-14,15:06
+73048,Falco subbuteo,species,Eurasian Hobby,1,126.47050833333,37.794546666667,Asia,South Korea,South Korea,2018-09-14,16:50
+83493,Oriolus chinensis,species,Black-naped Oriole,1,126.479302473185,37.7867026334594,Asia,South Korea,South Korea,2018-09-14,17:10
+83494,Bubulcus coromandus,species,Eastern Cattle Egret,4,126.487969324241,37.6982112249239,Asia,South Korea,South Korea,2018-09-14,15:32
+83495,Chlidonias hybrida,species,Whiskered Tern,1,126.46327172,37.6359511,Asia,South Korea,South Korea,2018-09-14,14:12
+83496,Platalea minor,species,Black-faced Spoonbill,35,126.461983165361,37.5900602743101,Asia,South Korea,South Korea,2018-09-14,13:34
+83497,Corvus macrorhynchos,species,Large-billed Crow,2,126.46201404,37.59010343,Asia,South Korea,South Korea,2018-09-14,13:34
+83498,Egretta eulophotes,species,Chinese Egret,1,126.411801137015,37.5942115673719,Asia,South Korea,South Korea,2018-09-14,13:10
+83499,Platalea minor,species,Black-faced Spoonbill,11,126.400733772268,37.6000852609506,Asia,South Korea,South Korea,2018-09-14,11:17
+83500,Ardea intermedia,species,Intermediate Egret,1,126.402609086508,37.6006109383162,Asia,South Korea,South Korea,2018-09-14,11:10
+83501,Platalea minor,species,Black-faced Spoonbill,1,126.385612549761,37.6059442491202,Asia,South Korea,South Korea,2018-09-14,10:42
+83502,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.385923271617,37.6078192856441,Asia,South Korea,South Korea,2018-09-14,09:42
+83503,Egretta eulophotes,species,Chinese Egret,3,126.386228415483,37.6081526899917,Asia,South Korea,South Korea,2018-09-14,09:14
+83504,Larus crassirostris,species,Black-tailed Gull,200,126.385896080894,37.6079334209248,Asia,South Korea,South Korea,2018-09-14,09:03
+83505,Parus minor minor,subspecies,Japanese Tit ssp minor,1,126.386330079496,37.6082295864376,Asia,South Korea,South Korea,2018-09-14,09:00
+83506,Passer montanus,species,Eurasian Tree Sparrow,1,126.387431710515,37.6079871999474,Asia,South Korea,South Korea,2018-09-14,08:49
+83507,Hypsipetes amaurotis,species,Brown-eared Bulbul,3,126.387431710515,37.6079871999474,Asia,South Korea,South Korea,2018-09-14,08:48
+83508,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.387472659861,37.6081651601543,Asia,South Korea,South Korea,2018-09-14,08:46
+83509,Motacilla cinerea,species,Grey Wagtail,2,126.387475986577,37.6081289291365,Asia,South Korea,South Korea,2018-09-14,08:45
+97571,Alcedo atthis,species,Common Kingfisher,1,126.70435,37.75778,Asia,South Korea,South Korea,2018-09-12,09:09
+106546,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,126.70787167,37.56795,Asia,South Korea,South Korea,2018-09-11,11:45
+106562,Hypsipetes amaurotis,species,Brown-eared Bulbul,6,126.828885132555,37.7409733608523,Asia,South Korea,South Korea,2018-09-12,16:52
+106563,Sittiparus varius,species,Varied Tit,2,126.831501619439,37.7435545659272,Asia,South Korea,South Korea,2018-09-12,15:56
+106564,Ardeola bacchus,species,Chinese Pond Heron,2,126.735879981404,37.7684627145786,Asia,South Korea,South Korea,2018-09-12,09:41
+106565,Bubulcus coromandus,species,Eastern Cattle Egret,2,126.735562224902,37.7694848815441,Asia,South Korea,South Korea,2018-09-12,09:39
+106566,Anas zonorhyncha,species,Eastern Spot-billed Duck,2,126.688641851164,37.7215104332857,Asia,South Korea,South Korea,2018-09-12,08:03
+106567,Phalacrocorax carbo,species,Great Cormorant,3,126.688643018962,37.7214983732262,Asia,South Korea,South Korea,2018-09-12,08:00
+106569,Ardea alba,species,Great Egret,10,126.68862074794,37.7214747800724,Asia,South Korea,South Korea,2018-09-12,07:51
+106570,Platalea minor,species,Black-faced Spoonbill,1,126.688674232418,37.7214120043788,Asia,South Korea,South Korea,2018-09-12,07:51
+106575,Dendrocopos major japonicus,subspecies,Great Spotted Woodpecker ssp japonicus,1,126.73008833,37.54874333,Asia,South Korea,South Korea,2018-09-11,09:09
+106743,Falco subbuteo subbuteo,subspecies,Eurasian Hobby ssp subbuteo,1,126.72659833,37.55315167,Asia,South Korea,South Korea,2018-09-11,09:38
+106746,Parus minor minor,subspecies,Japanese Tit ssp minor,1,126.73009333,37.54972167,Asia,South Korea,South Korea,2018-09-11,09:23
+106753,Cyanoptila cyanomelana,species,Blue-and-white Flycatcher,1,126.71239333,37.56569,Asia,South Korea,South Korea,2018-09-11,10:50
+106773,Sittiparus varius varius,subspecies,Varied Tit ssp varius,1,126.73018,37.549695,Asia,South Korea,South Korea,2018-09-11,09:22
+106783,Cyanopica cyanus cyanus,subspecies,Azure-winged Magpie ssp cyanus,1,126.73006333,37.54880833,Asia,South Korea,South Korea,2018-09-11,09:12
+112489,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.72133924033,37.5564793342916,Asia,South Korea,South Korea,2018-09-11,13:19
+112490,Garrulus glandarius,species,Eurasian Jay,1,126.712377193074,37.5655937208111,Asia,South Korea,South Korea,2018-09-11,10:44
+112491,Garrulus glandarius,species,Eurasian Jay,1,126.72675524167,37.5532248008379,Asia,South Korea,South Korea,2018-09-11,09:37
+100454,Crocothemis servilia,species,Oriental Scarlet,1,126.39168056,33.24423056,Asia,South Korea,South Korea - Jeju,2012-07-17,07:51
+40137,Pica serica,species,Oriental Magpie,1,129.02318361,35.11109073,Asia,South Korea,South Korea,2016-06-06,
+63078,Anisoptera indet.,multispecies,Dragonfly unknown,1,126.64745806,37.38357806,Asia,South Korea,South Korea - Seoul,2018-06-02,15:59
+70010,Platycnemis phyllopoda,species,,1,127.37863972222,35.402573055556,Asia,South Korea,South Korea,2018-06-14,13:24
+70036,Trigomphus nigripes,species,,1,128.76838667,36.57350167,Asia,South Korea,South Korea,2018-06-09,10:07
+70523,Orthetrum albistylum,species,White-tailed Skimmer,1,128.76614305556,36.57641,Asia,South Korea,South Korea,2018-06-09,09:42
+70535,Ischnura asiatica,species,Asian Bluetail,1,126.64600306,37.38480639,Asia,South Korea,South Korea - Seoul,2018-06-02,15:45
+70557,Pseudothemis zonata,species,Pied Skimmer,1,127.15338305556,35.817651388889,Asia,South Korea,South Korea,2018-06-14,16:19
+20541,Charadrius dubius,species,Little Ringed Plover,1,126.462367979569,37.4337424880245,Asia,South Korea,South Korea,2018-07-12,17:09
+20542,Streptopelia orientalis,species,Oriental Turtle Dove,2,126.465577057417,37.436058815863,Asia,South Korea,South Korea,2018-07-12,16:56
+20543,Corvus corone,species,Carrion Crow,6,126.462802099548,37.4385214084727,Asia,South Korea,South Korea,2018-07-12,16:49
+83451,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,129.152024042288,35.1553123685326,Asia,South Korea,South Korea,2018-07-08,18:07
+83452,Ardea alba,species,Great Egret,2,129.153593495235,35.1564192740834,Asia,South Korea,South Korea,2018-07-08,18:36
+83453,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,129.152024042288,35.1553123685326,Asia,South Korea,South Korea,2018-07-08,18:07
+83454,Egretta garzetta,species,Little Egret,12,129.151983175581,35.1569117783115,Asia,South Korea,South Korea,2018-07-08,18:00
+83455,Streptopelia orientalis,species,Oriental Turtle Dove,2,129.212740189056,35.836271215526,Asia,South Korea,South Korea,2018-07-08,13:45
+13822,Falco peregrinus japonensis,subspecies,Peregrine Falcon ssp japonensis,1,125.0266667,34.5416667,Asia,South Korea,South Korea - Jeolla,2018-07-05,19:55
+51436,Eutamias sibiricus,species,Siberian Chipmunk,1,127.29258299,36.38169428,Asia,South Korea,South Korea,2018-05-09,08:51
+51457,Motacilla alba leucopsis,subspecies,White Wagtail ssp leucopsis,1,127.30989933,36.35793723,Asia,South Korea,South Korea,2018-05-09,06:59
+51501,Tringa glareola,species,Wood Sandpiper,1,127.32689023,36.35888074,Asia,South Korea,South Korea,2018-05-09,06:26
+52714,Eurystomus orientalis,species,Oriental Dollarbird,4,127.31597185,36.3575513,Asia,South Korea,South Korea,2018-05-09,06:50
+52769,Butorides striata,species,Striated Heron,3,127.35626578,36.30800826,Asia,South Korea,South Korea,2018-05-08,13:33
+53279,Tringa brevipes,species,Grey-tailed Tattler,1,127.35730112,36.28456299,Asia,South Korea,South Korea,2018-05-08,12:33
+53381,Calopteryx japonica,species,,12,127.35540748,36.3256696,Asia,South Korea,South Korea,2018-05-08,11:04
+55460,Bombina orientalis,species,"Oriental Bell Toad, Oriental Fire-bellied Toad",1,129.12363052,35.10395368,Asia,South Korea,South Korea,2018-05-05,07:32
+73893,Anas zonorhyncha,species,Eastern Spot-billed Duck,8,128.9456,35.1042,Asia,South Korea,South Korea,2018-03-29,16:11
+73894,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,129.0185,35.0783,Asia,South Korea,South Korea,2018-03-29,17:43
+73895,Platalea leucorodia,species,Eurasian Spoonbill,2,128.9436,35.0882,Asia,South Korea,South Korea,2018-03-29,16:41
+73896,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,3,128.9452,35.0927,Asia,South Korea,South Korea,2018-03-29,16:34
+73897,Ardea cinerea,species,Grey Heron,8,128.9454,35.104,Asia,South Korea,South Korea,2018-03-29,16:11
+73898,Mareca penelope,species,Eurasian Wigeon,12,128.9456,35.1042,Asia,South Korea,South Korea,2018-03-29,16:11
+73899,Spatula clypeata,species,Northern Shoveler,80,128.9454,35.1041,Asia,South Korea,South Korea,2018-03-29,16:00
+91848,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,129.1472,35.1543,Asia,South Korea,South Korea,2018-03-27,17:52
+91849,Ardea cinerea,species,Grey Heron,1,129.1468,35.1535,Asia,South Korea,South Korea,2018-03-27,17:45
+91850,Larus crassirostris,species,Black-tailed Gull,2,129.1472,35.154,Asia,South Korea,South Korea,2018-03-27,17:42
+91852,Monticola solitarius,species,Blue Rock Thrush,1,129.1472,35.1542,Asia,South Korea,South Korea,2018-03-27,17:37
+91853,Phalacrocorax capillatus,species,Japanese Cormorant,5,129.1472,35.1552,Asia,South Korea,South Korea,2018-03-27,17:32
+9541,Larus crassirostris,species,Black-tailed Gull,4,129.1523,35.1571,Asia,South Korea,South Korea,2018-03-25,11:42
+9630,Milvus migrans,species,Black Kite,1,129.1629,35.1593,Asia,South Korea,South Korea,2018-03-25,13:45
+9631,Columba livia domestica,forma,Feral Pigeon,2,129.1541,35.1545,Asia,South Korea,South Korea,2018-03-25,13:04
+9632,Podiceps cristatus,species,Great Crested Grebe,4,129.1542,35.1545,Asia,South Korea,South Korea,2018-03-25,13:03
+9633,Streptopelia orientalis,species,Oriental Turtle Dove,1,129.1518,35.1536,Asia,South Korea,South Korea,2018-03-25,12:29
+9634,Corvus corone,species,Carrion Crow,4,129.152,35.1536,Asia,South Korea,South Korea,2018-03-25,12:28
+9635,Hypsipetes amaurotis,species,Brown-eared Bulbul,8,129.151,35.1569,Asia,South Korea,South Korea,2018-03-25,12:06
+9636,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,129.1519,35.1567,Asia,South Korea,South Korea,2018-03-25,11:47
+9637,Chroicocephalus ridibundus,species,Black-headed Gull,60,129.1519,35.1578,Asia,South Korea,South Korea,2018-03-25,11:30
+9638,Fulica atra,species,Eurasian Coot,21,129.1526,35.1573,Asia,South Korea,South Korea,2018-03-25,11:29
+9639,Passer montanus,species,Eurasian Tree Sparrow,3,129.1549,35.1633,Asia,South Korea,South Korea,2018-03-25,10:09
+53569,Parus minor minor,subspecies,Japanese Tit ssp minor,1,126.7278,37.6869,Asia,South Korea,South Korea,2018-03-08,13:41
+53570,Phalacrocorax carbo,species,Great Cormorant,1,126.7113,37.6432,Asia,South Korea,South Korea,2018-03-08,13:32
+53571,Ardea alba,species,Great Egret,1,126.6421,37.671,Asia,South Korea,South Korea,2018-03-08,13:21
+115751,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,5,126.8102,37.5242,Asia,South Korea,South Korea - Seoul,2018-03-06,12:37
+97363,Larus crassirostris,species,Black-tailed Gull,1,129.35126609,35.45392752,Asia,South Korea,South Korea,2018-01-21,07:36
+109213,Gavia arctica,species,Black-throated Diver,12,126.2666667,34.05,Asia,South Korea,South Korea - Jeolla,2018-01-20,09:30
+55301,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,3,127.9301,37.3436,Asia,South Korea,South Korea,2017-06-02,09:06
+38365,Motacilla alba,species,White Wagtail,1,129.05981991,35.16753541,Asia,South Korea,South Korea,2017-12-05,
+55078,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,129.0971,35.5791,Asia,South Korea,South Korea,2017-12-06,10:41
+55079,Hypsipetes amaurotis,species,Brown-eared Bulbul,2,129.1063,35.1654,Asia,South Korea,South Korea,2017-12-06,10:01
+55080,Zosterops japonicus japonicus,subspecies,Warbling White-eye ssp japonicus,1,129.0609,35.1674,Asia,South Korea,South Korea,2017-12-06,08:12
+55081,Emberiza elegans,species,Yellow-throated Bunting,3,129.0617,35.1709,Asia,South Korea,South Korea,2017-12-06,08:04
+55082,Phoenicurus auroreus,species,Daurian Redstart,1,129.0617,35.17,Asia,South Korea,South Korea,2017-12-06,07:50
+55083,Passer montanus,species,Eurasian Tree Sparrow,1,129.0612,35.168,Asia,South Korea,South Korea,2017-12-06,07:44
+55084,Anas zonorhyncha,species,Eastern Spot-billed Duck,3,129.0596,35.1676,Asia,South Korea,South Korea,2017-12-06,07:40
+55085,Parus minor,species,Japanese Tit,4,129.058,35.1668,Asia,South Korea,South Korea,2017-12-06,07:26
+55086,Anas zonorhyncha,species,Eastern Spot-billed Duck,2,129.0548,35.1661,Asia,South Korea,South Korea,2017-12-06,07:06
+55087,Hypsipetes amaurotis,species,Brown-eared Bulbul,20,129.0549,35.1645,Asia,South Korea,South Korea,2017-12-06,07:01
+61032,Chloris sinica,species,Grey-capped Greenfinch,10,129.0589,35.1694,Asia,South Korea,South Korea,2017-12-05,07:51
+61033,Tachybaptus ruficollis,species,Little Grebe,1,129.0539,35.1659,Asia,South Korea,South Korea,2017-12-05,07:21
+61034,Fulica atra,species,Eurasian Coot,5,129.0542,35.1655,Asia,South Korea,South Korea,2017-12-05,07:19
+115124,Chloris sinica,species,Grey-capped Greenfinch,1,126.3413,33.2414,Asia,South Korea,South Korea - Jeju,2012-10-28,16:00
+115125,Chloris sinica,species,Grey-capped Greenfinch,1,126.3413,33.2414,Asia,South Korea,South Korea - Jeju,2012-10-28,08:41
+115126,Pica serica serica,subspecies,Oriental Magpie ssp serica,1,126.3413,33.2414,Asia,South Korea,South Korea - Jeju,2012-10-28,08:41
+115128,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.2649,33.2079,Asia,South Korea,South Korea - Jeju,2012-10-28,10:00
+115129,Pica serica serica,subspecies,Oriental Magpie ssp serica,1,126.4247,33.2379,Asia,South Korea,South Korea - Jeju,2012-10-25,13:01
+115130,Pica serica serica,subspecies,Oriental Magpie ssp serica,1,126.4054,33.245,Asia,South Korea,South Korea - Jeju,2012-10-24,07:42
+115132,Chloris sinica,species,Grey-capped Greenfinch,1,126.4054,33.245,Asia,South Korea,South Korea - Jeju,2012-10-23,07:52
+115133,Pica serica serica,subspecies,Oriental Magpie ssp serica,1,126.4054,33.245,Asia,South Korea,South Korea - Jeju,2012-10-23,07:52
+115134,Pica serica serica,subspecies,Oriental Magpie ssp serica,1,126.4054,33.245,Asia,South Korea,South Korea - Jeju,2012-10-21,17:38
+115135,Anas zonorhyncha,species,Eastern Spot-billed Duck,1,126.5595,33.2414,Asia,South Korea,South Korea - Jeju,2012-10-20,10:30
+115136,Actitis hypoleucos,species,Common Sandpiper,1,126.5595,33.2414,Asia,South Korea,South Korea - Jeju,2012-10-20,10:30
+115138,Pica serica serica,subspecies,Oriental Magpie ssp serica,1,126.4054,33.245,Asia,South Korea,South Korea - Jeju,2012-10-20,06:50
+115139,Pica serica serica,subspecies,Oriental Magpie ssp serica,1,126.4054,33.245,Asia,South Korea,South Korea - Jeju,2012-10-19,15:41
+115140,Pica serica serica,subspecies,Oriental Magpie ssp serica,1,126.4054,33.245,Asia,South Korea,South Korea - Jeju,2012-10-19,16:30
+112518,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,127.74072904,34.73054647,Asia,South Korea,South Korea - Jeolla,2017-10-28,12:46
+13036,Streptopelia orientalis,species,Oriental Turtle Dove,3,127.2866667,33.863333,Asia,South Korea,South Korea - Jeonnam,2017-10-25,09:50
+13075,Motacilla alba,species,White Wagtail,1,129.163,35.1599,Asia,South Korea,South Korea,2017-10-25,09:04
+13076,Hypsipetes amaurotis,species,Brown-eared Bulbul,35,129.1641,35.1596,Asia,South Korea,South Korea,2017-10-25,08:57
+13077,Parus minor minor,subspecies,Japanese Tit ssp minor,1,129.1628,35.1593,Asia,South Korea,South Korea,2017-10-25,08:52
+13078,Motacilla alba,species,White Wagtail,1,129.1632,35.159,Asia,South Korea,South Korea,2017-10-23,09:30
+13079,Chroicocephalus ridibundus,species,Black-headed Gull,40,129.1634,35.159,Asia,South Korea,South Korea,2017-10-23,09:28
+35755,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,129.1513,35.1546,Asia,South Korea,South Korea,2017-10-22,14:15
+35756,Hypsipetes amaurotis,species,Brown-eared Bulbul,3,129.1624,35.1875,Asia,South Korea,South Korea,2017-10-22,11:41
+35758,Corvus corone,species,Carrion Crow,2,129.1602,35.1897,Asia,South Korea,South Korea,2017-10-22,11:23
+35760,Streptopelia orientalis,species,Oriental Turtle Dove,1,129.165,35.1839,Asia,South Korea,South Korea,2017-10-22,11:00
+35761,Anas zonorhyncha,species,Eastern Spot-billed Duck,1,129.1678,35.1802,Asia,South Korea,South Korea,2017-10-22,10:54
+35762,Columba livia domestica,forma,Feral Pigeon,20,129.163,35.1598,Asia,South Korea,South Korea,2017-10-22,09:31
+35764,Motacilla alba,species,White Wagtail,1,129.163,35.1598,Asia,South Korea,South Korea,2017-10-22,09:31
+65173,Monticola solitarius,species,Blue Rock Thrush,1,126.581794,33.247031,Asia,South Korea,South Korea - Jeju,2016-08-31,
+65513,Terpsiphone atrocaudata,species,Japanese Paradise Flycatcher,1,126.62723109,33.42334625,Asia,South Korea,South Korea - Jeju,2016-08-30,
+65767,Zosterops japonicus,species,Warbling White-eye,1,126.5566698,33.2451639,Asia,South Korea,South Korea - Jeju,2016-08-29,
+65781,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.56171679,33.24334467,Asia,South Korea,South Korea - Jeju,2016-08-29,
+65843,Bubulcus coromandus,species,Eastern Cattle Egret,1,126.56042933,33.24459192,Asia,South Korea,South Korea - Jeju,2016-08-29,
+65876,Anas zonorhyncha,species,Eastern Spot-billed Duck,1,126.56094616,33.24415666,Asia,South Korea,South Korea - Jeju,2016-08-29,
+75993,Butorides striata,species,Striated Heron,1,124.6785,37.9759,Asia,South Korea,South Korea,2017-05-19,06:03
+85297,Butorides striata,species,Striated Heron,1,124.6419,37.9257,Asia,South Korea,South Korea,2017-05-18,19:31
+97421,Paracercion calamorum,species,Dusky Lilysquatter,10,127.2257,35.8526,Asia,South Korea,South Korea,2017-05-30,09:43
+77632,Larus vegae,species,Vega Gull,4,126.64052747,37.41393643,Asia,South Korea,South Korea - Seoul,2017-05-05,14:48
+106554,Weigela spec.,multispecies,,1,127.21113726,36.36151713,Asia,South Korea,South Korea - Gyeryongsan NP,2017-05-04,09:51
+106556,Rhododendron spec.,multispecies,,1,127.21293971,36.35730077,Asia,South Korea,South Korea - Gyeryongsan NP,2017-05-04,09:37
+106572,Eutamias sibiricus,species,Siberian Chipmunk,1,127.21293971,36.3570934,Asia,South Korea,South Korea - Gyeryongsan NP,2017-05-04,08:00
+106705,Glechoma spec.,multispecies,,1,127.35365879,36.33873956,Asia,South Korea,South Korea,2017-04-25,11:08
+106716,Shaogomphus postocularis,species,,1,127.35365879,36.33873956,Asia,South Korea,South Korea,2017-04-25,11:07
+106972,Viola spec.,multispecies,,1,127.35536836,36.33927525,Asia,South Korea,South Korea,2017-04-25,10:54
+107023,Caryophyllaceae spec.,multispecies,,1,127.35536836,36.33927525,Asia,South Korea,South Korea,2017-04-25,10:22
+107060,Viola spec.,multispecies,,1,127.35536836,36.33927525,Asia,South Korea,South Korea,2017-04-25,09:54
+107097,Viola spec.,multispecies,,1,127.35536836,36.33927525,Asia,South Korea,South Korea,2017-04-25,07:54
+118955,Fallopia japonica,species,Japanese Knotweed,1,129.12611984,35.11158856,Asia,South Korea,South Korea,2017-04-28,10:40
+118977,Valeriana officinalis,species,Common Valerian,1,129.12679207,35.10929798,Asia,South Korea,South Korea,2017-04-28,09:49
+118984,Boraginaceae spec.,multispecies,,1,129.12679207,35.10929798,Asia,South Korea,South Korea,2017-04-28,09:46
+119002,Thlaspi arvense,species,Field Penny-cress,1,127.40950674,36.39047197,Asia,South Korea,South Korea,2017-04-26,10:50
+349,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,10,127.04624118,37.50955122,Asia,South Korea,South Korea - Seoul,2017-06-07,18:49
+350,Streptopelia orientalis,species,Oriental Turtle Dove,10,127.05142749,37.50876579,Asia,South Korea,South Korea - Seoul,2017-06-07,19:05
+2647,Egretta garzetta,species,Little Egret,10,126.5184,37.4691,Asia,South Korea,South Korea,2017-05-17,19:23
+2648,Larus crassirostris,species,Black-tailed Gull,50,126.5184,37.4691,Asia,South Korea,South Korea,2017-05-17,19:23
+2650,Butorides striata,species,Striated Heron,1,126.5184,37.4691,Asia,South Korea,South Korea,2017-05-17,19:20
+2651,Numenius phaeopus variegatus,subspecies,Eurasian Whimbrel ssp variegatus,600,126.5184,37.4691,Asia,South Korea,South Korea,2017-05-17,19:19
+2652,Numenius madagascariensis,species,Far Eastern Curlew,200,126.5184,37.4691,Asia,South Korea,South Korea,2017-05-17,17:42
+2653,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,2,126.3982,37.485,Asia,South Korea,South Korea,2017-05-17,17:42
+2654,Charadrius dubius,species,Little Ringed Plover,2,126.3941,37.4827,Asia,South Korea,South Korea,2017-05-17,17:21
+2706,Charadrius dubius,species,Little Ringed Plover,1,126.4056,37.4892,Asia,South Korea,South Korea,2017-05-17,16:45
+2744,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,1,126.4113,37.4924,Asia,South Korea,South Korea,2017-05-17,16:17
+2752,Egretta garzetta,species,Little Egret,2,126.3944,37.4831,Asia,South Korea,South Korea,2017-05-17,15:58
+10593,Corvus macrorhynchos,species,Large-billed Crow,2,126.98947454,37.57766492,Asia,South Korea,South Korea - Seoul,2017-06-06,09:47
+10594,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,126.98947454,37.57766492,Asia,South Korea,South Korea - Seoul,2017-06-06,09:52
+10595,Hypsipetes amaurotis,species,Brown-eared Bulbul,2,126.98995263,37.57945558,Asia,South Korea,South Korea - Seoul,2017-06-06,10:17
+10596,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.99285077,37.58563172,Asia,South Korea,South Korea - Seoul,2017-06-06,12:12
+10597,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,126.99239539,37.58338169,Asia,South Korea,South Korea - Seoul,2017-06-06,12:45
+36193,Hypsipetes amaurotis,species,Brown-eared Bulbul,4,126.91528947,37.56118334,Asia,South Korea,South Korea - Seoul,2017-06-05,07:28
+36198,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.91212606,37.56201593,Asia,South Korea,South Korea - Seoul,2017-06-05,07:51
+36200,Hypsipetes amaurotis,species,Brown-eared Bulbul,4,126.97650192,37.58081301,Asia,South Korea,South Korea - Seoul,2017-06-05,10:52
+36201,Corvus macrorhynchos,species,Large-billed Crow,1,126.97575343,37.5792256,Asia,South Korea,South Korea - Seoul,2017-06-05,12:11
+36202,Nycticorax nycticorax,species,Black-crowned Night Heron,1,126.98819048,37.56821661,Asia,South Korea,South Korea - Seoul,2017-06-05,15:33
+54466,Pseudothemis zonata,species,Pied Skimmer,10,128.689,35.3026,Asia,South Korea,South Korea,2017-05-31,13:29
+56647,Streptopelia orientalis,species,Oriental Turtle Dove,4,126.92597335,37.55155607,Asia,South Korea,South Korea - Seoul,2017-06-04,15:56
+61194,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,2,126.3743,37.4712,Asia,South Korea,South Korea,2017-05-17,15:02
+61195,Larus crassirostris,species,Black-tailed Gull,20,126.3825,37.4765,Asia,South Korea,South Korea,2017-05-17,14:50
+61254,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,4,126.42411404,37.42970596,Asia,South Korea,South Korea,2017-06-04,08:13
+61255,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.42263267,37.43865445,Asia,South Korea,South Korea,2017-06-04,08:51
+61256,Larus crassirostris,species,Black-tailed Gull,8,126.41744264,37.43392875,Asia,South Korea,South Korea,2017-06-04,09:57
+61849,Sympecma paedisca,species,Siberian Winter Damsel,1,126.71131437,37.76042384,Asia,South Korea,South Korea,2017-06-02,15:19
+74145,Ciconia boyciana,species,Oriental Stork,1,126.449,36.683,Asia,South Korea,South Korea,2017-05-26,16:30
+74219,Chroicocephalus saundersi,species,Saunders's Gull,50,126.707,37.383,Asia,South Korea,South Korea - Seoul,2017-06-02,12:17
+74414,Platalea minor,species,Black-faced Spoonbill,6,126.712,37.76,Asia,South Korea,South Korea,2017-06-02,15:47
+79849,Egretta garzetta,species,Little Egret,1,126.41887278,37.42763125,Asia,South Korea,South Korea,2017-06-03,06:52
+79850,Sinosuthora webbiana,species,Vinous-throated Parrotbill,2,126.42282014,37.4218441,Asia,South Korea,South Korea,2017-06-03,07:24
+79851,Egretta eulophotes,species,Chinese Egret,2,126.41634393,37.42087874,Asia,South Korea,South Korea,2017-06-03,08:18
+79852,Egretta garzetta,species,Little Egret,1,126.41634394,37.42087873,Asia,South Korea,South Korea,2017-06-03,08:18
+93594,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,3,127.93013446,37.34362799,Asia,South Korea,South Korea,2017-06-02,09:06
+93604,Chroicocephalus saundersi,species,Saunders's Gull,50,126.70672756,37.38315517,Asia,South Korea,South Korea - Seoul,2017-06-02,12:17
+93606,Platalea minor,species,Black-faced Spoonbill,6,126.71166222,37.76035586,Asia,South Korea,South Korea,2017-06-02,15:47
+97669,Calopteryx japonica,species,,100,127.22573622,35.85309269,Asia,South Korea,South Korea,2017-05-30,09:22
+97670,Orthetrum albistylum,species,White-tailed Skimmer,2,127.22569981,35.85263031,Asia,South Korea,South Korea,2017-05-30,09:43
+97671,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,128.26210162,35.08118334,Asia,South Korea,South Korea,2017-05-31,07:00
+97672,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,4,128.68147699,35.31210908,Asia,South Korea,South Korea,2017-05-31,12:33
+100905,Yungipicus canicapillus,species,Grey-capped Pygmy Woodpecker,1,127.35458147,36.33757283,Asia,South Korea,South Korea,2017-05-02,08:35
+101310,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,127.3555474,36.33953425,Asia,South Korea,South Korea,2017-05-01,09:10
+101319,Garrulus glandarius brandtii,subspecies,Eurasian Jay ssp brandtii,1,127.3555474,36.33953425,Asia,South Korea,South Korea,2017-05-01,09:10
+101421,Tringa nebularia,species,Common Greenshank,60,126.64289519,37.4089935,Asia,South Korea,South Korea - Seoul,2017-05-05,14:30
+101451,Haematopus ostralegus osculans,subspecies,Eurasian Oystercatcher ssp osculans,4,126.64289519,37.4089935,Asia,South Korea,South Korea - Seoul,2017-05-05,14:30
+101642,Calidris ruficollis,species,Red-necked Stint,71,126.64289519,37.4089935,Asia,South Korea,South Korea - Seoul,2017-05-05,14:30
+101666,Chroicocephalus saundersi,species,Saunders's Gull,20,126.64289519,37.4089935,Asia,South Korea,South Korea - Seoul,2017-05-05,14:30
+101731,Streptopelia orientalis,species,Oriental Turtle Dove,1,127.36490294,36.36680454,Asia,South Korea,South Korea,2017-05-02,10:32
+101984,Bubulcus coromandus,species,Eastern Cattle Egret,1,127.34949633,36.35004256,Asia,South Korea,South Korea,2017-05-02,09:51
+102271,Ranunculus sceleratus,species,Celery-leaved Buttercup,1,127.31941268,36.35823392,Asia,South Korea,South Korea,2017-05-03,13:23
+102670,Vespa mandarinia,species,Asian Giant Hornet,1,127.35605501,36.33714921,Asia,South Korea,South Korea,2017-05-03,09:05
+103904,Ficedula zanthopygia,species,Yellow-rumped Flycatcher,1,127.35407537,36.33772414,Asia,South Korea,South Korea,2017-05-01,07:10
+21071,Butorides striata,species,Striated Heron,5,127.22350087,35.85411181,Asia,South Korea,South Korea,2017-05-30,10:03
+24950,Cyanopica cyanus,species,Asian Azure-winged Magpie,5,126.7763797,36.01355542,Asia,South Korea,South Korea,2017-05-29,19:01
+25086,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.73834554,36.0170175,Asia,South Korea,South Korea,2017-05-29,15:54
+25087,Parus minor minor,subspecies,Japanese Tit ssp minor,3,126.73858931,36.01716003,Asia,South Korea,South Korea,2017-05-29,16:03
+25088,Cyanopica cyanus,species,Asian Azure-winged Magpie,1,126.77706918,36.01361312,Asia,South Korea,South Korea,2017-05-29,16:54
+25089,Cuculus canorus,species,Common Cuckoo,1,126.77691941,36.01454381,Asia,South Korea,South Korea,2017-05-29,18:31
+25090,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.77691941,36.01454381,Asia,South Korea,South Korea,2017-05-29,18:31
+25091,Cyanopica cyanus,species,Asian Azure-winged Magpie,2,126.7763548,36.01329556,Asia,South Korea,South Korea,2017-05-29,18:47
+90580,Ciconia boyciana,species,Oriental Stork,1,126.44,36.68,Asia,South Korea,South Korea,2017-05-26,16:27
+105024,Ciconia boyciana,species,Oriental Stork,1,126.44940479,36.68325365,Asia,South Korea,South Korea,2017-05-26,16:32
+22011,Butorides striata,species,Striated Heron,1,124.64193915,37.92572249,Asia,South Korea,South Korea,2017-05-18,19:31
+22012,Butorides striata,species,Striated Heron,1,124.67848158,37.9759187,Asia,South Korea,South Korea,2017-05-19,06:03
+22013,Butorides striata,species,Striated Heron,1,124.72849674,37.96602032,Asia,South Korea,South Korea,2017-05-19,14:20
+22014,Butorides striata,species,Striated Heron,2,124.70177717,37.95234728,Asia,South Korea,South Korea,2017-05-20,09:43
+22016,Motacilla tschutschensis macronyx,subspecies,Eastern Yellow Wagtail ssp macronyx,1,124.63386257,37.94969082,Asia,South Korea,South Korea,2017-05-24,12:02
+22017,Butorides striata,species,Striated Heron,1,124.67784148,37.95970842,Asia,South Korea,South Korea,2017-05-24,12:37
+32542,Spodiopsar cineraceus,species,White-cheeked Starling,8,127.415879,36.4184677,Asia,South Korea,South Korea,2017-04-26,12:22
+55925,Parus minor minor,subspecies,Japanese Tit ssp minor,1,124.73049489,37.971698,Asia,South Korea,South Korea,2017-05-22,17:12
+7970,Larus crassirostris,species,Black-tailed Gull,10,126.38246301,37.47654913,Asia,South Korea,South Korea,2017-05-17,14:50
+7971,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.37429802,37.47120996,Asia,South Korea,South Korea,2017-05-17,15:02
+7972,Egretta garzetta,species,Little Egret,2,126.39436116,37.48307703,Asia,South Korea,South Korea,2017-05-17,15:58
+7973,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,1,126.4112883,37.49241598,Asia,South Korea,South Korea,2017-05-17,16:17
+7974,Charadrius dubius,species,Little Ringed Plover,1,126.40560777,37.48918877,Asia,South Korea,South Korea,2017-05-17,16:45
+7975,Charadrius dubius,species,Little Ringed Plover,2,126.39409001,37.48269027,Asia,South Korea,South Korea,2017-05-17,17:21
+7976,Numenius phaeopus variegatus,subspecies,Eurasian Whimbrel ssp variegatus,600,126.51841787,37.46914836,Asia,South Korea,South Korea,2017-05-17,19:19
+7977,Numenius madagascariensis,species,Far Eastern Curlew,200,126.51841787,37.46914836,Asia,South Korea,South Korea,2017-05-17,19:19
+7978,Butorides striata,species,Striated Heron,1,126.51841787,37.46914836,Asia,South Korea,South Korea,2017-05-17,19:20
+7979,Egretta garzetta,species,Little Egret,10,126.51841787,37.46914836,Asia,South Korea,South Korea,2017-05-17,19:23
+7980,Larus crassirostris,species,Black-tailed Gull,40,126.51841787,37.46914836,Asia,South Korea,South Korea,2017-05-17,19:23
+8774,Larus crassirostris,species,Black-tailed Gull,10,126.39405644757,37.4827119707058,Asia,South Korea,South Korea,2017-05-17,17:19
+8778,Numenius madagascariensis,species,Far Eastern Curlew,20,126.491385832284,37.4532282776211,Asia,South Korea,South Korea,2017-05-17,18:42
+117028,Platalea minor,species,Black-faced Spoonbill,30,126.68311556,37.38783681,Asia,South Korea,South Korea - Seoul,2017-04-28,04:42
+117029,Haematopus ostralegus osculans,subspecies,Eurasian Oystercatcher ssp osculans,2,126.68311552,37.38783683,Asia,South Korea,South Korea - Seoul,2017-04-28,04:45
+117030,Chroicocephalus saundersi,species,Saunders's Gull,20,126.67143484,37.32966709,Asia,South Korea,South Korea - Seoul,2017-04-28,06:01
+117031,Calidris tenuirostris,species,Great Knot,30,126.67086645,37.32950785,Asia,South Korea,South Korea - Seoul,2017-04-28,06:02
+117032,Platalea minor,species,Black-faced Spoonbill,5,126.67086645,37.32950785,Asia,South Korea,South Korea - Seoul,2017-04-28,06:03
+117033,Charadrius alexandrinus,species,Kentish Plover,1,126.67086645,37.32950785,Asia,South Korea,South Korea - Seoul,2017-04-28,06:08
+117034,Egretta eulophotes,species,Chinese Egret,1,126.58289036,37.29060743,Asia,South Korea,South Korea,2017-04-28,06:39
+117036,Egretta garzetta,species,Little Egret,1,126.410180702806,37.4592840152855,Asia,South Korea,South Korea,2017-04-30,11:28
+117038,Motacilla tschutschensis,species,Eastern Yellow Wagtail,1,125.42547791,34.68958646,Asia,South Korea,South Korea - Dadohaehaesang NP,2017-05-03,11:21
+117039,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,2,127.3536,36.3436,Asia,South Korea,South Korea,2017-05-09,13:45
+117040,Ardea alba modesta,subspecies,Great Egret ssp modesta,2,127.2115,35.8657,Asia,South Korea,South Korea,2017-05-08,19:00
+117041,Calidris ruficollis,species,Red-necked Stint,50,126.7391,36.0183,Asia,South Korea,South Korea,2017-05-08,15:57
+117042,Calidris ruficollis,species,Red-necked Stint,50,126.7391,36.0183,Asia,South Korea,South Korea,2017-05-08,15:57
+117043,Calidris ruficollis,species,Red-necked Stint,2000,126.6101,35.998,Asia,South Korea,South Korea,2017-05-08,12:17
+117045,Calidris ruficollis,species,Red-necked Stint,20,126.6026,35.998,Asia,South Korea,South Korea,2017-05-08,10:24
+117046,Calidris tenuirostris,species,Great Knot,3,126.6635,36.0149,Asia,South Korea,South Korea,2017-05-07,15:57
+42040,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,2,127.3536,36.3436,Asia,South Korea,South Korea,2017-05-09,13:45
+59782,Ardea alba modesta,subspecies,Great Egret ssp modesta,2,127.2115,35.8657,Asia,South Korea,South Korea,2017-05-08,19:00
+59783,Calidris ruficollis,species,Red-necked Stint,50,126.7391,36.0183,Asia,South Korea,South Korea,2017-05-08,15:57
+59784,Calidris ruficollis,species,Red-necked Stint,50,126.7391,36.0183,Asia,South Korea,South Korea,2017-05-08,15:57
+59785,Calidris ruficollis,species,Red-necked Stint,2000,126.6101,35.998,Asia,South Korea,South Korea,2017-05-08,12:17
+59786,Calidris ruficollis,species,Red-necked Stint,20,126.6026,35.998,Asia,South Korea,South Korea,2017-05-08,10:24
+83338,Calidris tenuirostris,species,Great Knot,3,126.6635,36.0149,Asia,South Korea,South Korea,2017-05-07,15:57
+93277,Egretta garzetta,species,Little Egret,1,126.410180702806,37.4592840152855,Asia,South Korea,South Korea,2017-04-30,11:28
+13818,Platalea minor,species,Black-faced Spoonbill,30,126.68311556,37.38783681,Asia,South Korea,South Korea - Seoul,2017-04-28,04:42
+13819,Haematopus ostralegus osculans,subspecies,Eurasian Oystercatcher ssp osculans,2,126.68311552,37.38783683,Asia,South Korea,South Korea - Seoul,2017-04-28,04:45
+13820,Chroicocephalus saundersi,species,Saunders's Gull,20,126.67143484,37.32966709,Asia,South Korea,South Korea - Seoul,2017-04-28,06:01
+13821,Calidris tenuirostris,species,Great Knot,30,126.67086645,37.32950785,Asia,South Korea,South Korea - Seoul,2017-04-28,06:02
+13822,Platalea minor,species,Black-faced Spoonbill,5,126.67086645,37.32950785,Asia,South Korea,South Korea - Seoul,2017-04-28,06:03
+13823,Charadrius alexandrinus,species,Kentish Plover,1,126.67086645,37.32950785,Asia,South Korea,South Korea - Seoul,2017-04-28,06:08
+13824,Egretta eulophotes,species,Chinese Egret,1,126.58289036,37.29060743,Asia,South Korea,South Korea,2017-04-28,06:39
+83607,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,127.0514,37.9288,Asia,South Korea,South Korea,2017-04-12,08:58
+42910,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,127.05047718,37.90512152,Asia,South Korea,South Korea,2017-04-10,18:19
+114118,Parus minor minor,subspecies,Japanese Tit ssp minor,2,127.18239807,37.47078772,Asia,South Korea,South Korea - Seoul,2004-05-07,
+574,Ardea alba modesta,subspecies,Great Egret ssp modesta,2,126.42082572,36.64583007,Asia,South Korea,South Korea,2004-05-01,
+2339,Buteo japonicus,species,Eastern Buzzard,2,124.75805294,37.77534498,Asia,South Korea,South Korea,2004-04-27,
+2373,Parus minor minor,subspecies,Japanese Tit ssp minor,5,124.75719815,37.77071043,Asia,South Korea,South Korea,2004-04-26,
+108774,Artemisia spec.,multispecies,,1,126.99116706674,37.550620217233,Asia,South Korea,South Korea - Seoul,2016-10-24,
+108776,Broussonetia papyrifera,species,Wauke,1,126.99116706674,37.550620217233,Asia,South Korea,South Korea - Seoul,2016-10-24,
+108778,Galinsoga spec.,multispecies,,1,126.99116706674,37.550620217233,Asia,South Korea,South Korea - Seoul,2016-10-24,
+108781,Chelidonium majus,species,Greater Celandine,1,126.99116706674,37.550620217233,Asia,South Korea,South Korea - Seoul,2016-10-24,
+108782,Trifolium repens,species,White Clover,1,126.99116706674,37.550620217233,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113325,Salix spec.,multispecies,Willow unknown,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113348,Ginkgo biloba,species,Maidenhair-tree,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113353,Cenchrus purpurascens,species,Chinese Pennisetum,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113609,Aix galericulata,species,Mandarin Duck,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113614,Turdus eunomus,species,Dusky Thrush,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113616,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113617,Phoenicurus auroreus,species,Daurian Redstart,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113619,Streptopelia orientalis,species,Oriental Turtle Dove,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113622,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113623,Corvus macrorhynchos,species,Large-billed Crow,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113625,Anas platyrhynchos,species,Mallard,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+113627,Apis cerana,species,Asiatic Honeybee,1,126.98189735369,37.522192335413,Asia,South Korea,South Korea - Seoul,2016-10-24,
+95736,Corvus macrorhynchos,species,Large-billed Crow,1,127.05081962049,37.507819167224,Asia,South Korea,South Korea - Seoul,2016-09-22,
+95737,Garrulus glandarius brandtii,subspecies,Eurasian Jay ssp brandtii,1,127.0468070358,37.50875535667,Asia,South Korea,South Korea - Seoul,2016-09-22,
+95758,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,3,127.04843781888,37.508142579451,Asia,South Korea,South Korea - Seoul,2016-09-22,
+95786,Dendrocopos major japonicus,subspecies,Great Spotted Woodpecker ssp japonicus,2,127.04725764692,37.508227687699,Asia,South Korea,South Korea - Seoul,2016-09-22,
+95788,Hypsipetes amaurotis amaurotis,subspecies,Brown-eared Bulbul ssp amaurotis,1,127.0508588478,37.506712879361,Asia,South Korea,South Korea - Seoul,2016-09-22,
+95792,Streptopelia orientalis,species,Oriental Turtle Dove,3,127.05026172101,37.506899987981,Asia,South Korea,South Korea - Seoul,2016-09-22,
+116047,Muscicapa dauurica,species,Asian Brown Flycatcher,1,126.52620082721,37.475615816065,Asia,South Korea,South Korea,2016-09-20,
+116222,Egretta garzetta,species,Little Egret,1,126.52594350278,37.471792491703,Asia,South Korea,South Korea,2016-09-20,
+116238,Egretta eulophotes,species,Chinese Egret,2,126.52748845518,37.471213471341,Asia,South Korea,South Korea,2016-09-20,
+116284,Numenius phaeopus variegatus,subspecies,Eurasian Whimbrel ssp variegatus,10,126.52281068265,37.470004326122,Asia,South Korea,South Korea,2016-09-20,
+116307,Numenius madagascariensis,species,Far Eastern Curlew,20,126.52195237577,37.469748870404,Asia,South Korea,South Korea,2016-09-20,
+116421,Egretta eulophotes,species,Chinese Egret,3,126.51788279414,37.467262123039,Asia,South Korea,South Korea,2016-09-20,
+116664,Hirundo rustica,species,Barn Swallow,1,126.51277720928,37.481803566,Asia,South Korea,South Korea,2016-09-20,
+116666,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.50659739971,37.483710639975,Asia,South Korea,South Korea,2016-09-20,
+1342,Hirundo rustica,species,Barn Swallow,1,126.46762848599,37.442490970069,Asia,South Korea,South Korea - Seoul,2016-07-21,12:00
+1968,Commelina communis,species,Common dayflower,1,126.51627302868,37.49451406159,Asia,South Korea,South Korea - Seoul,2016-07-21,12:13
+2003,Parus minor minor,subspecies,Japanese Tit ssp minor,1,126.51627302868,37.49451406159,Asia,South Korea,South Korea - Seoul,2016-07-21,12:13
+3098,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,126.51627302868,37.494735383227,Asia,South Korea,South Korea - Seoul,2016-07-21,12:13
+3195,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,5,126.98867797153,37.574478510396,Asia,South Korea,South Korea - Seoul,2009-05-23,
+3201,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,10,127.09673881487,37.650787314463,Asia,South Korea,South Korea - Seoul,2009-05-26,
+3203,Parus minor minor,subspecies,Japanese Tit ssp minor,8,127.09673881487,37.650787314463,Asia,South Korea,South Korea - Seoul,2009-05-26,
+3213,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,127.09673881487,37.650787314463,Asia,South Korea,South Korea - Seoul,2009-05-25,
+3216,Parus minor minor,subspecies,Japanese Tit ssp minor,7,127.09673881487,37.650787314463,Asia,South Korea,South Korea - Seoul,2009-05-25,
+3220,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,127.09673881487,37.650787314463,Asia,South Korea,South Korea - Seoul,2009-05-24,
+3221,Parus minor minor,subspecies,Japanese Tit ssp minor,10,127.09673881487,37.650787314463,Asia,South Korea,South Korea - Seoul,2009-05-24,
+91114,Sinosuthora webbiana,species,Vinous-throated Parrotbill,30,129.06118892133,35.171790955751,Asia,South Korea,South Korea,2016-06-06,
+91115,Corvus macrorhynchos,species,Large-billed Crow,3,129.06118892133,35.171790955751,Asia,South Korea,South Korea,2016-06-06,
+6724,Ardea alba modesta,subspecies,Great Egret ssp modesta,1,129.1039,35.5759,Asia,South Korea,South Korea,2016-06-08,18:49
+6725,Phoenicurus auroreus,species,Daurian Redstart,2,129.057,35.1649,Asia,South Korea,South Korea,2016-06-08,06:39
+22608,Yungipicus kizuki,species,Japanese Pygmy Woodpecker,1,129.0616,35.1721,Asia,South Korea,South Korea,2016-06-07,06:04
+22609,Hypsipetes amaurotis,species,Brown-eared Bulbul,10,129.06,35.1715,Asia,South Korea,South Korea,2016-06-07,05:55
+22610,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,1,129.0572,35.1695,Asia,South Korea,South Korea,2016-06-07,05:52
+22611,Phoenicurus auroreus auroreus,subspecies,Daurian Redstart ssp auroreus,1,129.0531,35.1675,Asia,South Korea,South Korea,2016-06-07,05:44
+37032,Phoenicurus auroreus,species,Daurian Redstart,1,129.0585,35.171,Asia,South Korea,South Korea,2016-06-06,15:17
+37033,Parus minor,species,Japanese Tit,1,129.0597,35.1716,Asia,South Korea,South Korea,2016-06-06,15:05
+37034,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,1,129.0596,35.1697,Asia,South Korea,South Korea,2016-06-06,14:44
+37035,Zosterops japonicus japonicus,subspecies,Warbling White-eye ssp japonicus,1,129.056,35.1671,Asia,South Korea,South Korea,2016-06-06,14:18
+37036,Hypsipetes amaurotis,species,Brown-eared Bulbul,1,129.0545,35.1573,Asia,South Korea,South Korea,2016-06-06,13:39
+37037,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,129.0557,35.1572,Asia,South Korea,South Korea,2016-06-06,13:26
+37038,Passer montanus,species,Eurasian Tree Sparrow,1,129.0557,35.1572,Asia,South Korea,South Korea,2016-06-06,12:26
+20075,Aix galericulata,species,Mandarin Duck,1,126.975617856,37.5796500572,Asia,South Korea,South Korea - Seoul,2014-08-04,
+22627,Pica serica anderssoni,subspecies,Oriental Magpie ssp anderssoni,1,127.061140761,37.5838675278,Asia,South Korea,South Korea - Seoul,2014-08-05,
+23044,Xenus cinereus,species,Terek Sandpiper,1,126.751558185,36.0018938931,Asia,South Korea,South Korea,2014-08-30,
+23050,Calidris tenuirostris,species,Great Knot,1,126.751558185,36.0018938931,Asia,South Korea,South Korea,2014-08-30,
+29195,Streptopelia orientalis orientalis,subspecies,Oriental Turtle Dove ssp orientalis,1,126.989694089,37.5903966566,Asia,South Korea,South Korea - Seoul,2014-08-01,
+29199,Sittiparus varius,species,Varied Tit,1,126.989694089,37.5903966566,Asia,South Korea,South Korea - Seoul,2014-08-01,

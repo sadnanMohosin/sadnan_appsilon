@@ -1,0 +1,927 @@
+,scientificName,taxonRank,vernacularName,individualCount,longitudeDecimal,latitudeDecimal,continent,country,locality,eventDate,eventTime
+17857,Ardea cinerea cinerea,subspecies,Grey Heron ssp cinerea,1,7.5088,9.0783,Africa,Nigeria,Nigeria - Bwari,2015-02-07,16:14
+110693,Phalacrocorax lucidus,species,White-breasted Cormorant,1,6.748,7.8102,Africa,Nigeria,Nigeria - Lokoja,2014-11-24,09:35
+75548,Pycnonotus barbatus,species,Common Bulbul,2,7.5118,9.0776,Africa,Nigeria,Nigeria - Bwari,2014-11-22,17:19
+1079,Tetrathemis polleni,species,Black-splashed Elf,1,7.49838352203,9.06989032451,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-18,
+1476,Falco alopex,species,Fox Kestrel,6,7.50250339508,9.06959367304,Africa,Nigeria,Nigeria - Bwari,2014-02-18,
+2665,Palpopleura portia,species,Portia Widow,1,7.49868392944,9.07090741341,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-18,
+2717,Trithemis annulata,species,Violet Dropwing,1,7.49868392944,9.07090741341,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-18,
+2774,Tetrathemis polleni,species,Black-splashed Elf,5,7.49915599823,9.0707378988,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-18,
+15846,Trithemis arteriosa,species,Red-veined Dropwing,1,7.49834060669,9.07107692795,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-18,
+15851,Ceriagrion glabrum,species,Common Orange,1,7.49834060669,9.07107692795,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-18,
+15853,Halcyon leucocephala,species,Grey-headed Kingfisher,1,7.49834060669,9.07107692795,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-18,
+23267,Aviceda cuculoides,species,African Cuckoo-Hawk,1,7.49937057495,9.07192449944,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-17,
+23279,Corvus albus,species,Pied Crow,5,7.49937057495,9.07192449944,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-17,
+23285,Milvus aegyptius,species,Yellow-billed Kite,10,7.49937057495,9.07192449944,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-17,
+23286,Corvinella corvina,species,Yellow-billed Shrike,1,7.49937057495,9.07192449944,Africa,Nigeria,Nigeria - Abuja Municipal,2014-02-17,
+102707,Falco tinnunculus,species,Common Kestrel,1,3.89207839966,7.49523881073,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+102708,Falco ardosiaceus,species,Grey Kestrel,2,3.89207839966,7.49523881073,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+102714,Dendrocygna viduata,species,White-faced Whistling Duck,1,3.89207839966,7.49523881073,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+102717,Macheiramphus alcinus,species,Bat Hawk,2,3.89207839966,7.49523881073,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+102734,Malimbus rubricollis,species,Red-headed Malimbe,1,3.89207839966,7.49523881073,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+102778,Lamprotornis splendidus,species,Splendid Starling,1,3.89207839966,7.49523881073,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-11,
+102787,Rostratula benghalensis,species,Greater Painted-snipe,1,3.90083312988,7.48911176019,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-11-10,
+47540,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.00787350722,9.87253436706,Africa,Nigeria,Nigeria - Jos East,2013-11-25,
+83172,Emberiza goslingi,species,Gosling's Bunting,1,9.077717993974169,9.860401153564451,Africa,Nigeria,Nigeria - Jos East,2013-11-13,
+10142,Emberiza goslingi,species,Gosling's Bunting,1,9.05593869276,9.90500367962,Africa,Nigeria,Nigeria - Jos East,2013-11-08,
+12169,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.04083249159,9.83059009986,Africa,Nigeria,Nigeria - Jos East,2013-11-06,
+12287,Emberiza goslingi,species,Gosling's Bunting,1,9.04083249159,9.83059009986,Africa,Nigeria,Nigeria - Jos East,2013-11-06,
+27510,Emberiza goslingi,species,Gosling's Bunting,1,9.06692502089,9.89959235036,Africa,Nigeria,Nigeria - Jos East,2013-11-04,
+42280,Emberiza goslingi,species,Gosling's Bunting,2,9.0943908412,9.87659320648,Africa,Nigeria,Nigeria - Jos East,2013-11-01,
+44403,Emberiza goslingi,species,Gosling's Bunting,1,9.07241818495,9.87118140947,Africa,Nigeria,Nigeria - Jos East,2013-11-01,
+44472,Emberiza goslingi,species,Gosling's Bunting,1,9.05731198378,9.90365085567,Africa,Nigeria,Nigeria - Jos East,2013-11-01,
+51022,Emberiza goslingi,species,Gosling's Bunting,1,9.06509399414,9.90933267465,Africa,Nigeria,Nigeria - Jos East,2013-10-30,
+51203,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.05960083008,9.90392141677,Africa,Nigeria,Nigeria - Jos East,2013-10-30,
+58285,Emberiza goslingi,species,Gosling's Bunting,1,8.99002072401,9.93341169304,Africa,Nigeria,Nigeria - Jos East,2013-10-28,
+73714,Emberiza goslingi,species,Gosling's Bunting,2,9.07379147597,9.86171055069,Africa,Nigeria,Nigeria - Jos East,2013-10-25,
+74315,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.03945920058,9.90094519104,Africa,Nigeria,Nigeria - Jos East,2013-10-25,
+74323,Emberiza goslingi,species,Gosling's Bunting,1,9.05456540175,9.90365085567,Africa,Nigeria,Nigeria - Jos East,2013-10-25,
+84891,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.14245602675,9.80713505662,Africa,Nigeria,Nigeria - Jos East,2013-10-21,
+85010,Emberiza goslingi,species,Gosling's Bunting,1,9.00100705214,9.91312050617,Africa,Nigeria,Nigeria - Jos East,2013-10-23,
+85123,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.00100705214,9.91312050617,Africa,Nigeria,Nigeria - Jos East,2013-10-23,
+97154,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.04449462891,9.89174576038,Africa,Nigeria,Nigeria - Jos East,2013-10-21,
+97179,Thamnolaea coronata,species,White-crowned Cliff Chat,2,9.15208339691,9.849803938,Africa,Nigeria,Nigeria - Jos East,2013-10-21,
+97838,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.06555172987,9.87794614183,Africa,Nigeria,Nigeria - Jos East,2013-10-21,06:43
+97890,Emberiza goslingi,species,Gosling's Bunting,2,9.15208339691,9.849803938,Africa,Nigeria,Nigeria - Jos East,2013-10-21,
+98973,Emberiza goslingi,species,Gosling's Bunting,1,9.04632565565,9.90635649799,Africa,Nigeria,Nigeria - Jos East,2013-10-21,
+99369,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.04632565565,9.90635649799,Africa,Nigeria,Nigeria - Jos East,2013-10-21,
+1938,Emberiza goslingi,species,Gosling's Bunting,1,9.06417843886,9.90658195342,Africa,Nigeria,Nigeria - Jos East,2013-10-17,
+8395,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.03396603651,9.94558580128,Africa,Nigeria,Nigeria - Jos East,2013-10-15,
+8928,Emberiza goslingi,species,Gosling's Bunting,3,9.06143185683,9.77375389836,Africa,Nigeria,Nigeria - Jos East,2013-10-16,
+8936,Thamnolaea coronata,species,White-crowned Cliff Chat,3,9.06143185683,9.77375389836,Africa,Nigeria,Nigeria - Jos East,2013-10-16,
+17049,Emberiza goslingi,species,Gosling's Bunting,1,9.08065793104,9.87118140947,Africa,Nigeria,Nigeria - Jos East,2013-10-14,06:45
+17099,Thamnolaea coronata,species,White-crowned Cliff Chat,2,9.07608032227,9.8673930945,Africa,Nigeria,Nigeria - Jos East,2013-10-14,
+17758,Emberiza goslingi,species,Gosling's Bunting,1,9.13560390472,9.86604011579,Africa,Nigeria,Nigeria - Jos East,2013-10-14,
+17821,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.06005856581,9.91526240612,Africa,Nigeria,Nigeria - Jos East,2013-10-14,
+35460,Emberiza goslingi,species,Gosling's Bunting,1,9.09255981445,9.86468713151,Africa,Nigeria,Nigeria - Jos East,2013-10-11,
+35525,Thamnolaea coronata,species,White-crowned Cliff Chat,1,8.98544311523,9.78079128524,Africa,Nigeria,Nigeria - Jos East,2013-10-07,
+35535,Emberiza goslingi,species,Gosling's Bunting,1,8.98544311523,9.78079128524,Africa,Nigeria,Nigeria - Jos East,2013-10-07,
+35715,Platysteira castanea,species,Chestnut Wattle-eye,1,9.05456540175,9.90714563259,Africa,Nigeria,Nigeria - Jos East,2013-10-11,
+35723,Emberiza goslingi,species,Gosling's Bunting,5,9.077717993974169,9.860401153564451,Africa,Nigeria,Nigeria - Jos East,2013-10-11,
+35730,Emberiza goslingi,species,Gosling's Bunting,1,9.05319211073,9.91390962449,Africa,Nigeria,Nigeria - Jos East,2013-10-11,
+35964,Emberiza goslingi,species,Gosling's Bunting,1,9.17770385742,9.83086072098,Africa,Nigeria,Nigeria - Jos East,2013-10-11,
+37495,Emberiza goslingi,species,Gosling's Bunting,3,8.98818969727,9.93232952402,Africa,Nigeria,Nigeria - Jos East,2013-10-09,
+37565,Thamnolaea coronata,species,White-crowned Cliff Chat,4,8.98818969727,9.93232952402,Africa,Nigeria,Nigeria - Jos East,2013-10-09,
+45262,Emberiza goslingi,species,Gosling's Bunting,1,9.07379147597,9.90308717049,Africa,Nigeria,Nigeria - Jos East,2013-10-09,
+45271,Emberiza goslingi,species,Gosling's Bunting,1,9.07516476698,9.90714563259,Africa,Nigeria,Nigeria - Jos East,2013-10-09,
+47355,Ploceus tricolor,species,Yellow-mantled Weaver,8,3.91001344076,7.49621742887,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-27,
+47519,Malimbus rubricollis,species,Red-headed Malimbe,8,3.91001344076,7.49621742887,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-27,
+47585,Vanellus albiceps,species,White-crowned Lapwing,8,3.91150474898,7.49286671631,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-27,
+47779,Aviceda cuculoides,species,African Cuckoo-Hawk,1,3.88764381758,7.5030676943,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-28,
+47867,Dicrurus atactus,species,Fanti Drongo,1,3.90551805453,7.49759600131,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-09-28,
+48144,Emberiza goslingi,species,Gosling's Bunting,1,9.06967160292,9.90443999677,Africa,Nigeria,Nigeria - Jos East,2013-10-08,
+79312,Emberiza goslingi,species,Gosling's Bunting,1,9.11911007948,9.90229802614,Africa,Nigeria,Nigeria - Jos East,2013-10-04,
+81047,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.0705871582,9.87551085007,Africa,Nigeria,Nigeria - Jos East,2013-10-04,
+81056,Thamnolaea coronata,species,White-crowned Cliff Chat,1,9.0705871582,9.87551085007,Africa,Nigeria,Nigeria - Jos East,2013-10-04,
+82679,Thamnolaea coronata,species,White-crowned Cliff Chat,2,9.06280514784,9.87929907161,Africa,Nigeria,Nigeria - Jos East,2013-10-04,08:00
+82686,Thamnolaea coronata,species,White-crowned Cliff Chat,3,9.0504455287,9.89580436267,Africa,Nigeria,Nigeria - Jos East,2013-10-04,08:00
+92399,Emberiza goslingi,species,Gosling's Bunting,1,9.02389526367,9.85386305739,Africa,Nigeria,Nigeria - Jos East,2013-10-02,
+115499,Thamnolaea coronata,species,White-crowned Cliff Chat,1,8.98012161255,9.8771597447,Africa,Nigeria,Nigeria - Jos East,2013-09-29,
+91005,Milvus aegyptius,species,Yellow-billed Kite,15,3.8988482952118,7.4934996306612,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,08:02
+91025,Malimbus rubricollis,species,Red-headed Malimbe,8,3.910950422287,7.4970737179475,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,08:02
+91161,Porphyrio alleni,species,Allen's Gallinule,5,3.8955545425415,7.4982172069414,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,05:02
+91187,Falco tinnunculus,species,Common Kestrel,2,3.8931083679199,7.4926858834746,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,05:02
+91291,Centropus senegalensis,species,Senegal Coucal,5,3.9117980003357,7.4958557659023,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,09:02
+91292,Cuculus clamosus gabonensis,subspecies,Black Cuckoo ssp gabonensis,1,3.9117980003357,7.4958557659023,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,09:02
+91321,Actophilornis africanus,species,African Jacana,10,3.8978934288025,7.4864098737236,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,04:35
+91329,Gallinula chloropus,species,Common Moorhen,1,3.8978934288025,7.4864098737236,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,04:35
+91339,Amaurornis flavirostra,species,Black Crake,2,3.8978934288025,7.4864098737236,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,04:35
+91405,Dendrocygna viduata,species,White-faced Whistling Duck,150,3.910768032074,7.4978129972217,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,08:35
+91465,Vanellus spinosus,species,Spur-winged Lapwing,7,3.8966274261475,7.4964301716582,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,04:35
+91527,Ploceus tricolor,species,Yellow-mantled Weaver,5,3.9119911193848,7.4970258509009,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,07:00
+91538,Ploceus cucullatus,species,Village Weaver,95,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,07:00
+91600,Malimbus rubricollis,species,Red-headed Malimbe,8,3.9114761352539,7.4974087871266,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-06-15,07:00
+107697,Emberiza goslingi,species,Gosling's Bunting,1,8.9784908294678,9.8750880552373,Africa,Nigeria,Nigeria - Jos East,2013-05-12,06:00
+107873,Thamnolaea coronata,species,White-crowned Cliff Chat,1,8.9777183532715,9.875426291143,Africa,Nigeria,Nigeria - Jos East,2013-05-12,06:00
+116696,Thamnolaea coronata,species,White-crowned Cliff Chat,1,8.9745426177979,9.8734814299384,Africa,Nigeria,Nigeria - Jos East,2013-05-12,06:00
+28642,Falco ardosiaceus,species,Grey Kestrel,3,3.9233636856079,7.5533989387917,Africa,Nigeria,Nigeria - Akinyele,2013-05-05,06:50
+28657,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,3.9233636856079,7.5533989387917,Africa,Nigeria,Nigeria - Akinyele,2013-05-05,06:50
+28666,Ploceus tricolor,species,Yellow-mantled Weaver,1,3.9233636856079,7.5533989387917,Africa,Nigeria,Nigeria - Akinyele,2013-05-05,06:50
+28679,Lamprotornis splendidus,species,Splendid Starling,1,3.9235353469849,7.5533563958311,Africa,Nigeria,Nigeria - Akinyele,2013-05-05,06:50
+28688,Kaupifalco monogrammicus,species,Lizard Buzzard,1,3.9235353469849,7.5533563958311,Africa,Nigeria,Nigeria - Akinyele,2013-05-05,06:50
+47977,Aviceda cuculoides,species,African Cuckoo-Hawk,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48056,Ardea alba,species,Great Egret,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48058,Oriolus brachyrhynchus,synonym,Western oriole,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48062,Actophilornis africanus,species,African Jacana,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48063,Kaupifalco monogrammicus,species,Lizard Buzzard,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48067,Bostrychia hagedash,species,Hadada Ibis,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48069,Ploceus cucullatus,species,Village Weaver,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48077,Chrysococcyx cupreus,species,African Emerald Cuckoo,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48086,Falco ardosiaceus,species,Grey Kestrel,2,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48158,Malimbus rubricollis,species,Red-headed Malimbe,2,3.8934516906738,7.4866438960482,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48181,Centropus senegalensis,species,Senegal Coucal,2,3.8934516906738,7.4866438960482,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48183,Cuculus clamosus,species,Black Cuckoo,1,3.8934516906738,7.4866438960482,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48210,Vanellus albiceps,species,White-crowned Lapwing,1,3.8934516906738,7.4866438960482,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+48212,Vanellus spinosus,species,Spur-winged Lapwing,1,3.8934516906738,7.4866438960482,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-06,06:45
+49724,Malimbus rubricollis,species,Red-headed Malimbe,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+49742,Burhinus senegalensis,species,Senegal Thick-knee,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+49966,Vanellus spinosus,species,Spur-winged Lapwing,7,3.8971719145775,7.4891968587009,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-08,08:40
+50021,Actophilornis africanus,species,African Jacana,1,3.8971719145775,7.4891968587009,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-08,08:17
+50037,Burhinus senegalensis,species,Senegal Thick-knee,2,3.8971719145775,7.4891968587009,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-08,08:15
+50055,Vanellus spinosus,species,Spur-winged Lapwing,9,3.8971719145775,7.4891968587009,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-08,08:20
+50887,Vanellus albiceps,species,White-crowned Lapwing,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+50893,Vanellus spinosus,species,Spur-winged Lapwing,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+50923,Falco tinnunculus,species,Common Kestrel,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+50942,Actophilornis africanus,species,African Jacana,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+50948,Rostratula benghalensis,species,Greater Painted-snipe,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+50954,Rostratula benghalensis,species,Greater Painted-snipe,2,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+50961,Gallinula chloropus,species,Common Moorhen,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+50966,Amaurornis flavirostra,species,Black Crake,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+50970,Dendrocygna viduata,species,White-faced Whistling Duck,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-05,16:30
+54104,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,3.9177417755127,7.5499529454188,Africa,Nigeria,Nigeria - Akinyele,2013-05-04,
+54143,Cuculus clamosus,species,Black Cuckoo,1,3.9171409606934,7.5499529454188,Africa,Nigeria,Nigeria - Akinyele,2013-05-04,15:30
+54264,Oriolus brachyrhynchus,synonym,Western oriole,1,3.9171409606934,7.5499529454188,Africa,Nigeria,Nigeria - Akinyele,2013-05-04,15:30
+54306,Platysteira castanea,species,Chestnut Wattle-eye,1,3.888988494873,7.4938772513883,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+54311,Vanellus albiceps,species,White-crowned Lapwing,1,3.888988494873,7.4938772513883,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+54313,Rostratula benghalensis,species,Greater Painted-snipe,3,3.888988494873,7.4938772513883,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+54315,Gallinula chloropus,species,Common Moorhen,1,3.888988494873,7.4938772513883,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+83860,Vanellus spinosus,species,Spur-winged Lapwing,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+83866,Bubulcus ibis,species,Western Cattle Egret,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+84011,Ploceus tricolor,species,Yellow-mantled Weaver,10,3.8915634155273,7.4928560790903,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+84060,Chrysococcyx cupreus,species,African Emerald Cuckoo,1,3.8915634155273,7.4928560790903,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+84086,Cuculus clamosus,species,Black Cuckoo,3,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-04,06:30
+84127,Vanellus spinosus,species,Spur-winged Lapwing,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+84200,Amaurornis flavirostra,species,Black Crake,3,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+84230,Chrysococcyx cupreus,species,African Emerald Cuckoo,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+84233,Cuculus clamosus,species,Black Cuckoo,2,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+84250,Rostratula benghalensis,species,Greater Painted-snipe,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+84257,Rostratula benghalensis,species,Greater Painted-snipe,2,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+84263,Dendrocygna viduata,species,White-faced Whistling Duck,100,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-05-03,14:00
+12066,Sarcocephalus latifolius,species,Sierra Leone-peach,1,3.9079570770264,7.5025571192263,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2011-09-11,11:13
+12176,Sarcocephalus latifolius,species,Sierra Leone-peach,1,3.9079570770264,7.5025571192263,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2011-09-11,11:14
+101,Sarcocephalus latifolius,species,Sierra Leone-peach,1,3.9095020294189,7.5027273109829,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2011-09-09,11:11
+218,Rauvolfia vomitoria,species,Swizzle-stick-tree,1,3.8884735107422,7.5003446203321,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2011-08-30,11:55
+278,Newbouldia laevis,species,,1,3.8816070556641,7.4928560790903,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-05-02,17:30
+3648,Holarrhena floribunda,species,False rubbertree,1,3.8901042938232,7.5003446203321,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-02-27,08:36
+31840,Funtumia elastica,species,Ive-rubber,1,3.8858985900879,7.4968556569147,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-02-23,22:26
+31882,Cardiospermum grandiflorum,species,Showy balloonvine,1,3.897607517980095,7.4950683496485,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2011-08-30,11:14
+108128,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,10.49772734846341,9.787130000000076,Africa,Nigeria,Nigeria - Yankari Forest Reserve,2005-03-06,
+116842,Emberiza goslingi,species,Gosling's Bunting,1,8.9782333374023,9.8729740729518,Africa,Nigeria,Nigeria - Jos East,2011-10-02,
+61264,Cercopithecus mona,species,Mona Monkey,50,3.5354237258434,6.439793173776,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2013-04-01,10:30
+61282,Thescelocichla leucopleura,species,Swamp Palm Bulbul,4,3.5358099639416,6.440901931116,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2013-04-01,10:30
+61311,Merops albicollis,species,White-throated Bee-eater,30,3.5353808104992,6.4330979337725,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2013-04-01,07:30
+61597,Milvus aegyptius,species,Yellow-billed Kite,20,3.5358418151736,6.4417548197294,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2013-04-01,08:00
+61618,Lamprotornis splendidus,species,Splendid Starling,15,3.5358418151736,6.4417548197294,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2013-04-01,07:04
+61629,Lonchura cucullata,species,Bronze Mannikin,10,3.5366893932223,6.4323196597033,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2013-04-01,07:45
+100681,Malimbus scutatus scutopartitus,subspecies,Red-vented Malimbe ssp scutopartitus,4,3.8847975432873,7.4979619166357,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,09:38
+100776,Malimbus rubricollis,species,Red-headed Malimbe,4,3.8834671676159,7.4913243161551,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:06
+100785,Ploceus tricolor,species,Yellow-mantled Weaver,2,3.8903912901878,7.5011104866071,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-18,15:57
+100795,Lamprotornis splendidus,species,Splendid Starling,20,3.9015492796898,7.4942176416222,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,09:00
+100809,Dicrurus atactus,species,Fanti Drongo,1,3.884754627943,7.4966429143384,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,10:15
+100824,Oriolus brachyrhynchus,synonym,Western oriole,1,3.8845843076706,7.4908137273134,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:14
+100912,Corvinella corvina,species,Yellow-billed Shrike,3,3.8962277770042,7.5028124068362,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,09:32
+101001,Hirundo aethiopica,species,Ethiopian Swallow,20,3.902392834425,7.4908562764064,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,18:04
+101055,Pogoniulus scolopaceus,species,Speckled Tinkerbird,1,3.8858422636986,7.4968556569147,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,
+101138,Centropus senegalensis,species,Senegal Coucal,1,3.8942818343639,7.4961323317312,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:06
+101152,Vanellus albiceps,species,White-crowned Lapwing,6,3.8960413634777,7.4959195888015,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:30
+101191,Vanellus spinosus,species,Spur-winged Lapwing,10,3.8959984481335,7.4960046859859,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:39
+101194,Burhinus senegalensis,species,Senegal Thick-knee,8,3.8959984481335,7.4960046859859,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:39
+101195,Gallinula chloropus,species,Common Moorhen,2,3.900590389967,7.4896649002319,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:48
+101196,Amaurornis flavirostra,species,Black Crake,2,3.8911637663841,7.4987277871034,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,08:01
+101201,Milvus aegyptius,species,Yellow-billed Kite,30,3.8982877135277,7.4886011687526,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,11:00
+101202,Milvus aegyptius,species,Yellow-billed Kite,1,3.8938245177269,7.4873246875508,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,10:00
+101206,Bubulcus ibis,species,Western Cattle Egret,20,3.9015486091375,7.4907711782162,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:30
+101210,Ardea alba,species,Great Egret,4,3.8947250694036,7.4986001421191,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:48
+102750,Ploceus tricolor,species,Yellow-mantled Weaver,10,3.8905481994152,7.5009828423215,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-18,15:57
+102757,Malimbus rubricollis,species,Red-headed Malimbe,4,3.90380166471,7.4987277871034,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-18,15:55
+102837,Milvus aegyptius,species,Yellow-billed Kite,30,3.8857416808605,7.4969407539161,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,12:30
+102864,Macheiramphus alcinus,species,Bat Hawk,1,3.8854841887951,7.4993660114639,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:00
+102890,Falco tinnunculus,species,Common Kestrel,1,3.9009337127209,7.4906435308998,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,17:30
+102914,Amaurornis flavirostra,species,Black Crake,2,3.8909344375134,7.4990256252548,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,08:00
+103356,Elanus caeruleus,species,Black-winged Kite,1,3.901705853641,7.4908137273134,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,18:00
+103388,Tringa glareola,species,Wood Sandpiper,15,3.9022137969732,7.4914094142373,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:47
+103495,Dendrocygna viduata,species,White-faced Whistling Duck,200,3.9022137969732,7.4914094142373,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,17:59
+103533,Ploceus cucullatus,species,Village Weaver,300,3.8983299583197,7.4864736980064,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,12:08
+103565,Vanellus albiceps,species,White-crowned Lapwing,4,3.8933088630438,7.5009615682703,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:55
+103575,Vanellus spinosus,species,Spur-winged Lapwing,6,3.8933088630438,7.5009615682703,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:54
+103587,Falco ardosiaceus,species,Grey Kestrel,1,3.8921501487494,7.5018338035179,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,18:06
+103605,Actophilornis africanus,species,African Jacana,4,3.8916210830212,7.5013232269998,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:59
+103625,Actophilornis africanus,species,African Jacana,6,3.8921501487494,7.5018338035179,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-19,07:58
+103725,Aviceda cuculoides,species,African Cuckoo-Hawk,2,3.8919858634472,7.4869204677243,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,07:25
+103775,Chrysococcyx cupreus,species,African Emerald Cuckoo,3,3.8848404586315,7.4980895618072,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-20,08:42
+36493,Milvus aegyptius,species,Yellow-billed Kite,30,3.8936810195446,7.499110721832,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2013-03-18,15:13
+43240,Adenia cissampeloides,species,,1,3.8886880874634,7.4866013465439,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-04-04,11:53
+43474,Mussaenda elegans,species,,1,3.8852119445801,7.4946856777596,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2012-04-07,10:27
+56859,Motacilla flava flava,subspecies,Blue-headed Wagtail,1,5.1949024200439,5.6120565451225,Africa,Nigeria,Nigeria - Warri South-West,2013-03-17,17:30
+59118,Milvus aegyptius,species,Yellow-billed Kite,2,3.5356486961246,6.4325542081784,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2013-03-17,09:23
+59119,Merops albicollis,species,White-throated Bee-eater,1,3.5357559844851,6.4325328855942,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2013-03-17,09:23
+59120,Merops albicollis,species,White-throated Bee-eater,6,3.5354019328952,6.4317759332765,Africa,Nigeria,Nigeria - Eti-Osa,2013-03-17,08:42
+59121,Vidua macroura,species,Pin-tailed Whydah,1,3.5367430374026,6.43238362748,Africa,Nigeria,Nigeria - Eti-Osa,2013-03-17,09:14
+59139,Prinia subflava,species,Tawny-flanked Prinia,1,3.5366572067142,6.4394946617706,Africa,Nigeria,Nigeria - Eti-Osa,2013-03-17,08:17
+59140,Actophilornis africanus,species,African Jacana,1,3.5366572067142,6.4394946617706,Africa,Nigeria,Nigeria - Eti-Osa,2013-03-17,07:49
+59144,Lonchura cucullata,species,Bronze Mannikin,6,3.5347082465887,6.4337162876627,Africa,Nigeria,Nigeria - Eti-Osa,2013-03-17,08:15
+67329,Turdoides gilberti,species,White-throated Mountain Babbler,4,9.3759834766388,6.3835099052026,Africa,Nigeria,Nigeria - Obanliku,2012-06-26,09:22
+75571,Corvus albus,species,Pied Crow,10,5.1973485946655,5.6125263510205,Africa,Nigeria,Nigeria - Warri South-West,2013-03-15,
+75630,Lonchura cucullata,species,Bronze Mannikin,1,5.1910400390625,5.6131456400349,Africa,Nigeria,Nigeria - Warri South-West,2013-03-15,17:15
+75631,Milvus aegyptius,species,Yellow-billed Kite,20,5.1910400390625,5.6131456400349,Africa,Nigeria,Nigeria - Warri South-West,2013-03-15,17:15
+75635,Bubulcus ibis,species,Western Cattle Egret,10,5.1910400390625,5.6131456400349,Africa,Nigeria,Nigeria - Warri South-West,2013-03-15,17:15
+82094,Emberiza goslingi,species,Gosling's Bunting,11,8.979971408844,9.8768637898643,Africa,Nigeria,Nigeria - Jos East,2011-09-30,
+82267,Accipiter toussenelii macroscelides,subspecies,Red-chested Goshawk ssp macroscelides,1,3.5349664092064,6.4372771385218,Africa,Nigeria,Nigeria - Eti-Osa,2013-03-14,12:21
+82495,Bycanistes fistulator,species,Piping Hornbill,4,3.5349516570568,6.4366801113771,Africa,Nigeria,Nigeria - Eti-Osa,2013-03-14,12:20
+82513,Oenanthe albifrons,species,White-fronted Black Chat,3,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,09:03
+82520,Muscicapa striata,species,Spotted Flycatcher,3,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,08:31
+82525,Lamprotornis splendidus,species,Splendid Starling,30,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,07:27
+82534,Cecropis semirufa,species,Red-breasted Swallow,1,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,09:05
+82540,Streptopelia semitorquata,species,Red-eyed Dove,20,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,07:59
+82541,Dryoscopus gambensis,species,Northern Puffback,1,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,08:33
+82542,Hirundo aethiopica,species,Ethiopian Swallow,1,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,08:01
+82543,Hirundo aethiopica,species,Ethiopian Swallow,20,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,07:44
+82545,Halcyon malimbica,species,Blue-breasted Kingfisher,2,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,08:08
+82554,Malimbus nitens,species,Blue-billed Malimbe,4,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,07:34
+82555,Ploceus nigricollis,species,Black-necked Weaver,1,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,09:00
+82557,Hirundo rustica,species,Barn Swallow,1,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,07:53
+82558,Lophoceros fasciatus,species,African Pied Hornbill,1,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,07:41
+82561,Treron calvus,species,African Green Pigeon,6,3.9469745010138,6.5495696537483,Africa,Nigeria,Nigeria - Epe,2013-03-14,09:29
+96365,Perodicticus edwardsi,species,Milne-Edwards's Potto,1,6.6174387931824,5.4095781048131,Africa,Nigeria,Nigeria - Rivers,2005-02-01,21:00
+96797,Calidris melanotos,species,Pectoral Sandpiper,1,7.5916672311723,4.5733502230378,Africa,Nigeria,Nigeria - Akwa Ibom,2006-10-22,12:15
+99251,Bubo poensis,species,Fraser's Eagle-Owl,1,9.0007853507996,6.3071087293979,Africa,Nigeria,Nigeria - Cross River,2013-02-22,
+110744,Ceratogymna atrata,species,Black-casqued Hornbill,1,5.249662399292,6.2661577472026,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-19,
+110790,Pogoniulus bilineatus,species,Yellow-rumped Tinkerbird,1,5.260648727417,6.2743482014286,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-21,
+110791,Ceratogymna elata,species,Yellow-casqued Hornbill,1,5.260648727417,6.2743482014286,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-20,
+110806,Ceratogymna elata,species,Yellow-casqued Hornbill,1,5.2469158172607,6.2798084327405,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-20,
+110827,Nigrita canicapillus,species,Grey-headed Nigrita,1,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-19,
+110836,Gypohierax angolensis,species,Palm-nut Vulture,1,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-19,
+110843,Anthreptes rectirostris,species,Grey-chinned Sunbird,2,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-20,
+110855,Corythaeola cristata,species,Great Blue Turaco,8,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-20,
+110856,Corythaeola cristata,species,Great Blue Turaco,6,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-21,
+110877,Bubo poensis,species,Fraser's Eagle-Owl,1,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-19,
+110880,Nigrita bicolor,species,Chestnut-breasted Nigrita,4,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-21,
+110885,Neafrapus cassini,species,Cassin's Spinetail,4,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-20,
+110890,Cyanograucalus azureus,species,Blue Cuckooshrike,1,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-21,
+110892,Ceratogymna atrata,species,Black-casqued Hornbill,1,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-21,
+110900,Ceratogymna atrata,species,Black-casqued Hornbill,1,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-19,
+110902,Hieraaetus ayresii,species,Ayres's Hawk-Eagle,1,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-18,
+110920,Ispidina picta,species,African Pygmy Kingfisher,1,5.2414011955261,6.2634275672163,Africa,Nigeria,Nigeria - Okomu Forest Reserve,2012-08-19,
+112221,Lamprotornis splendidus,species,Splendid Starling,100,3.8843429088593,7.4987277871035,Africa,Nigeria,Nigeria - Oyo,2012-11-11,
+112707,Caprimulgus climacurus,species,Long-tailed Nightjar,1,3.9014698192477,7.4880586646986,Africa,Nigeria,Nigeria - Oyo,2012-11-10,19:05
+112719,Rostratula benghalensis,species,Greater Painted-snipe,1,3.8997961208224,7.4894840660636,Africa,Nigeria,Nigeria - Oyo,2012-11-10,18:05
+112817,Cuculus clamosus gabonensis,subspecies,Black Cuckoo ssp gabonensis,1,3.8856571912766,7.4960046859859,Africa,Nigeria,Nigeria - Oyo,2012-11-12,
+112871,Macheiramphus alcinus,species,Bat Hawk,2,3.8880175352097,7.4971109478691,Africa,Nigeria,Nigeria - Oyo,2012-11-12,
+113735,Lophaetus occipitalis,species,Long-crested Eagle,1,3.8975001499057,7.5070246307687,Africa,Nigeria,Nigeria - Oyo,2012-09-08,
+113746,Kaupifalco monogrammicus,species,Lizard Buzzard,1,3.8915064185858,7.487048116131,Africa,Nigeria,Nigeria - Oyo,2012-09-09,
+113817,Falco biarmicus,species,Lanner Falcon,2,3.898217305541,7.4873459622682,Africa,Nigeria,Nigeria - Oyo,2012-09-08,
+113821,Bostrychia hagedash,species,Hadada Ibis,1,3.9000680297613,7.4836866956222,Africa,Nigeria,Nigeria - Oyo,2012-09-08,
+113823,Falco ardosiaceus,species,Grey Kestrel,4,3.9048966765404,7.4897074494371,Africa,Nigeria,Nigeria - Oyo,2012-09-08,
+113850,Falco tinnunculus,species,Common Kestrel,1,3.9012341201305,7.4980044650304,Africa,Nigeria,Nigeria - Oyo,2012-09-08,
+113939,Macheiramphus alcinus,species,Bat Hawk,2,3.612687223096061,8.113373267646033,Africa,Nigeria,Nigeria - Oyo,2012-09-08,
+114005,Porphyrio alleni,species,Allen's Gallinule,10,3.8956977054477,7.4966429143384,Africa,Nigeria,Nigeria - Oyo,2012-09-07,
+4043,Xema sabini,species,Sabine's Gull,2,3.5861778259277,6.2006294990279,Africa,Nigeria,Nigeria - Lagos,2007-11-12,11:20
+40010,Zonocerus variegatus,species,Variegated grasshopper,1,7.50052567956,9.07189322417,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-01,
+41479,Anthene amarah,species,,1,7.37821278296,9.28076220523,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+46298,Papilio demodocus,species,Christmas Butterfly,1,7.38242265221,9.27660741888,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+46311,Acraea pseudegina,species,Abadima Acraea,1,7.50327226159,9.07596153978,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-01,
+53567,Lonchura cucullata,species,Bronze Mannikin,1,7.50052567956,9.06104415708,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+59222,Macroglossum trochilus,species,African Humming Bird Moth,1,7.3810493612,9.27796274685,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+59587,Trithemis kalula,species,,1,7.49331590173,9.07087613805,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-30,
+59593,Orthetrum trinacria,species,Long Skimmer,1,7.49331590173,9.07087613805,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-30,
+59600,Pseudagrion kersteni,species,Kerstens Sprite,1,7.49331590173,9.07087613805,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-30,
+59602,Orthetrum guineense,species,Guinea Skimmer,1,7.49331590173,9.07087613805,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-30,
+59606,Trithemis aconita,species,Monkshood Dropwing,1,7.49331590173,9.07087613805,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-30,
+59612,Crocothemis divisa,species,Divisa scarlet,3,7.49331590173,9.07087613805,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-30,
+60278,Junonia orithya,species,Blue Pansy,1,7.38379594323,9.27660741888,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+67942,Dendropicos goertae,species,African Grey Woodpecker,1,7.4950325155,9.06782486243,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-30,
+67948,Phoeniculus purpureus,species,Green Wood Hoopoe,1,7.4950325155,9.06782486243,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-30,
+67950,Cinnyris venustus,species,Variable Sunbird,1,7.4950325155,9.06782486243,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-30,
+67967,Corvus albus,species,Pied Crow,1,7.49966737267,9.0690114727,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-01,
+67968,Ptilostomus afer,species,Piapiac,10,7.49966737267,9.0690114727,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-01,
+67975,Megaceryle maxima,species,Giant Kingfisher,1,7.49966737267,9.0690114727,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-01,
+67976,Alcedo cristata,synonym,,1,7.49966737267,9.0690114727,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-01,
+67979,Eidolon helvum,species,African Straw-coloured Fruit Bat,100,7.451087203,9.05019476237,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+68090,Musophaga violacea,species,Violet Turaco,1,7.38516923425,9.27864040887,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+68186,Palpopleura portia,species,Portia Widow,2,7.38516923425,9.27864040887,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+68233,Diplacodes lefebvrii,species,Black Percher,1,7.38516923425,9.27864040887,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+68235,Acisoma inflatum,species,Stout Pintail,2,7.38516923,9.27864041,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+68236,Aethriamanta rezia,species,Pygmy Basker,1,7.38516923425,9.27864040887,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-02,
+72612,Nesciothemis pujoli,species,Western Blacktail,1,7.49777909753,9.07087613805,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-12-01,
+78568,Cypsiurus parvus,species,African Palm Swift,1,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78569,Crinifer piscator,species,Western Plantain-eater,1,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78571,Spilopelia senegalensis,species,Laughing Dove,1,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78574,Bubulcus ibis,species,Western Cattle Egret,2,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78577,Ploceus cucullatus,species,Village Weaver,5,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78580,Pycnonotus barbatus,species,Common Bulbul,1,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78585,Milvus aegyptius,species,Yellow-billed Kite,10,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78590,Crocothemis erythraea,species,Broad Scarlet,3,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78597,Trithemis arteriosa,species,Red-veined Dropwing,5,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78606,Palpopleura lucia,species,Lucia Widow,1,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78609,Palpopleura lucia,species,Lucia Widow,5,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+78613,Apus affinis,species,Little Swift,1,7.49777909753,9.06918098813,Africa,Nigeria,Nigeria - Federal Capital Territory,2011-11-29,
+10196,Ptilostomus afer,species,Piapiac,1,3.4236,6.4501,Africa,Nigeria,Nigeria - Lagos,2009-04-07,
+10197,Bubulcus ibis,species,Western Cattle Egret,1,3.4236,6.4501,Africa,Nigeria,Nigeria - Lagos,2009-04-07,
+11065,Zonocerus variegatus,species,Variegated grasshopper,2,7.48168945312,9.05327746462,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-10,
+13570,Hypolimnas anthedon,species,Variable Eggfly,1,7.47619628906,9.05870215639,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-10,
+13579,Tirumala petiverana,species,African blue tiger,2,7.47619628906,9.05870215639,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-10,
+37864,Zygonyx torridus,species,Ringed Cascader,1,7.4796295166,9.05531173363,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-10,
+40473,Junonia hierta,species,Yellow Pansy,1,7.48649597168,9.05327746462,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+40481,Junonia oenone,species,Dark Blue Pansy,1,7.48649597168,9.05327746462,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+40541,Junonia terea,species,Soldier Commodore,1,7.48649597168,9.05327746462,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+40759,Trithemis aconita,species,Monkshood Dropwing,1,7.48718261719,9.04649648483,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-10,
+40896,Ploceus cucullatus,species,Village Weaver,1,7.47619628906,9.04242783561,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-10,
+40927,Lophoceros nasutus,species,African Grey Hornbill,1,7.47619628906,9.04242783561,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+40942,Bubulcus ibis,species,Western Cattle Egret,18,7.47619628906,9.04242783561,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+40954,Microcarbo africanus,species,Reed Cormorant,1,7.47619628906,9.04242783561,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+40974,Acraea serena,species,Small Orange Acraea,1,7.47619628906,9.04242783561,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+40995,Butorides striata,species,Striated Heron,1,7.47619628906,9.04242783561,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+41020,Ploceus heuglini,species,Heuglin's Masked Weaver,1,7.47619628906,9.04242783561,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+41059,Corvinella corvina,species,Yellow-billed Shrike,1,7.47619628906,9.05056508804,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-08,
+41062,Hypolimnas misippus,species,Danaid Eggfly,1,7.47619628906,9.05056508804,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-08,
+41223,Centropus senegalensis,species,Senegal Coucal,1,7.46795654297,9.03971537726,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-08,
+41224,Cossypha niveicapilla,species,Snowy-crowned Robin-Chat,1,7.46795654297,9.03971537726,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-08,
+41352,Trithemis arteriosa,species,Red-veined Dropwing,1,7.46246337891,9.05056508804,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-10,
+41356,Pantala flavescens,species,Wandering Glider,2,7.46246337891,9.05056508804,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-10,
+45818,Phaon iridipennis,species,Glistening Demoiselle,1,7.49267578125,9.05598982074,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+48018,Vidua macroura,species,Pin-tailed Whydah,1,7.49267578125,9.05327746462,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+48024,Uraeginthus bengalus,species,Red-cheeked Cordon-bleu,1,7.49267578125,9.05327746462,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-09,
+51543,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,7.48168945312,9.06412676628,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-08,
+51544,Amaurornis flavirostra,species,Black Crake,1,7.48168945312,9.06412676628,Africa,Nigeria,Nigeria - Federal Capital Territory,2010-06-08,
+41449,Acraea serena,species,Small Orange Acraea,1,7.48168945312,9.04242783561,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+50711,Necrosyrtes monachus,species,Hooded Vulture,1,7.50366210938,9.06141447157,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+64661,Aterica galene,species,Forest Glade Nymph,1,7.48992919922,9.05870215639,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+65024,Junonia sophia,species,Little Comodore,1,7.48992919922,9.06141447157,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+65072,Papilio demodocus,species,Christmas Butterfly,1,7.47619628906,9.05870215639,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67847,Centropus senegalensis,species,Senegal Coucal,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67849,Spilopelia senegalensis,species,Laughing Dove,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67852,Crinifer piscator,species,Western Plantain-eater,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67854,Pycnonotus barbatus,species,Common Bulbul,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67855,Corvus albus,species,Pied Crow,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67861,Lonchura cucullata,species,Bronze Mannikin,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67863,Lagonosticta rufopicta,species,Bar-breasted Firefinch,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67866,Turdus pelios,species,African Thrush,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67867,Melaenornis edolioides,species,Northern Black Flycatcher,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67872,Ploceus cucullatus,species,Village Weaver,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67878,Corvinella corvina,species,Yellow-billed Shrike,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67880,Cyanomitra verticalis,species,Green-headed Sunbird,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+67883,Cinnyris venustus,species,Variable Sunbird,1,7.48306274414,9.04785269101,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+69410,Zygonyx torridus,species,Ringed Cascader,1,7.49542236328,9.02886533959,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+69426,Palpopleura portia,species,Portia Widow,1,7.49542236328,9.02886533959,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+69433,Palpopleura deceptor,species,Deceptive Widow,1,7.49542236328,9.02886533959,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+69446,Orthetrum hintzi,species,Hintz's Skimmer,1,7.49542236328,9.02886533959,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+69456,Pseudagrion kersteni,species,Kerstens Sprite,1,7.49542236328,9.02886533959,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+69472,Orthetrum chrysostigma,species,Epaulet Skimmer,1,7.49542236328,9.02886533959,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+69474,Orthetrum julia,species,Julia's Skimmer,1,7.49542236328,9.02886533959,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+69950,Pantala flavescens,species,Wandering Glider,1,7.48443603516,9.05056508804,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+70567,Junonia chorimene,species,Golden Pansy,1,7.49542236328,9.03564665142,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+70583,Mylothris chloris,species,Common Dotted Border,1,7.49542236328,9.03564665142,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+70595,Eurema hecabe,species,Common Grass Yellow,1,7.49542236328,9.03564665142,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+71088,Trithemis arteriosa,species,Red-veined Dropwing,2,7.48443603516,9.03429039926,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+71152,Palpopleura lucia,species,Lucia Widow,5,7.48443603516,9.03700289847,Africa,Nigeria,Nigeria - Federal Capital Territory,2009-09-26,
+100375,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,7.4322509765625,8.781939521036,Africa,Nigeria,Nigeria,2008-06-10,
+100406,Camaroptera brevicaudata,species,Grey-backed Camaroptera,1,7.4322509765625,8.781939521036,Africa,Nigeria,Nigeria,2008-06-10,
+3762,Mylothris chloris,species,Common Dotted Border,1,7.470703125,8.7113588754265,Africa,Nigeria,Nigeria,2008-06-10,
+3763,Melanitis leda,species,Common Evening Brown,1,7.470703125,8.7113588754265,Africa,Nigeria,Nigeria,2008-06-10,
+3766,Junonia chorimene,species,Golden Pansy,1,7.470703125,8.7113588754265,Africa,Nigeria,Nigeria,2008-06-10,
+3768,Acraea acerata,species,Sweet Potato Butterfly,1,7.470703125,8.7113588754265,Africa,Nigeria,Nigeria,2008-06-10,
+4498,Halcyon malimbica,species,Blue-breasted Kingfisher,1,7.4432373046875,8.781939521036,Africa,Nigeria,Nigeria,2008-06-10,
+4517,Crinifer piscator,species,Western Plantain-eater,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4519,Ploceus cucullatus,species,Village Weaver,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4525,Centropus senegalensis,species,Senegal Coucal,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4526,Glareola nuchalis,species,Rock Pratincole,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4536,Euplectes franciscanus,species,Northern Red Bishop,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4540,Spilopelia senegalensis,species,Laughing Dove,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4545,Lonchura cucullata,species,Bronze Mannikin,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4548,Phoeniculus purpureus,species,Green Wood Hoopoe,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4551,Lybius dubius,species,Bearded Barbet,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4558,Cypsiurus parvus,species,African Palm Swift,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+4563,Danaus chrysippus,species,African Monarch,1,7.44873046875,8.7982254590163,Africa,Nigeria,Nigeria,2008-06-10,
+52272,Papilio demodocus,species,Christmas Butterfly,1,7.05178365,4.87593887,Africa,Nigeria,Nigeria - Obio/Akpor,2020-04-28,12:44
+107301,Tussilago farfara,species,Colt's-foot,1,4.441223,5.210339,Africa,Nigeria,Nigerian Exclusive Economic Zone,2020-04-12,15:34
+66004,Pycnonotus barbatus,species,Common Bulbul,1,3.33183153759699,6.589599665271925,Africa,Nigeria,Nigeria - Oshodi/Isolo,2019-05-23,13:51
+21944,Spilopelia senegalensis senegalensis,subspecies,Laughing Dove ssp senegalensis,2,7.05204429,4.87504977,Africa,Nigeria,Nigeria - Obio/Akpor,2019-12-04,08:00
+69522,Dicrurus divaricatus,species,Glossy-backed Drongo,1,3.85781168937683,7.39566993713379,Africa,Nigeria,Nigeria - Ibadan North-West,2019-08-26,08:08
+69524,Dicrurus divaricatus,species,Glossy-backed Drongo,1,3.85840320587158,7.39225292205811,Africa,Nigeria,Nigeria - Ibadan,2019-08-29,07:39
+69525,Dicrurus divaricatus,species,Glossy-backed Drongo,9,3.85544490814209,7.3914966583252,Africa,Nigeria,Nigeria - Ibadan,2019-08-29,08:11
+69526,Crinifer piscator,species,Western Plantain-eater,4,3.86249089241028,7.39164113998413,Africa,Nigeria,Nigeria - Ibadan,2019-09-16,12:06
+2829,Lophoceros fasciatus,species,African Pied Hornbill,1,6.97940015792847,4.79726839065552,Africa,Nigeria,Nigeria - Obio/Akpor,2019-08-12,13:12
+2830,Bubulcus ibis,species,Western Cattle Egret,5,6.97941255569458,4.79720544815063,Africa,Nigeria,Nigeria - Obio/Akpor,2019-08-12,12:57
+2831,Haliaeetus vocifer,species,African Fish Eagle,1,6.97939968109131,4.79728507995605,Africa,Nigeria,Nigeria - Obio/Akpor,2019-08-12,12:22
+2832,Haliaeetus vocifer,species,African Fish Eagle,12,6.97936677932739,4.79717350006104,Africa,Nigeria,Nigeria - Obio/Akpor,2019-08-12,12:52
+2680,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,4.17688941955566,6.85421228408813,Africa,Nigeria,Nigeria - Ijebu East,2019-01-22,09:12
+2681,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,2,4.17579889297485,6.85655117034912,Africa,Nigeria,Nigeria - Ijebu East,2019-01-22,09:35
+42858,Platysteira castanea,species,Chestnut Wattle-eye,1,4.25437021255493,6.83756494522095,Africa,Nigeria,Nigeria - Omo,2019-01-23,09:21
+42859,Platysteira castanea,species,Chestnut Wattle-eye,1,4.4380898475647,6.95202827453613,Africa,Nigeria,Nigeria - Omo,2019-01-24,07:20
+42860,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43545961380005,6.94959926605225,Africa,Nigeria,Nigeria - Omo,2019-01-24,07:40
+42861,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43545961380005,6.94959926605225,Africa,Nigeria,Nigeria - Omo,2019-01-24,07:48
+74693,Platysteira castanea,species,Chestnut Wattle-eye,1,4.25437927246094,6.83754682540894,Africa,Nigeria,Nigeria - Omo,2019-01-23,09:24
+74694,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43799495697022,6.95221519470215,Africa,Nigeria,Nigeria - Omo,2019-01-24,07:20
+74695,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43545198440552,6.94957637786865,Africa,Nigeria,Nigeria - Omo,2019-01-24,07:41
+89175,Oriolus brachyrynchus,species,Western Oriole,1,4.570255,6.85187833333333,Africa,Nigeria,Nigeria - Oluwa,2019-01-16,08:57
+89176,Platysteira castanea,species,Chestnut Wattle-eye,1,4.09148333333333,6.76034333333333,Africa,Nigeria,Nigeria - Ijebu East,2019-01-18,07:58
+89177,Oriolus brachyrynchus,species,Western Oriole,1,4.44576,6.76595,Africa,Nigeria,Nigeria - Odigbo,2019-01-22,08:16
+89178,Oriolus brachyrynchus,species,Western Oriole,1,4.438805,6.764455,Africa,Nigeria,Nigeria - Odigbo,2019-01-22,08:39
+89179,Platysteira castanea,species,Chestnut Wattle-eye,2,4.25437333333333,6.83752333333333,Africa,Nigeria,Nigeria - Omo,2019-01-23,09:23
+95210,Camaroptera brevicaudata,species,Grey-backed Camaroptera,1,4.22790622711182,6.77735471725464,Africa,Nigeria,Nigeria - Omo,2019-01-19,08:07
+95211,Oriolus brachyrynchus,species,Western Oriole,1,4.44252014160156,6.76451015472412,Africa,Nigeria,Nigeria - Odigbo,2019-01-22,08:18
+95213,Oriolus brachyrynchus,species,Western Oriole,1,4.4387469291687,6.76444482803345,Africa,Nigeria,Nigeria - Odigbo,2019-01-22,08:41
+25811,Platysteira castanea,species,Chestnut Wattle-eye,1,4.08765077590942,6.75978755950928,Africa,Nigeria,Nigeria - Ijebu East,2019-01-18,07:26
+25812,Platysteira castanea,species,Chestnut Wattle-eye,1,4.09135150909424,6.76035976409912,Africa,Nigeria,Nigeria - Ijebu East,2019-01-18,07:59
+27499,Platysteira castanea,species,Chestnut Wattle-eye,1,4.09135913848877,6.76033687591553,Africa,Nigeria,Nigeria - Ijebu East,2019-01-18,07:59
+32648,Oriolus brachyrynchus,species,Western Oriole,1,4.57055234909058,6.85205602645874,Africa,Nigeria,Nigeria - Oluwa,2019-01-16,08:57
+32649,Camaroptera brevicaudata,species,Grey-backed Camaroptera,1,4.15167188644409,6.84863519668579,Africa,Nigeria,Nigeria - Ijebu East,2019-01-17,09:32
+32650,Camaroptera brevicaudata,species,Grey-backed Camaroptera,1,4.14789485931397,6.85016489028931,Africa,Nigeria,Nigeria - Ijebu East,2019-01-17,10:00
+32941,Oriolus brachyrynchus brachyrynchus,subspecies,Western Oriole ssp brachyrynchus,1,4.57058859,6.85202932,Africa,Nigeria,Nigeria - Oluwa,2019-01-16,08:57
+25346,Gypohierax angolensis,species,Palm-nut Vulture,1,3.89073461,7.49866396,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2018-11-27,
+10624,Actophilornis africanus,species,African Jacana,10,3.89423394203186,7.49989128112793,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2018-11-27,10:22
+12742,Lonchura cucullata,species,Bronze Mannikin,1,3.53721863,6.44100846,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2011-10-02,
+27170,Actitis hypoleucos,species,Common Sandpiper,1,3.53689693,6.43827896,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2011-03-27,
+27172,Halcyon senegalensis,species,Woodland Kingfisher,1,3.53689693,6.43827896,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2011-03-27,
+27443,Hedydipna collaris collaris,subspecies,Collared Sunbird ssp collaris,1,8.98487449,6.256938,Africa,Nigeria,Nigeria - Boki,2013-05-02,
+37460,Merops mentalis,species,Blue-moustached Bee-eater,3,8.34458828,5.65286418,Africa,Nigeria,Nigeria - Akamkpa,2013-04-28,09:05
+59893,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43543,6.76161166666667,Africa,Nigeria,Nigeria - Odigbo,2018-07-29,08:31
+59894,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43591833333333,6.95003,Africa,Nigeria,Nigeria - Omo,2018-07-31,08:29
+59895,Platysteira castanea,species,Chestnut Wattle-eye,1,4.32278833333333,6.71398,Africa,Nigeria,Nigeria - Omo,2018-08-01,08:55
+59896,Platysteira castanea,species,Chestnut Wattle-eye,1,4.32271333333333,6.71729,Africa,Nigeria,Nigeria - Omo,2018-08-01,09:18
+60038,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43546166666667,6.76163,Africa,Nigeria,Nigeria - Odigbo,2018-07-29,08:30
+60040,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43598,6.95007833333333,Africa,Nigeria,Nigeria - Omo,2018-07-31,08:29
+60042,Platysteira castanea,species,Chestnut Wattle-eye,1,4.322785,6.71384333333333,Africa,Nigeria,Nigeria - Omo,2018-08-01,08:51
+60043,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43606333333333,6.94962333333333,Africa,Nigeria,Nigeria - Omo,2018-07-31,08:29
+60044,Platysteira castanea,species,Chestnut Wattle-eye,1,4.32097166666667,6.71107166666667,Africa,Nigeria,Nigeria - Omo,2018-08-01,08:55
+99730,Platysteira castanea,species,Chestnut Wattle-eye,1,4.43597166666667,6.76090333333333,Africa,Nigeria,Nigeria - Odigbo,2018-07-29,08:31
+63546,Platysteira castanea,species,Chestnut Wattle-eye,1,4.50527166666667,6.83382,Africa,Nigeria,Nigeria - Omo,2018-07-23,08:36
+83234,Heraclia spec.,multispecies,,1,6.30058856,5.02744264,Africa,Nigeria,Nigeria - Yenegoa,2017-09-05,14:04
+98437,Agrius convolvuli,species,Convolvulus Hawkmoth,1,6.30275499,5.03165903,Africa,Nigeria,Nigeria - Yenegoa,2016-02-11,11:57
+112834,Euchromia lethe,species,The Basker,1,7.32067288,5.06340925,Africa,Nigeria,Nigeria - Aba South,2013-11-06,17:22
+22134,Metagarista maenas,species,,1,6.66320042,5.38751683,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-18,10:05
+37844,Annona muricata,species,Soursop,1,6.66398769,5.38680205,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,17:36
+37863,Sarcocephalus latifolius,species,Sierra Leone-peach,1,6.66398769,5.38680205,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,17:24
+37868,Rhamphicarpa fistulosa,species,,1,6.66304888,5.38708479,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,08:50
+37871,Senna occidentalis,species,Styptic Weed,1,6.66367651,5.38825385,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,08:42
+37882,Caryatis hersilia,species,,1,6.66324602,5.38735146,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-14,08:32
+78362,Necrosyrtes monachus,species,Hooded Vulture,2,6.66440696,5.38575622,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-08,13:27
+84032,Vitex doniana,species,,1,6.66489826,5.38396304,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,16:00
+84430,Peperomia pellucida,species,Man to man,100,6.66312532,5.3876121,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,12:33
+84571,Acrida spec.,multispecies,,1,6.66493669,5.38394437,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,16:04
+84705,Precis octavia octavia,subspecies,,1,6.66338503,5.38344101,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,15:33
+84734,Acraea serena,species,Small Orange Acraea,1,6.66442757,5.38690172,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-07,16:45
+52436,Precis octavia octavia,subspecies,,1,6.66509092,5.38452918,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-02,14:22
+52439,Commelina erecta,species,Whitemouth dayflower,20,6.66307926,5.3873798,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-02,11:08
+52444,Microsorum scolopendria,synonym,,10,6.66332334,5.38741185,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-02,10:53
+85729,Plectranthus monostachyus,species,,1,6.66499528,5.38441565,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,13:53
+86233,Mitracarpus hirtus,species,Small squareweed,100,6.66411191,5.38297102,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,09:54
+86241,Virectaria multiflora,species,,20,6.66408333,5.38294962,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,09:51
+86386,Clappertonia ficifolia,species,Bolo-bolo,1,6.6624248,5.38517675,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,09:40
+86427,Hyptis lanceolata,species,,50,6.66270199,5.38590839,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-07-01,09:30
+109769,Eudocima divitiosa,species,Spotless Underwing,1,6.30077766,5.02731353,Africa,Nigeria,Nigeria - Yenegoa,2018-04-15,14:56
+109778,Acraea bonasia,species,,1,6.29872355,5.029956,Africa,Nigeria,Nigeria - Yenegoa,2018-04-15,14:23
+109787,Indigofera hirsuta,species,Roughhairy indigo,30,6.30215141,5.02913039,Africa,Nigeria,Nigeria - Yenegoa,2018-04-15,15:12
+109795,Baphia nitida,species,African-sandalwood,1,6.30046698,5.02679516,Africa,Nigeria,Nigeria - Yenegoa,2018-04-15,14:48
+109815,Aniseia martinicensis,species,Whitejacket,100,6.29940705,5.02826606,Africa,Nigeria,Nigeria - Yenegoa,2018-04-15,14:31
+115431,Hypolimnas anthedon anthedon,subspecies,,1,6.30294442,5.02748188,Africa,Nigeria,Nigeria - Yenegoa,2018-04-16,16:20
+4555,Sauvagesia erecta,species,,100,6.66356654,5.38521945,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-06-28,16:06
+18272,Sesamum indicum,species,Sesame,3,6.66484952,5.38390298,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-06-28,15:50
+18342,Aspilia kotschyi,species,,1,6.66424158,5.38601787,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2018-06-28,15:50
+82186,Lophira alata,species,,1,6.29845264,5.03014303,Africa,Nigeria,Nigeria - Yenegoa,2018-04-22,10:38
+103495,Catuna crithea,species,,1,6.29775167,5.03033011,Africa,Nigeria,Nigeria - Yenegoa,2018-04-22,10:47
+104264,Persicaria spec.,multispecies,,20,6.29922336,5.02911432,Africa,Nigeria,Nigeria - Yenegoa,2018-04-22,10:31
+104321,Paullinia pinnata,species,,1,6.30107408,5.02790128,Africa,Nigeria,Nigeria - Yenegoa,2018-04-22,10:03
+118172,Lindernia diffusa,species,Spreading false pimpernel,50,6.30065206,5.03174081,Africa,Nigeria,Nigeria - Yenegoa,2018-04-25,17:03
+727,Ixora coccinea,species,Jungle-geranium,1,6.94974974,5.00600888,Africa,Nigeria,Nigeria - Ikwerre,2018-04-26,11:54
+733,Ixora coccinea,species,Jungle-geranium,1,6.94976315,5.00600487,Africa,Nigeria,Nigeria - Ikwerre,2018-04-26,11:53
+886,Aterica galene,species,Forest Glade Nymph,1,6.29808426,5.0307389,Africa,Nigeria,Nigeria - Yenegoa,2018-06-16,14:57
+946,Neptidopsis ophione ophione,subspecies,,1,6.30036414,5.02801893,Africa,Nigeria,Nigeria - Yenegoa,2018-06-22,15:54
+1040,Hypolimnas anthedon,species,Variable Eggfly,1,6.30044997,5.0269288,Africa,Nigeria,Nigeria - Yenegoa,2018-06-22,15:34
+1045,Acraea serena,species,Small Orange Acraea,10,6.30042499,5.02680046,Africa,Nigeria,Nigeria - Yenegoa,2018-06-22,15:30
+1052,Fleroya stipulosa,species,,1,6.29924297,5.02953656,Africa,Nigeria,Nigeria - Yenegoa,2018-06-22,16:10
+11547,Dacryodes edulis,species,Eben tree,1,6.30259397,5.02736694,Africa,Nigeria,Nigeria - Yenegoa,2018-06-17,17:36
+20282,Acraea pseudegina,species,Abadima Acraea,1,6.30220061,5.02906088,Africa,Nigeria,Nigeria - Yenegoa,2018-06-18,11:34
+20288,Danaus chrysippus,species,African Monarch,1,6.30205041,5.02858528,Africa,Nigeria,Nigeria - Yenegoa,2018-06-18,11:44
+20303,Acraea bonasia bonasia,subspecies,,5,6.30227479,5.02788262,Africa,Nigeria,Nigeria - Yenegoa,2018-06-18,11:47
+20387,Euplectes afer,species,Yellow-crowned Bishop,2,6.30380457,5.03057851,Africa,Nigeria,Nigeria - Yenegoa,2018-06-18,12:13
+39355,Bocchoris inspersalis,species,,1,6.30065742,5.02728946,Africa,Nigeria,Nigeria - Yenegoa,2017-10-31,17:40
+15367,Crinifer piscator,species,Western Plantain-eater,7,3.8976220227778,7.44207909330726,Africa,Nigeria,Nigeria - Akinyele,2018-05-13,17:58
+29405,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,6.29780087,5.03042625,Africa,Nigeria,Nigeria - Yenegoa,2018-04-22,10:49
+108293,Corythaeola cristata,species,Great Blue Turaco,5,6.30090326,5.02737763,Africa,Nigeria,Nigeria - Yenegoa,2018-04-13,16:19
+91812,Junonia terea terea,subspecies,,6,6.30158454,5.02789602,Africa,Nigeria,Nigeria - Yenegoa,2018-04-10,16:15
+91815,Xerus erythropus,species,Striped Ground Squirrel,2,6.30299807,5.02780916,Africa,Nigeria,Nigeria - Yenegoa,2018-04-10,16:51
+103004,Microcarbo africanus,species,Reed Cormorant,1,6.30080402,5.02772231,Africa,Nigeria,Nigeria - Yenegoa,2018-04-08,15:14
+103042,Merops pusillus,species,Little Bee-eater,4,6.3022095,5.02927463,Africa,Nigeria,Nigeria - Yenegoa,2017-03-10,15:01
+2168,Euphorbia hirta,species,Pill-bearing spurge,1,6.3033092,5.03219503,Africa,Nigeria,Nigeria - Yenegoa,2018-04-08,09:41
+76470,Microcarbo africanus,species,Reed Cormorant,1,6.30086303,5.0274284,Africa,Nigeria,Nigeria - Yenegoa,2018-04-05,16:30
+76474,Corythornis cristatus,species,Malachite Kingfisher,2,6.30081475,5.02775971,Africa,Nigeria,Nigeria - Yenegoa,2018-04-05,16:20
+76475,Acraea bonasia,species,,1,6.30091667,5.02790399,Africa,Nigeria,Nigeria - Yenegoa,2018-04-05,16:17
+84628,Microsorum scolopendria,synonym,,10,6.30381614,5.03226051,Africa,Nigeria,Nigeria - Yenegoa,2018-04-05,12:53
+84631,Phalanta eurytis,species,Forest leopard,1,6.30102128,5.0279174,Africa,Nigeria,Nigeria - Yenegoa,2018-04-05,11:55
+84635,Actophilornis africanus,species,African Jacana,1,6.30099714,5.02784788,Africa,Nigeria,Nigeria - Yenegoa,2018-04-05,11:48
+84640,Dendrocygna viduata,species,White-faced Whistling Duck,2,6.30083889,5.02746848,Africa,Nigeria,Nigeria - Yenegoa,2018-04-05,11:37
+93742,Butorides striata,species,Striated Heron,1,6.29843295,5.03021789,Africa,Nigeria,Nigeria - Yenegoa,2018-04-02,16:08
+114376,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,4.32226,6.91793166666667,Africa,Nigeria,Nigeria - Omo,2018-03-29,08:10
+115091,Symphonia globulifera,species,Boarwood,1,6.29836738,5.02979469,Africa,Nigeria,Nigeria - Yenegoa,2018-04-02,16:01
+26161,Crinum jagus,species,,3,6.30057007,5.0272541,Africa,Nigeria,Nigeria - Yenegoa,2018-03-31,14:40
+26274,Pennisetum pedicellatum,species,Kyasuwa grass,1,6.30190849,5.03000763,Africa,Nigeria,Nigeria - Yenegoa,2018-03-31,11:42
+35095,Hypolimnas anthedon anthedon,subspecies,,1,6.30111992,5.02794077,Africa,Nigeria,Nigeria - Yenegoa,2018-03-31,14:53
+46093,Zehneria thwaitesii,species,,4,6.30347148,5.03253173,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,09:07
+46120,Zehneria thwaitesii,species,,3,6.3034752,5.03254951,Africa,Nigeria,Nigeria - Yenegoa,2018-03-30,16:23
+46273,Zehneria thwaitesii,species,,4,6.3034752,5.03254951,Africa,Nigeria,Nigeria - Yenegoa,2017-09-12,09:02
+62531,Musanga cecropioides,species,Aga umbrella-tree,6,6.29936844,5.03151842,Africa,Nigeria,Nigeria - Yenegoa,2018-01-21,16:38
+62561,Anthocleista vogelii,species,,20,6.2978214,5.02785861,Africa,Nigeria,Nigeria - Yenegoa,2018-01-21,16:20
+62739,Pterocarpus santalinoides,species,,1,6.29781604,5.02839834,Africa,Nigeria,Nigeria - Yenegoa,2018-01-21,16:06
+62741,Paullinia pinnata,species,,1,6.29785359,5.02849452,Africa,Nigeria,Nigeria - Yenegoa,2018-01-21,16:05
+62744,Symphonia globulifera,species,Boarwood,6,6.29791141,5.02857097,Africa,Nigeria,Nigeria - Yenegoa,2018-01-21,16:03
+72473,Burhinus vermiculatus,species,Water Thick-knee,2,6.29893124,5.02985117,Africa,Nigeria,Nigeria - Yenegoa,2018-01-21,15:56
+72481,Junonia sophia,species,Little Comodore,2,6.29803538,5.02876104,Africa,Nigeria,Nigeria - Yenegoa,2018-01-21,16:02
+75438,Mapania spec.,multispecies,,1,6.3001442,5.02797083,Africa,Nigeria,Nigeria - Yenegoa,2018-03-25,14:41
+75570,Anthocleista vogelii,species,,1,6.29997462,5.02716593,Africa,Nigeria,Nigeria - Yenegoa,2018-03-25,14:52
+83574,Streptopelia semitorquata,species,Red-eyed Dove,1,6.2986051,5.02995117,Africa,Nigeria,Nigeria - Yenegoa,2018-03-25,15:41
+83582,Nigrita canicapillus,species,Grey-headed Nigrita,1,6.29964847,5.03163445,Africa,Nigeria,Nigeria - Yenegoa,2018-03-25,09:50
+83590,Centropus senegalensis,species,Senegal Coucal,2,6.29931295,5.03139703,Africa,Nigeria,Nigeria - Yenegoa,2018-03-25,09:45
+87944,Junonia oenone,species,Dark Blue Pansy,1,6.2985912,5.03005757,Africa,Nigeria,Nigeria - Yenegoa,2018-03-25,15:39
+88053,Hamanumida daedalus,species,Guineafowl,1,6.30022515,5.02679567,Africa,Nigeria,Nigeria - Yenegoa,2018-03-25,14:48
+88057,Acraea pseudegina,species,Abadima Acraea,2,6.29912788,5.03075651,Africa,Nigeria,Nigeria - Yenegoa,2018-03-25,10:09
+88080,Nephele aequivalens,species,,1,6.30227119,5.03059729,Africa,Nigeria,Nigeria - Yenegoa,2018-03-25,08:49
+3354,Oriolus brachyrynchus,species,Western Oriole,2,4.35238166666667,6.84792166666667,Africa,Nigeria,Nigeria - Omo,2018-03-15,08:23
+3387,Oriolus brachyrynchus,species,Western Oriole,1,4.32225666666667,6.91769833333333,Africa,Nigeria,Nigeria - Omo,2018-03-21,07:27
+51231,Heinsia crinita,species,,1,6.30020954,5.02805436,Africa,Nigeria,Nigeria - Yenegoa,2018-02-18,16:53
+51788,Mapania spec.,multispecies,,6,6.30013883,5.02791205,Africa,Nigeria,Nigeria - Yenegoa,2018-02-18,16:51
+64494,Heisteria parvifolia,species,,1,6.30074282,5.02712699,Africa,Nigeria,Nigeria - Yenegoa,2018-02-18,16:39
+64507,Bos taurus,species,Cattle,60,6.29940439,5.0291241,Africa,Nigeria,Nigeria - Yenegoa,2018-02-18,15:36
+76002,Stachytarpheta indica,species,,5,6.30091716,5.03058708,Africa,Nigeria,Nigeria - Yenegoa,2018-03-18,11:23
+76005,Alchornea cordifolia,species,,1,6.29898304,5.02979463,Africa,Nigeria,Nigeria - Yenegoa,2018-03-18,11:18
+90608,Heliotropium indicum,species,Indian heliotrope,10,6.29869897,5.02990696,Africa,Nigeria,Nigeria - Yenegoa,2018-03-18,11:01
+90804,Trachyphrynium braunianum,species,,1,6.29980136,5.02760647,Africa,Nigeria,Nigeria - Yenegoa,2018-03-18,10:50
+94156,Paullinia pinnata,species,,1,6.29996473,5.02740924,Africa,Nigeria,Nigeria - Yenegoa,2018-03-18,10:47
+94785,Culcasia scandens,species,Culcasia,1,6.29999131,5.027375,Africa,Nigeria,Nigeria - Yenegoa,2018-03-18,10:42
+94805,Platycerium stemaria,species,Triangular staghorn fern,2,6.29995693,5.02736479,Africa,Nigeria,Nigeria - Yenegoa,2018-03-18,10:38
+94830,Danaus chrysippus,species,African Monarch,6,6.30007763,5.02648695,Africa,Nigeria,Nigeria - Yenegoa,2018-03-18,10:33
+90536,Ardea cinerea,species,Grey Heron,17,3.89031325466931,7.44408605620265,Africa,Nigeria,Nigeria - Akinyele,2018-03-08,17:00
+603,Cypsiurus parvus,species,African Palm Swift,1,3.53494825500714,6.43335194273156,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2018-02-19,16:13
+604,Bubulcus ibis,species,Western Cattle Egret,5,7.0183967603176,4.84155370016801,Africa,Nigeria,Nigeria - Obio/Akpor,2018-02-20,08:51
+605,Lophoceros fasciatus,species,African Pied Hornbill,2,7.01847343980195,4.8361648243889,Africa,Nigeria,Nigeria - Obio/Akpor,2018-02-20,09:29
+606,Lophoceros fasciatus,species,African Pied Hornbill,2,7.0486884,4.8521965,Africa,Nigeria,Nigeria - Obio/Akpor,2018-02-20,17:45
+607,Lophoceros fasciatus,species,African Pied Hornbill,2,7.04706945635338,4.85186003782127,Africa,Nigeria,Nigeria - Obio/Akpor,2018-02-20,17:55
+608,Streptopelia semitorquata,species,Red-eyed Dove,1,7.04695542321997,4.85084760790822,Africa,Nigeria,Nigeria - Obio/Akpor,2018-02-20,17:59
+97921,Danaus chrysippus alcippus,subspecies,,2,6.30006909,5.02661351,Africa,Nigeria,Nigeria - Yenegoa,2018-02-11,09:26
+5926,Milvus aegyptius parasitus,subspecies,Yellow-billed Kite ssp parasitus,50,6.30175352,5.02956862,Africa,Nigeria,Nigeria - Yenegoa,2018-02-11,08:58
+44399,Heraclia geryon,species,,4,6.30282153,5.02746219,Africa,Nigeria,Nigeria - Yenegoa,2017-09-05,14:31
+61792,Anacardium occidentale,species,Cashewnut,4,6.73654119,5.56136491,Africa,Nigeria,Nigeria - Ohaji /Egbema,2018-02-01,13:22
+63586,Hamanumida daedalus,species,Guineafowl,4,6.30019248,5.0267284,Africa,Nigeria,Nigeria - Yenegoa,2018-02-04,14:22
+85202,Platysteira castanea,species,Chestnut Wattle-eye,1,4.36816,6.83141666666667,Africa,Nigeria,Nigeria - Omo,2018-02-01,09:21
+93076,Ipomoea aquatica,species,Water spinach,20,6.30355597,5.03251031,Africa,Nigeria,Nigeria - Yenegoa,2018-01-26,10:49
+115357,Motacilla flava,species,Western Yellow Wagtail,5,6.30207002,5.02967007,Africa,Nigeria,Nigeria - Yenegoa,2018-01-28,17:06
+118481,Burhinus vermiculatus,species,Water Thick-knee,3,6.29893184,5.0298571,Africa,Nigeria,Nigeria - Yenegoa,2018-01-27,16:27
+4887,Clamator levaillantii,species,Levaillant's Cuckoo,2,3.96233735606074,6.84983481187373,Africa,Nigeria,Nigeria - Ijebu North-East,2018-01-30,07:59
+10710,Clamator levaillantii,species,Levaillant's Cuckoo,1,3.9630084,6.8480521,Africa,Nigeria,Nigeria - Ijebu North-East,2018-01-29,09:24
+80385,Ceiba pentandra,species,Silk cottontree,1,6.30039096,5.02758057,Africa,Nigeria,Nigeria - Yenegoa,2018-01-21,11:44
+91311,Neptidopsis ophione ophione,subspecies,,1,6.30026758,5.02790671,Africa,Nigeria,Nigeria - Yenegoa,2018-01-20,11:45
+91318,Junonia terea terea,subspecies,,20,6.30018711,5.02790404,Africa,Nigeria,Nigeria - Yenegoa,2018-01-20,11:42
+108870,Gloriosa superba,species,Flame lily,1,6.30320996,5.02771433,Africa,Nigeria,Nigeria - Yenegoa,2018-01-19,15:14
+108871,Palpopleura lucia,species,Lucia Widow,1,6.30299807,5.02757535,Africa,Nigeria,Nigeria - Yenegoa,2018-01-19,15:02
+120069,Saliunca styx,species,,1,6.30119026,5.0279147,Africa,Nigeria,Nigeria - Yenegoa,2017-09-10,14:45
+120890,Chiromachla leuconoe,species,,1,6.30361497,5.02756199,Africa,Nigeria,Nigeria - Yenegoa,2017-10-22,15:28
+24509,Chiromachla leuconoe,species,,1,6.30098104,5.02793606,Africa,Nigeria,Nigeria - Yenegoa,2017-09-16,17:09
+25086,Anchomanes difformis,species,,2,6.30055994,5.02724404,Africa,Nigeria,Nigeria - Yenegoa,2017-12-08,15:09
+25233,Melanitis leda,species,Common Evening Brown,1,6.30019516,5.02747649,Africa,Nigeria,Nigeria - Yenegoa,2017-12-10,11:31
+25271,Acraea serena,species,Small Orange Acraea,4,6.30159527,5.02798148,Africa,Nigeria,Nigeria - Yenegoa,2017-12-10,11:01
+88650,Acraea spec.,multispecies,,1,6.3013941,5.02880981,Africa,Nigeria,Nigeria - Yenegoa,2017-12-10,11:53
+88673,Acraea serena,species,Small Orange Acraea,3,6.3010186,5.02808831,Africa,Nigeria,Nigeria - Yenegoa,2017-12-10,11:50
+88688,Heisteria parvifolia,species,,1,6.30086035,5.02731088,Africa,Nigeria,Nigeria - Yenegoa,2017-12-10,11:37
+95587,Periploca nigrescens,species,,1,6.30149335,5.02855865,Africa,Nigeria,Nigeria - Yenegoa,2017-12-10,11:56
+95592,Merremia umbellata,species,Hogvine,4,6.30156308,5.02854262,Africa,Nigeria,Nigeria - Yenegoa,2017-12-10,11:54
+95638,Ipomoea pileata,species,,100,6.30106688,5.02806164,Africa,Nigeria,Nigeria - Yenegoa,2017-12-10,11:47
+95736,Anchomanes difformis,species,,1,6.30057603,5.02730553,Africa,Nigeria,Nigeria - Yenegoa,2017-12-16,11:32
+95758,Hamanumida daedalus,species,Guineafowl,1,6.30230874,5.02785327,Africa,Nigeria,Nigeria - Yenegoa,2017-12-16,11:20
+95761,Acraea serena,species,Small Orange Acraea,1,6.30238652,5.02782121,Africa,Nigeria,Nigeria - Yenegoa,2017-12-16,11:18
+95764,Junonia sophia,species,Little Comodore,7,6.30258232,5.02777842,Africa,Nigeria,Nigeria - Yenegoa,2017-12-16,11:17
+104768,Pterocarpus santalinoides,species,,1,6.30079061,5.02778376,Africa,Nigeria,Nigeria - Yenegoa,2017-12-16,11:10
+117990,Heinsia crinita,species,,1,6.30019784,5.02740702,Africa,Nigeria,Nigeria - Yenegoa,2017-12-08,15:00
+117997,Ipomoea aquatica,species,Water spinach,1,6.30345672,5.03244619,Africa,Nigeria,Nigeria - Yenegoa,2017-12-08,08:29
+7700,Neptis agouale,species,,1,6.30164355,5.0279227,Africa,Nigeria,Nigeria - Yenegoa,2017-12-08,14:53
+7714,Junonia oenone,species,Dark Blue Pansy,4,6.30197346,5.02887126,Africa,Nigeria,Nigeria - Yenegoa,2017-12-08,14:49
+7722,Acraea bonasia,species,,1,6.30205393,5.02925597,Africa,Nigeria,Nigeria - Yenegoa,2017-12-08,14:46
+24873,Pterocarpus santalinoides,species,,1,6.3008067,5.0277891,Africa,Nigeria,Nigeria - Yenegoa,2017-12-07,17:16
+36769,Heisteria parvifolia,species,,1,6.30083352,5.02724408,Africa,Nigeria,Nigeria - Yenegoa,2017-12-07,17:04
+36926,Bycanistes fistulator,species,Piping Hornbill,2,6.30031586,5.02727071,Africa,Nigeria,Nigeria - Yenegoa,2017-12-07,16:59
+36942,Hamanumida daedalus,species,Guineafowl,1,6.30137265,5.0288685,Africa,Nigeria,Nigeria - Yenegoa,2017-12-07,16:31
+36952,Bunaea alcinoe,species,Cabbage tree emperor moth,1,6.30189836,5.0300963,Africa,Nigeria,Nigeria - Yenegoa,2017-12-07,09:00
+84484,Lophoceros fasciatus,species,African Pied Hornbill,3,6.30088583,5.02738095,Africa,Nigeria,Nigeria - Yenegoa,2017-11-11,11:50
+119699,Junonia oenone oenone,subspecies,,7,6.30348489,5.02957657,Africa,Nigeria,Nigeria - Yenegoa,2017-11-08,12:48
+119724,Junonia sophia,species,Little Comodore,10,6.30080268,5.02781987,Africa,Nigeria,Nigeria - Yenegoa,2017-11-03,12:15
+119725,Junonia terea terea,subspecies,,5,6.30374908,5.02753532,Africa,Nigeria,Nigeria - Yenegoa,2017-09-17,14:03
+119730,Precis sinuata,species,,4,6.30093411,5.02792602,Africa,Nigeria,Nigeria - Yenegoa,2017-09-08,14:52
+6578,Neptidopsis ophione ophione,subspecies,,2,6.30272448,5.02761814,Africa,Nigeria,Nigeria - Yenegoa,2017-09-10,14:34
+12479,Palpopleura portia,species,Portia Widow,10,6.29869358,5.0298251,Africa,Nigeria,Nigeria - Yenegoa,2017-09-09,10:41
+12636,Hypolimnas misippus,species,Danaid Eggfly,1,6.30303654,5.02853456,Africa,Nigeria,Nigeria - Yenegoa,2017-09-10,14:16
+12769,Junonia terea,species,Soldier Commodore,1,6.30102932,5.02792007,Africa,Nigeria,Nigeria - Yenegoa,2017-09-23,14:14
+12798,Junonia sophia,species,Little Comodore,3,6.30099714,5.02790671,Africa,Nigeria,Nigeria - Yenegoa,2017-10-22,14:57
+26017,Hypolimnas salmacis salmacis,subspecies,,1,6.30052867,5.02751123,Africa,Nigeria,Nigeria - Yenegoa,2017-09-05,14:01
+32895,Acraea pseudegina,species,Abadima Acraea,1,6.30099177,5.0285533,Africa,Nigeria,Nigeria - Yenegoa,2017-11-05,11:27
+33123,Pseudoneptis bugandensis ianthe,subspecies,,1,6.30084517,5.02742305,Africa,Nigeria,Nigeria - Yenegoa,2017-11-05,11:20
+33135,Hypolimnas salmacis salmacis,subspecies,,1,6.30054208,5.02758871,Africa,Nigeria,Nigeria - Yenegoa,2017-11-05,11:16
+37888,Precis pelarga,species,Fashion commodore,4,6.30082279,5.02741508,Africa,Nigeria,Nigeria - Yenegoa,2017-11-01,14:19
+37902,Mocis mayeri,species,,1,6.30083713,5.02736962,Africa,Nigeria,Nigeria - Yenegoa,2017-10-31,17:38
+37982,Triumfetta rhomboidea,species,Paroquet-bur,1,6.30157159,5.02799085,Africa,Nigeria,Nigeria - Yenegoa,2017-10-31,17:55
+38003,Corythornis cristatus,species,Malachite Kingfisher,1,6.30349474,5.03251701,Africa,Nigeria,Nigeria - Yenegoa,2017-10-30,15:48
+38092,Ipomoea pileata,species,,50,6.30095246,5.02792003,Africa,Nigeria,Nigeria - Yenegoa,2017-11-01,14:22
+16290,Vidua macroura,species,Pin-tailed Whydah,1,6.30058056,5.02872831,Africa,Nigeria,Nigeria - Yenegoa,2017-10-22,14:35
+16293,Vidua macroura,species,Pin-tailed Whydah,1,6.30214697,5.03004822,Africa,Nigeria,Nigeria - Yenegoa,2017-10-21,16:08
+16298,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,6.30009416,5.02804765,Africa,Nigeria,Nigeria - Yenegoa,2017-10-21,15:45
+16308,Scopus umbretta minor,subspecies,Hamerkop ssp minor,2,6.3015345,5.0281946,Africa,Nigeria,Nigeria - Yenegoa,2017-10-20,15:11
+16311,Merops pusillus,species,Little Bee-eater,4,6.30168471,5.02832285,Africa,Nigeria,Nigeria - Yenegoa,2017-10-14,17:33
+16414,Corythaeola cristata,species,Great Blue Turaco,5,6.30453497,5.03162597,Africa,Nigeria,Nigeria - Yenegoa,2017-09-17,13:47
+16423,Lophoceros fasciatus,species,African Pied Hornbill,1,6.30234721,5.02780184,Africa,Nigeria,Nigeria - Yenegoa,2017-09-17,11:59
+16426,Corythaeola cristata,species,Great Blue Turaco,1,6.3001183,5.02771634,Africa,Nigeria,Nigeria - Yenegoa,2017-09-17,11:21
+16433,Vidua macroura,species,Pin-tailed Whydah,1,6.3006565,5.02832085,Africa,Nigeria,Nigeria - Yenegoa,2017-09-16,17:32
+34753,Acraea epaea,species,,1,6.30069137,5.02763685,Africa,Nigeria,Nigeria - Yenegoa,2017-10-14,11:11
+34777,Acraea pseudegina,species,Abadima Acraea,1,6.30061358,5.02773838,Africa,Nigeria,Nigeria - Yenegoa,2017-09-23,14:32
+34786,Acraea orestia,species,,1,6.30020857,5.0276983,Africa,Nigeria,Nigeria - Yenegoa,2017-09-23,14:24
+34834,Acraea egina egina,subspecies,Elegant Acraea,1,6.30092472,5.02790136,Africa,Nigeria,Nigeria - Yenegoa,2017-09-23,14:16
+34839,Hypolimnas salmacis salmacis,subspecies,,1,6.30073696,5.02779449,Africa,Nigeria,Nigeria - Yenegoa,2017-09-23,14:12
+46282,Leea guineensis,species,,1,6.30040353,5.02887022,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,11:21
+53874,Melanthera scandens,species,,30,6.29856974,5.0295232,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,15:08
+53884,Chamaecrista mimosoides,species,Chamaecrista,3,6.30071106,5.03052449,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,14:59
+53892,Clappertonia ficifolia,species,Bolo-bolo,20,6.30076647,5.0280884,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,11:06
+53901,Aneilema beniniense,species,,30,6.30074325,5.02777927,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,10:40
+58480,Milvus aegyptius,species,Yellow-billed Kite,3,6.30028015,5.0288435,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,11:17
+63214,Apis mellifera,species,Western Honey Bee,1,6.30096495,5.02792274,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,11:03
+63222,Costus lucanusianus,species,,20,6.30085812,5.02784433,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,10:39
+67286,Acraea epaea,species,,1,6.30088809,5.02791554,Africa,Nigeria,Nigeria - Yenegoa,2017-10-15,10:37
+101941,Precis pelarga,species,Fashion commodore,5,6.3007057,5.0277671,Africa,Nigeria,Nigeria - Yenegoa,2017-09-11,15:57
+24109,Acraea bonasia,species,,2,6.30099177,5.02798152,Africa,Nigeria,Nigeria - Yenegoa,2017-09-11,15:50
+24114,Acraea bonasia,species,,4,6.3004446,5.0276983,Africa,Nigeria,Nigeria - Yenegoa,2017-09-10,14:58
+24116,Acraea bonasia,species,,1,6.30332085,5.02745865,Africa,Nigeria,Nigeria - Yenegoa,2017-09-10,14:26
+24179,Acraea bonasia,species,,1,6.2985912,5.02984917,Africa,Nigeria,Nigeria - Yenegoa,2017-09-09,10:28
+31515,Mussaenda incana,species,,1,6.94975376,5.00594342,Africa,Nigeria,Nigeria - Ikwerre,2017-10-09,09:41
+41795,Hypolimnas salmacis salmacis,subspecies,,1,6.30056798,5.02766089,Africa,Nigeria,Nigeria - Yenegoa,2017-09-25,13:36
+41796,Aterica galene,species,Forest Glade Nymph,3,6.3007057,5.02771514,Africa,Nigeria,Nigeria - Yenegoa,2017-09-25,13:31
+54122,Precis pelarga,species,Fashion commodore,5,6.30103293,5.02798531,Africa,Nigeria,Nigeria - Yenegoa,2017-09-25,13:30
+73607,Aterica galene,species,Forest Glade Nymph,1,6.30058777,5.02767069,Africa,Nigeria,Nigeria - Yenegoa,2017-09-24,14:24
+20324,Junonia oenone,species,Dark Blue Pansy,10,6.30081031,5.02784221,Africa,Nigeria,Nigeria - Yenegoa,2017-09-08,14:49
+20343,Amauris damocles,species,,1,6.30327882,5.02892659,Africa,Nigeria,Nigeria - Yenegoa,2017-09-06,12:57
+74431,Vanellus albiceps,species,White-crowned Lapwing,3,6.30106243,5.03043275,Africa,Nigeria,Nigeria - Yenegoa,2017-09-13,12:17
+82098,Euplectes afer,species,Yellow-crowned Bishop,2,6.30370173,5.03047402,Africa,Nigeria,Nigeria - Yenegoa,2017-09-12,13:32
+100695,Acraea bonasia,species,,10,6.30255818,5.02764486,Africa,Nigeria,Nigeria - Yenegoa,2017-09-06,12:31
+101940,Neptidopsis ophione ophione,subspecies,,4,6.3002193,5.02775174,Africa,Nigeria,Nigeria - Yenegoa,2017-09-10,15:09
+106319,Ageratum conyzoides,species,Tropical whiteweed,10,6.30389753,5.03123283,Africa,Nigeria,Nigeria - Yenegoa,2017-09-10,14:07
+106421,Chamaecrista mimosoides,species,Chamaecrista,10,6.30023723,5.03061288,Africa,Nigeria,Nigeria - Yenegoa,2017-09-10,11:48
+7225,Protogoniomorpha anacardii,species,Clouded mother-of-pearl,1,6.30096856,5.02788377,Africa,Nigeria,Nigeria - Yenegoa,2017-09-08,14:30
+18630,Cyperus cyperoides,species,Pacific island flatsedge,200,6.30341113,5.02928807,Africa,Nigeria,Nigeria - Yenegoa,2017-09-06,12:58
+19720,Dracaena arborea,species,,1,5.72510633,5.52563366,Africa,Nigeria,Nigeria - Warri South,2007-07-12,17:05
+29934,Ardea alba,species,Great Egret,1,6.3028005,5.02849059,Africa,Nigeria,Nigeria - Yenegoa,2017-09-06,12:55
+31629,Acraea orestia,species,,1,6.30088004,5.02819906,Africa,Nigeria,Nigeria - Yenegoa,2016-03-29,08:51
+32464,Neptidopsis ophione ophione,subspecies,,1,6.30062792,5.02750169,Africa,Nigeria,Nigeria - Yenegoa,2017-09-05,03:58
+34759,Fleroya stipulosa,species,,1,6.30258861,5.02865714,Africa,Nigeria,Nigeria - Yenegoa,2017-09-05,14:38
+34793,Melanthera scandens,species,,10,6.30010933,5.02820062,Africa,Nigeria,Nigeria - Yenegoa,2017-09-05,14:21
+45738,Eurema hecabe,species,Common Grass Yellow,1,6.30095154,5.02812313,Africa,Nigeria,Nigeria - Yenegoa,2017-09-04,15:49
+45797,Junonia oenone,species,Dark Blue Pansy,1,6.3008523,5.02787732,Africa,Nigeria,Nigeria - Yenegoa,2017-09-04,15:43
+45967,Hypolimnas salmacis,species,,1,6.30022734,5.02756203,Africa,Nigeria,Nigeria - Yenegoa,2017-09-04,15:32
+45980,Aterica galene galene,subspecies,,1,6.30029976,5.02757005,Africa,Nigeria,Nigeria - Yenegoa,2017-09-04,15:31
+46013,Junonia terea terea,subspecies,,3,6.30080938,5.02788533,Africa,Nigeria,Nigeria - Yenegoa,2017-09-04,15:19
+49525,Eurema hecabe,species,Common Grass Yellow,3,6.3024348,5.03012972,Africa,Nigeria,Nigeria - Yenegoa,2017-09-03,17:53
+63857,Neptidopsis ophione ophione,subspecies,,1,6.30156225,5.02864638,Africa,Nigeria,Nigeria - Yenegoa,2017-07-31,13:00
+70667,Pseudacraea semire,species,,1,6.3002488,5.02751661,Africa,Nigeria,Nigeria - Yenegoa,2017-09-02,11:00
+70776,Acraea egina egina,subspecies,Elegant Acraea,1,6.30103469,5.02787999,Africa,Nigeria,Nigeria - Yenegoa,2017-09-02,10:47
+95019,Acraea pseudegina,species,Abadima Acraea,1,6.30349528,5.02935932,Africa,Nigeria,Nigeria - Yenegoa,2017-09-01,12:37
+77518,Junonia sophia,species,Little Comodore,1,6.30102396,5.02797618,Africa,Nigeria,Nigeria - Yenegoa,2017-08-02,10:31
+77793,Hypoleucis spec.,multispecies,,1,6.30133878,5.02855776,Africa,Nigeria,Nigeria - Yenegoa,2017-08-02,10:47
+77848,Acraea bonasia,species,,4,6.30071467,5.02783947,Africa,Nigeria,Nigeria - Yenegoa,2017-08-02,10:27
+77966,Junonia oenone,species,Dark Blue Pansy,1,6.30068433,5.02763269,Africa,Nigeria,Nigeria - Yenegoa,2016-05-26,17:07
+19910,Hedydipna collaris,species,Collared Sunbird,1,6.30219525,5.02812269,Africa,Nigeria,Nigeria - Yenegoa,2017-08-02,10:22
+57605,Amauris spec.,multispecies,,1,6.30328238,5.02743111,Africa,Nigeria,Nigeria - Yenegoa,2017-07-30,09:58
+58052,Aneilema beniniense,species,,10,6.30084341,5.02792497,Africa,Nigeria,Nigeria - Yenegoa,2017-07-30,09:31
+58831,Acraea bonasia,species,,1,6.30095422,5.02793877,Africa,Nigeria,Nigeria - Yenegoa,2017-07-30,09:27
+58867,Scopula spec.,multispecies,,1,6.3010025,5.02796549,Africa,Nigeria,Nigeria - Yenegoa,2017-07-30,09:25
+59021,Crotalaria retusa,species,Rattleweed,5,6.30320191,5.03110762,Africa,Nigeria,Nigeria - Yenegoa,2017-07-28,18:23
+59202,Euplectes afer,species,Yellow-crowned Bishop,3,6.30379384,5.03060754,Africa,Nigeria,Nigeria - Yenegoa,2017-07-26,12:44
+76517,Musanga cecropioides,species,Aga umbrella-tree,3,6.30028367,5.02807237,Africa,Nigeria,Nigeria - Yenegoa,2017-07-29,12:26
+76529,Palpopleura portia,species,Portia Widow,10,6.30129755,5.02833421,Africa,Nigeria,Nigeria - Yenegoa,2017-07-29,12:32
+76535,Palpopleura portia,species,Portia Widow,20,6.30031234,5.02833644,Africa,Nigeria,Nigeria - Yenegoa,2017-07-29,12:10
+79738,Zonocerus variegatus,species,Variegated grasshopper,7,6.30187154,5.02789068,Africa,Nigeria,Nigeria - Yenegoa,2017-07-28,12:35
+80149,Clappertonia ficifolia,species,Bolo-bolo,60,6.30135119,5.0283823,Africa,Nigeria,Nigeria - Yenegoa,2017-07-28,12:19
+87052,Precis pelarga,species,Fashion commodore,1,6.30142461,5.02870738,Africa,Nigeria,Nigeria - Yenegoa,2017-07-28,12:34
+114335,Passer griseus,species,Northern Grey-headed Sparrow,2,6.30355421,5.03256013,Africa,Nigeria,Nigeria - Yenegoa,2017-07-25,13:09
+32136,Euplectes afer,species,Yellow-crowned Bishop,10,6.30365973,5.0302846,Africa,Nigeria,Nigeria - Yenegoa,2017-07-22,15:29
+32702,Junonia sophia sophia,subspecies,,1,6.30105615,5.02814718,Africa,Nigeria,Nigeria - Yenegoa,2017-07-23,12:12
+33039,Acraea pseudegina,species,Abadima Acraea,1,6.30133878,5.02855314,Africa,Nigeria,Nigeria - Yenegoa,2017-07-23,12:19
+99883,Scopus umbretta minor,subspecies,Hamerkop ssp minor,1,6.30291592,5.03137464,Africa,Nigeria,Nigeria - Yenegoa,2017-07-18,18:04
+112228,Scopus umbretta minor,subspecies,Hamerkop ssp minor,2,6.30087744,5.03009214,Africa,Nigeria,Nigeria - Yenegoa,2017-07-18,15:56
+33796,Periploca nigrescens,species,,1,6.30171245,5.03323258,Africa,Nigeria,Nigeria - Yenegoa,2017-03-08,08:49
+102906,Lantana camara,species,Largeleaf lantana,1,3.35514575,6.59887889,Africa,Nigeria,Nigeria - Kosofe,2017-03-14,13:00
+119847,Acraea serena,species,Small Orange Acraea,1,6.30151749,5.02845712,Africa,Nigeria,Nigeria - Yenegoa,2017-03-12,17:10
+924,Acraea bonasia,species,,1,6.29994404,5.02869922,Africa,Nigeria,Nigeria - Yenegoa,2017-03-12,10:16
+2344,Centropus senegalensis,species,Senegal Coucal,2,6.30093545,5.02779716,Africa,Nigeria,Nigeria - Yenegoa,2017-03-12,10:03
+2350,Lonchura cucullata,species,Bronze Mannikin,25,6.30093545,5.02779716,Africa,Nigeria,Nigeria - Yenegoa,2017-03-12,09:28
+2411,Quelea erythrops,species,Red-headed Quelea,60,6.30093545,5.02779716,Africa,Nigeria,Nigeria - Yenegoa,2017-03-12,09:23
+20574,Ploceus melanocephalus,species,Black-headed Weaver,1,6.30210053,5.02946872,Africa,Nigeria,Nigeria - Yenegoa,2017-03-06,16:18
+20924,Ploceus melanocephalus,species,Black-headed Weaver,100,6.30210053,5.02946872,Africa,Nigeria,Nigeria - Yenegoa,2017-03-07,18:06
+27667,Euchromia spec.,multispecies,,1,6.30106688,5.0279174,Africa,Nigeria,Nigeria - Yenegoa,2017-03-10,15:38
+27973,Alpenus maculosa,species,,1,6.30081123,5.02788348,Africa,Nigeria,Nigeria - Yenegoa,2017-03-10,15:26
+36208,Danaus chrysippus,species,African Monarch,1,6.3026192,5.02905888,Africa,Nigeria,Nigeria - Yenegoa,2017-03-10,15:28
+43730,Cecropis abyssinica,species,Lesser Striped Swallow,2,6.30227219,5.03309178,Africa,Nigeria,Nigeria - Yenegoa,2017-03-10,09:50
+43996,Motacilla flava flava,subspecies,Blue-headed Wagtail,1,6.3013532,5.02997801,Africa,Nigeria,Nigeria - Yenegoa,2017-03-10,08:35
+49727,Gloriosa superba,species,Flame lily,1,6.30089169,5.02792623,Africa,Nigeria,Nigeria - Yenegoa,2017-03-09,10:55
+49959,Scopus umbretta minor,subspecies,Hamerkop ssp minor,2,6.30073076,5.02762163,Africa,Nigeria,Nigeria - Yenegoa,2017-03-09,14:16
+88255,Merops pusillus,species,Little Bee-eater,11,6.30075574,5.03345887,Africa,Nigeria,Nigeria - Yenegoa,2017-03-05,10:03
+89011,Milvus aegyptius,species,Yellow-billed Kite,3,6.29968286,5.03199468,Africa,Nigeria,Nigeria - Yenegoa,2017-03-05,10:09
+45976,Lobobunaea spec.,multispecies,,1,6.30075943,5.03040922,Africa,Nigeria,Nigeria - Yenegoa,2017-02-26,11:51
+66816,Bubulcus ibis,species,Western Cattle Egret,6,6.30146032,5.03002098,Africa,Nigeria,Nigeria - Yenegoa,2017-02-25,10:00
+96481,Clamator jacobinus,species,Jacobin Cuckoo,1,6.30306428,5.02770179,Africa,Nigeria,Nigeria - Yenegoa,2017-02-21,01:21
+22506,Phaseolus vulgaris,species,French Bean,1,6.30348447,5.03207243,Africa,Nigeria,Nigeria - Yenegoa,2016-11-25,09:00
+43253,Chromolaena odorata,species,Siamweed,50,6.30265474,5.02747386,Africa,Nigeria,Nigeria - Yenegoa,2017-02-11,11:03
+49985,Ploceus cucullatus,species,Village Weaver,50,6.30377683,5.03261897,Africa,Nigeria,Nigeria - Yenegoa,2017-02-07,08:41
+75817,Scoparia dulcis,species,Sweet-broom,100,6.30227571,5.03088133,Africa,Nigeria,Nigeria - Yenegoa,2017-02-05,17:38
+76070,Junonia terea terea,subspecies,,1,6.30103653,5.02800638,Africa,Nigeria,Nigeria - Yenegoa,2017-02-12,11:11
+76184,Aves indet.,multispecies,Unidentified bird,1,6.30109906,5.02794411,Africa,Nigeria,Nigeria - Yenegoa,2017-02-11,11:54
+76215,Glyphaea brevis,species,,3,6.30250454,5.02753799,Africa,Nigeria,Nigeria - Yenegoa,2017-02-11,11:17
+76226,Glyphaea brevis,species,,3,6.30093813,5.02793343,Africa,Nigeria,Nigeria - Yenegoa,2017-02-12,11:03
+76339,Merremia umbellata,species,Hogvine,1,6.29929662,5.0296755,Africa,Nigeria,Nigeria - Yenegoa,2017-02-12,11:34
+76353,Mitracarpus hirtus,species,Small squareweed,10,6.30052339,5.03040922,Africa,Nigeria,Nigeria - Yenegoa,2017-02-12,11:40
+86200,Junonia sophia sophia,subspecies,,10,6.30096327,5.02812684,Africa,Nigeria,Nigeria - Yenegoa,2017-02-11,11:00
+25556,Junonia oenone oenone,subspecies,,1,6.30104911,5.02821828,Africa,Nigeria,Nigeria - Yenegoa,2017-02-04,10:55
+82419,Anacardium occidentale,species,Cashewnut,20,6.7381848,5.56910078,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-02,16:16
+82427,Passiflora foetida,species,,20,6.73865318,5.56221894,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-02,13:34
+64468,Crotalaria retusa,species,Rattleweed,5,6.73805237,5.56691071,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-02,09:55
+64485,Sida acuta,species,Southern sida,10,6.73826694,5.56659036,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-02,09:50
+64502,Anacardium occidentale,species,Cashewnut,1,6.73852444,5.56708156,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-02,09:46
+64520,Mimosa pudica,species,Common sensitive-plant,100,6.73865318,5.56236176,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-02,09:38
+71529,Uraria picta,species,,1,6.73825622,5.56616056,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-01,13:59
+71545,Elaeis guineensis,species,African oil palm,30,6.73929155,5.56856583,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-01,12:44
+71573,Luffa cylindrica,species,,30,6.73897505,5.56864058,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-01,11:10
+71591,Stachytarpheta cayennensis,species,Snakeweed,1,6.73798531,5.56539173,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-12-01,10:03
+82116,Zonocerus variegatus,species,Variegated grasshopper,23,6.30074501,5.02768761,Africa,Nigeria,Nigeria - Yenegoa,2015-04-06,08:49
+96561,Roystonea regia,species,Royal palm,4,6.64945364,5.32466582,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2016-11-30,17:10
+96579,Euphorbia milii,species,Crown-of-thorns,1,6.64856943,5.32488656,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2016-11-30,17:07
+96580,Carica papaya,species,Papaya,1,6.73711896,5.56464692,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-11-30,15:27
+96581,Tridax procumbens,species,Coatbuttons,100,6.73846903,5.56240355,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-11-30,10:59
+96603,Croton hirtus,species,,50,6.73888385,5.56823481,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-11-30,11:55
+96636,Urena lobata,species,Urena-weed,50,6.73837784,5.56586064,Africa,Nigeria,Nigeria - Ohaji /Egbema,2016-11-30,10:24
+97007,Mimosa invisa,species,Giant sensitive-plant,75,6.30138874,5.0279548,Africa,Nigeria,Nigeria - Yenegoa,2016-11-26,11:17
+97024,Hibiscus hispidissimus,species,,3,6.30226146,5.02767321,Africa,Nigeria,Nigeria - Yenegoa,2016-11-26,11:12
+6705,Ploceus cucullatus,species,Village Weaver,100,6.30438837,5.03247054,Africa,Nigeria,Nigeria - Yenegoa,2015-11-03,07:45
+26832,Junonia sophia sophia,subspecies,,1,7.32083738,5.06330292,Africa,Nigeria,Nigeria - Aba South,2014-08-30,10:51
+27074,Dendrocygna viduata,species,White-faced Whistling Duck,41,7.32242349,5.07093511,Africa,Nigeria,Nigeria - Aba South,2014-09-13,09:27
+28815,Hirundo aethiopica,species,Ethiopian Swallow,10,6.30334139,5.03234203,Africa,Nigeria,Nigeria - Yenegoa,2016-11-26,08:34
+48603,Melanthera scandens,species,,30,6.29884969,5.03051016,Africa,Nigeria,Nigeria - Yenegoa,2016-11-25,11:03
+48641,Spoladea recurvalis,species,,1,7.32069388,5.06336838,Africa,Nigeria,Nigeria - Aba South,2013-11-11,16:54
+51461,Trigonodes hyppasia,species,,1,7.32069971,5.06337726,Africa,Nigeria,Nigeria - Aba South,2014-04-25,09:43
+63209,Pycnonotus barbatus,species,Common Bulbul,1,6.3039816,5.03253789,Africa,Nigeria,Nigeria - Yenegoa,2016-11-22,12:46
+74569,Momordica charantia,species,Carilla gourd,2,7.32118975,5.06868008,Africa,Nigeria,Nigeria - Aba South,2013-11-29,14:14
+79457,Eriosema laurentii,species,,1,6.3018680175992,5.0331470762954,Africa,Nigeria,Nigeria - Yenegoa,2016-11-20,09:08
+79494,Corvus albus,species,Pied Crow,8,6.3023043793146,5.0305481612445,Africa,Nigeria,Nigeria - Yenegoa,2016-11-15,12:15
+112744,Ravenala madagascariensis,species,Traveler's tree,15,7.1783388219774,4.3853330130262,Africa,Nigeria,Nigeria - Bonny,2013-05-11,17:12
+112777,Delonix regia,species,Royal poinciana,5,7.1780759654939,4.3847149392563,Africa,Nigeria,Nigeria - Bonny,2013-04-21,11:27
+112798,Platycerium spec.,multispecies,,50,7.1784344593289,4.3837946992679,Africa,Nigeria,Nigeria - Bonny,2013-04-21,11:19
+112924,Allamanda cathartica,species,Common trumpetvine,3,7.1735313812496,4.386347521992,Africa,Nigeria,Nigeria - Bonny,2013-03-03,14:59
+115257,Lophoceros fasciatus,species,African Pied Hornbill,3,6.2996077118441,5.0285936857134,Africa,Nigeria,Nigeria - Yenegoa,2016-11-13,11:06
+115459,Zonocerus variegatus,species,Variegated grasshopper,2,7.3212594071629,5.068360767596,Africa,Nigeria,Nigeria - Aba South,2014-08-23,08:23
+115467,Zonocerus variegatus,species,Variegated grasshopper,1,7.3206962265976,5.0633900476546,Africa,Nigeria,Nigeria - Aba South,2014-06-18,10:45
+115476,Zonocerus variegatus,species,Variegated grasshopper,1,7.3207230486878,5.0633098953858,Africa,Nigeria,Nigeria - Aba South,2014-06-16,14:20
+10197,Anthocleista vogelii,species,,20,6.3026834091397,5.0288239816792,Africa,Nigeria,Nigeria - Yenegoa,2016-11-12,12:47
+10443,Fleroya stipulosa,species,,10,6.3027155956479,5.0288560442919,Africa,Nigeria,Nigeria - Yenegoa,2016-11-12,12:37
+10472,Zonocerus variegatus,species,Variegated grasshopper,1,6.3033325037213,5.0274185689375,Africa,Nigeria,Nigeria - Yenegoa,2016-11-12,12:22
+10521,Newbouldia laevis,species,,1,6.3033915123196,5.0274720067398,Africa,Nigeria,Nigeria - Yenegoa,2016-11-12,12:13
+16481,Strigocossus crassa,species,,1,6.3030928652734,5.0320670845818,Africa,Nigeria,Nigeria - Yenegoa,2016-11-12,08:36
+22981,Milvus aegyptius,species,Yellow-billed Kite,3,6.3011456650202,5.0314886614034,Africa,Nigeria,Nigeria - Yenegoa,2016-11-11,10:29
+23839,Melanthera scandens,species,,20,6.3008023425937,5.0279938412933,Africa,Nigeria,Nigeria - Yenegoa,2016-11-10,11:28
+26967,Merops pusillus,species,Little Bee-eater,5,6.3003446906805,5.0294008855377,Africa,Nigeria,Nigeria - Yenegoa,2016-11-09,16:26
+33344,Corythaeola cristata,species,Great Blue Turaco,1,6.3007808845941,5.0282182799983,Africa,Nigeria,Nigeria - Yenegoa,2016-11-09,08:52
+33348,Estrilda melpoda,species,Orange-cheeked Waxbill,3,6.3006950539057,5.028271717735,Africa,Nigeria,Nigeria - Yenegoa,2016-11-09,08:57
+37970,Luffa cylindrica,species,,20,6.3029913591163,5.0304408410993,Africa,Nigeria,Nigeria - Yenegoa,2016-11-08,09:29
+47433,Combretum racemosum,species,,3,6.3036347553134,5.0296432661636,Africa,Nigeria,Nigeria - Yenegoa,2016-11-06,12:16
+47472,Phaulopsis ciliata,species,,10,6.30263697,5.02759126,Africa,Nigeria,Nigeria - Yenegoa,2016-11-06,12:16
+48314,Hibiscus hispidissimus,species,,5,6.3028658,5.02823794,Africa,Nigeria,Nigeria - Yenegoa,2016-11-06,12:29
+74504,Lanius mackinnoni,species,Mackinnon's Shrike,5,9.3053627009795,6.6161657321449,Africa,Nigeria,Nigeria - Obanliku,2014-03-17,
+117737,Selaginella myosurus,species,,10,6.3006950542331,5.0276553835935,Africa,Nigeria,Nigeria - Yenegoa,2016-10-02,11:09
+118286,Musanga cecropioides,species,Aga umbrella-tree,10,6.3000513240695,5.0280401355323,Africa,Nigeria,Nigeria - Yenegoa,2016-10-02,10:56
+119802,Synedrella nodiflora,species,Nodeweed,40,6.3043088279665,5.0324274438073,Africa,Nigeria,Nigeria - Yenegoa,2016-10-01,12:54
+119809,Eclipta prostrata,species,White eclipta,40,6.3042766414583,5.0324007251101,Africa,Nigeria,Nigeria - Yenegoa,2016-10-01,12:55
+119813,Ageratum conyzoides,species,Tropical whiteweed,50,6.3036543689668,5.0325289748467,Africa,Nigeria,Nigeria - Yenegoa,2016-10-01,13:01
+17463,Tridax procumbens,species,Coatbuttons,200,6.2995470687747,5.0300387044457,Africa,Nigeria,Nigeria - Yenegoa,2016-09-30,15:56
+21037,Burhinus vermiculatus,species,Water Thick-knee,2,6.3007486984134,5.0332983892396,Africa,Nigeria,Nigeria - Yenegoa,2016-09-29,17:56
+48435,Solanum nigrum subsp. nigrum,subspecies,Black Nightshade,2,6.3021219891016,5.0296610973493,Africa,Nigeria,Nigeria - Yenegoa,2016-09-26,10:43
+49090,Mitracarpus hirtus,species,Small squareweed,25,6.302025429577,5.0292870338986,Africa,Nigeria,Nigeria - Yenegoa,2016-09-26,11:12
+59123,Momordica charantia,species,Carilla gourd,10,7.32277485542,5.0655195338696,Africa,Nigeria,Nigeria - Aba South,2014-08-16,10:01
+59814,Glyphaea brevis,species,,1,6.3009632751346,5.0279439475689,Africa,Nigeria,Nigeria - Yenegoa,2016-09-25,11:09
+60086,Aneilema beniniense,species,,5,6.3006306812167,5.0275591955733,Africa,Nigeria,Nigeria - Yenegoa,2016-09-25,10:41
+61774,Calopogonium mucunoides,species,Calopo,20,6.2992573902011,5.0298356415741,Africa,Nigeria,Nigeria - Yenegoa,2016-09-24,16:59
+74178,Lycopodiella cernua,species,,200,6.3023831695318,5.0290873476657,Africa,Nigeria,Nigeria - Yenegoa,2016-09-24,13:40
+74218,Emilia coccinea,species,Scarlet tasselflower,50,6.3009884208441,5.0303698504237,Africa,Nigeria,Nigeria - Yenegoa,2016-09-24,13:34
+84212,Lindernia spec.,multispecies,,100,6.3039601407945,5.0323205690119,Africa,Nigeria,Nigeria - Yenegoa,2016-09-23,12:30
+109134,Ipomoea aquatica,species,Water spinach,50,6.3027871772647,5.0325716412574,Africa,Nigeria,Nigeria - Yenegoa,2016-09-21,08:17
+115008,Momordica charantia,species,Carilla gourd,10,7.3224932234734,5.0655230915298,Africa,Nigeria,Nigeria - Aba South,2014-06-23,14:05
+15630,Ipomoea pileata,species,,50,6.2989175876828,5.0298286092973,Africa,Nigeria,Nigeria - Yenegoa,2016-09-18,09:33
+17856,Vidua macroura,species,Pin-tailed Whydah,5,6.2988871614562,5.0299230528565,Africa,Nigeria,Nigeria - Yenegoa,2016-09-18,10:07
+31055,Lophoceros fasciatus,species,African Pied Hornbill,3,6.2986351173822,5.0294473466693,Africa,Nigeria,Nigeria - Yenegoa,2016-09-17,14:01
+31086,Euplectes afer,species,Yellow-crowned Bishop,3,6.302744261593,5.0298641601123,Africa,Nigeria,Nigeria - Yenegoa,2016-09-17,11:36
+31108,Merops pusillus,species,Little Bee-eater,2,6.302744261593,5.0298641601123,Africa,Nigeria,Nigeria - Yenegoa,2016-09-17,11:32
+52716,Corythaeola cristata,species,Great Blue Turaco,3,6.3044751247617,5.0316668604538,Africa,Nigeria,Nigeria - Yenegoa,2016-09-15,13:11
+84564,Gomphrena celosioides,species,Soft khakiweed,50,6.3015300593452,5.0325966715201,Africa,Nigeria,Nigeria - Yenegoa,2016-09-12,10:24
+97301,Urena lobata,species,Urena-weed,1,6.3003410029705,5.0286105984673,Africa,Nigeria,Nigeria - Yenegoa,2016-09-11,09:43
+97310,Carica papaya,species,Papaya,5,6.3003839183148,5.0279319392389,Africa,Nigeria,Nigeria - Yenegoa,2016-09-11,09:37
+97325,Elaeis guineensis,species,African oil palm,30,6.300780885249,5.0275418434568,Africa,Nigeria,Nigeria - Yenegoa,2016-09-11,09:30
+97365,Gloriosa superba,species,Flame lily,1,6.300780885249,5.0274456554198,Africa,Nigeria,Nigeria - Yenegoa,2016-09-11,09:18
+97384,Costus lucanusianus,species,,50,6.300780885249,5.0273922176153,Africa,Nigeria,Nigeria - Yenegoa,2016-09-11,09:17
+108815,Asystasia gangetica,species,Philippine violet,10,6.3041908107698,5.0316172063282,Africa,Nigeria,Nigeria - Yenegoa,2016-09-10,12:37
+109229,Cyanthillium cinereum,species,Little ironweed,30,6.3043143606774,5.0326125542513,Africa,Nigeria,Nigeria - Yenegoa,2016-09-10,13:07
+119928,Symphonia globulifera,species,Boarwood,4,6.29842943,5.02986446,Africa,Nigeria,Nigeria - Yenegoa,2016-09-09,11:14
+119989,Aspilia africana,species,,50,6.3011652791647,5.0304095186964,Africa,Nigeria,Nigeria - Yenegoa,2016-09-09,11:22
+120182,Actitis hypoleucos,species,Common Sandpiper,1,6.3011652791647,5.0304095186964,Africa,Nigeria,Nigeria - Yenegoa,2016-09-09,11:00
+11754,Bubulcus ibis,species,Western Cattle Egret,2,6.3037956878543,5.0316137906148,Africa,Nigeria,Nigeria - Yenegoa,2016-09-07,17:34
+20216,Bunaea alcinoe,species,Cabbage tree emperor moth,1,6.301637348115,5.0300568307113,Africa,Nigeria,Nigeria - Yenegoa,2016-09-07,13:47
+52838,Araliaceae spec.,multispecies,,50,6.3024690002203,5.0276846377143,Africa,Nigeria,Nigeria - Yenegoa,2016-09-04,10:25
+54796,Chamaecrista mimosoides,species,Chamaecrista,11,6.3022256316617,5.0278926180922,Africa,Nigeria,Nigeria - Yenegoa,2016-09-04,10:35
+93713,Tringa glareola,species,Wood Sandpiper,1,6.3023508153856,5.0297395373722,Africa,Nigeria,Nigeria - Yenegoa,2016-08-03,13:49
+93795,Vidua macroura,species,Pin-tailed Whydah,5,6.3038313947618,5.030167038144,Africa,Nigeria,Nigeria - Yenegoa,2016-08-03,13:27
+116259,Corythaeola cristata,species,Great Blue Turaco,5,6.3044823333621,5.0313212053293,Africa,Nigeria,Nigeria - Yenegoa,2016-08-01,15:58
+4082,Crotalaria retusa,species,Rattleweed,1,6.3030698150396,5.0303912254482,Africa,Nigeria,Nigeria - Yenegoa,2016-07-31,18:09
+4239,Dendrocygna viduata,species,White-faced Whistling Duck,2,6.3038064166903,5.0302738297969,Africa,Nigeria,Nigeria - Yenegoa,2016-07-31,18:16
+10838,Lophoceros fasciatus,species,African Pied Hornbill,1,6.3004912063479,5.0284676374199,Africa,Nigeria,Nigeria - Yenegoa,2016-07-31,14:53
+10950,Polyboroides typus,species,African Harrier-Hawk,1,6.3011134788394,5.0286493256372,Africa,Nigeria,Nigeria - Yenegoa,2016-07-31,14:47
+12386,Scopus umbretta,species,Hamerkop,1,6.3036277145147,5.0302202252321,Africa,Nigeria,Nigeria - Yenegoa,2016-07-31,13:20
+12437,Euplectes afer,species,Yellow-crowned Bishop,2,6.3036277145147,5.030177475171,Africa,Nigeria,Nigeria - Yenegoa,2016-07-31,10:11
+52694,Estrilda melpoda,species,Orange-cheeked Waxbill,10,6.3022721931338,5.0293547029413,Africa,Nigeria,Nigeria - Yenegoa,2016-07-28,16:18
+64391,Estrilda melpoda,species,Orange-cheeked Waxbill,10,6.3005378097296,5.028467470427,Africa,Nigeria,Nigeria - Yenegoa,2016-07-27,14:34
+106108,Merops pusillus,species,Little Bee-eater,3,6.3004734367132,5.0284888455141,Africa,Nigeria,Nigeria - Yenegoa,2016-07-24,15:54
+95032,Motacilla aguimp,species,African Pied Wagtail,3,6.3022507354617,5.0313746428113,Africa,Nigeria,Nigeria - Yenegoa,2016-07-17,10:21
+66604,Croton hirtus,species,,50,6.3025010190904,5.0298090062667,Africa,Nigeria,Nigeria - Yenegoa,2016-07-03,10:29
+66614,Canscora alata,species,Canscora,100,6.3026834093034,5.0301189443212,Africa,Nigeria,Nigeria - Yenegoa,2016-07-03,10:11
+66633,Sphenoclea zeylanica,species,Chickenspike,20,6.3036221824586,5.0306693511921,Africa,Nigeria,Nigeria - Yenegoa,2016-07-03,10:24
+48653,Harungana madagascariensis,species,Dragon's-blood-tree,1,6.3023258373141,5.0287455134963,Africa,Nigeria,Nigeria - Yenegoa,2016-06-05,15:09
+48696,Costus spec.,multispecies,,6,6.3007379695773,5.0276126333641,Africa,Nigeria,Nigeria - Yenegoa,2016-06-05,14:53
+66768,Bunaea alcinoe,species,Cabbage tree emperor moth,1,6.3032520376146,5.0322030067167,Africa,Nigeria,Nigeria - Yenegoa,2016-06-04,13:31
+95607,Sarcocephalus latifolius,species,Sierra Leone-peach,10,6.6649962030351,5.3836331902795,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2016-05-31,04:52
+95612,Gloriosa superba,species,Flame lily,1,6.6648245416582,5.3838361389183,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2016-05-31,02:52
+95637,Clappertonia ficifolia,species,Bolo-bolo,25,6.6645670495927,5.3837667091285,Africa,Nigeria,Nigeria - Ogba/Egbema/Ndoni,2016-06-01,09:32
+112770,Heinsia crinita,species,,1,6.300618108362,5.027500497495,Africa,Nigeria,Nigeria - Yenegoa,2016-05-22,11:52
+86672,Manihot esculenta,species,Tapioca,1,6.3038386028711,5.0272350250238,Africa,Nigeria,Nigeria - Yenegoa,2016-05-14,10:08
+86684,Hibiscus hispidissimus,species,,5,6.30274426,5.02839997,Africa,Nigeria,Nigeria - Yenegoa,2016-05-14,10:35
+98139,Urena lobata,species,Urena-weed,5,6.301177851692,5.0289343451424,Africa,Nigeria,Nigeria - Yenegoa,2016-05-08,10:23
+91750,Dicrurus divaricatus divaricatus,subspecies,Glossy-backed Drongo ssp divaricatus,1,7.9936,9.4333,Africa,Nigeria,Nigeria - Jaba,2016-04-22,09:22
+33627,Asystasia gangetica,species,Philippine violet,30,6.30291592297,5.0278489657246,Africa,Nigeria,Nigeria - Yenegoa,2016-04-03,12:04
+33805,Glyphaea brevis,species,,1,6.2981880268308,5.0291446077352,Africa,Nigeria,Nigeria - Yenegoa,2016-04-03,14:17
+67817,Agapornis pullarius,species,Red-headed Lovebird,1,3.8945554668317,7.487191936096,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2011-10-22,07:58
+84803,Ludwigia spec.,multispecies,,50,6.3031179270001,5.0312927982374,Africa,Nigeria,Nigeria - Yenegoa,2016-04-06,09:22
+84824,Passiflora foetida,species,,10,6.303268130705,5.0319233602726,Africa,Nigeria,Nigeria - Yenegoa,2016-04-06,09:12
+5868,Alchornea cordifolia,species,,2,6.2978197258417,5.028261030188,Africa,Nigeria,Nigeria - Yenegoa,2016-04-03,09:29
+6141,Emilia coccinea,species,Scarlet tasselflower,3,6.29982970524,5.0285672581178,Africa,Nigeria,Nigeria - Yenegoa,2016-04-03,09:49
+6174,Ipomoea pileata,species,,10,6.2987675504701,5.0303307001674,Africa,Nigeria,Nigeria - Yenegoa,2016-04-03,09:40
+6324,Dracaena aubryana,species,,1,6.2977697687165,5.0285458830334,Africa,Nigeria,Nigeria - Yenegoa,2016-04-03,09:33
+6415,Heinsia crinita,species,,1,6.2982311086671,5.0286527584486,Africa,Nigeria,Nigeria - Yenegoa,2016-04-03,09:13
+53865,Cleome rutidosperma,species,Fringed spiderflower,3,6.2987083753796,5.0298660156209,Africa,Nigeria,Nigeria - Yenegoa,2016-03-30,17:39
+53868,Mitracarpus hirtus,species,Small squareweed,100,6.2987083753796,5.0298660156209,Africa,Nigeria,Nigeria - Yenegoa,2016-03-30,17:34
+66073,Halcyon malimbica,species,Blue-breasted Kingfisher,1,3.5357385632233,6.4402724979837,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2010-12-05,10:36
+66228,Ptilopachus petrosus,species,Stone Partridge,4,4.0228642523289,10.086663832151,Africa,Nigeria,Nigeria - Borgu Forest Reserve,2011-06-01,17:15
+66284,Bycanistes fistulator,species,Piping Hornbill,1,3.5360192260123,6.4346945660305,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2011-05-22,09:28
+66378,Cercopithecus mona,species,Mona Monkey,1,3.5371077775562,6.4378576399398,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2011-05-22,08:51
+66393,Pyrenestes ostrinus,species,Black-bellied Seedcracker,1,3.5371077775562,6.4378576399398,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2011-05-22,08:46
+66530,Corythornis cristatus,species,Malachite Kingfisher,1,3.8972082646037673,7.4964727163586,Africa,Nigeria,Nigeria - Ibadan - IITA Ibadan Campus,2011-05-14,15:47
+66566,Actophilornis africanus,species,African Jacana,1,3.5373390259037,6.4344106298763,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2011-05-01,09:55
+66586,Thescelocichla leucopleura,species,Swamp Palm Bulbul,1,3.53616772,6.43816841,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2011-05-01,09:50
+79557,Cercopithecus mona,species,Mona Monkey,1,3.5373390259037,6.4344106298763,Africa,Nigeria,Nigeria - Lekki Conservation Centre,2011-02-10,
+82175,Eclipta prostrata,species,White eclipta,20,6.3008559864465,5.0301740984667,Africa,Nigeria,Nigeria - Yenegoa,2016-03-27,12:11
+92854,Euphorbia hyssopifolia,species,Hyssopleaf sandmat,50,6.30093109,5.03027029,Africa,Nigeria,Nigeria - Yenegoa,2016-03-27,12:13
+93067,Pentodon pentandrus,species,Hale's pentodon,100,6.3007272407413,5.0299924103488,Africa,Nigeria,Nigeria - Yenegoa,2016-03-27,12:07
+93176,Fleroya stipulosa,species,,5,6.2996650856439,5.0286564693096,Africa,Nigeria,Nigeria - Yenegoa,2016-03-27,11:56
+93352,Heliotropium indicum,species,Indian heliotrope,40,6.2985849939287,5.0299194532223,Africa,Nigeria,Nigeria - Yenegoa,2016-03-27,11:29
+15390,Heliotropium indicum,species,Indian heliotrope,3,6.3010526260587,5.0299087657024,Africa,Nigeria,Nigeria - Yenegoa,2016-03-23,08:54
+17683,Stachytarpheta indica,species,,1,6.301117166222,5.0295505109176,Africa,Nigeria,Nigeria - Yenegoa,2016-03-23,08:51
+20124,Ananas comosus,species,Pineapple,25,6.3031733313801,5.032097959541,Africa,Nigeria,Nigeria - Yenegoa,2016-03-19,16:49
+115224,Spigelia anthelmia,species,West Indian pinkroot,10,6.3034612499177,5.0324203282257,Africa,Nigeria,Nigeria - Yenegoa,2016-03-12,08:30
+6469,Tridax procumbens,species,Coatbuttons,100,7.3205459397286,5.0632485565609,Africa,Nigeria,Nigeria - Aba South,2013-10-17,11:23
+27945,Bos taurus,species,Cattle,20,7.3222661575528,5.0614789327973,Africa,Nigeria,Nigeria - Aba South,2012-10-30,11:39
+28152,Necrosyrtes monachus,species,Hooded Vulture,2,7.3208973091045,5.0634192419461,Africa,Nigeria,Nigeria - Aba South,2012-08-15,15:22
+53687,Alchornea cordifolia,species,,1,7.3188481014222,5.0658641874282,Africa,Nigeria,Nigeria - Aba South,2014-02-19,09:38
+20402,Indigofera hirsuta,species,Roughhairy indigo,20,6.3021471338288,5.029016134566,Africa,Nigeria,Nigeria - Yenegoa,2016-02-13,11:47
+79682,Calopogonium mucunoides,species,Calopo,1,6.3026477023959,5.0287099070103,Africa,Nigeria,Nigeria - Yenegoa,2016-02-07,10:33
+79839,Mimosa invisa,species,Giant sensitive-plant,20,6.3021863624454,5.0290519081911,Africa,Nigeria,Nigeria - Yenegoa,2016-02-07,10:14
+79887,Mimosa pudica,species,Common sensitive-plant,30,6.3022078201175,5.0291160333925,Africa,Nigeria,Nigeria - Yenegoa,2016-02-07,10:16
+89711,Bos taurus,species,Cattle,30,6.3030339401666,5.0291374084582,Africa,Nigeria,Nigeria - Yenegoa,2016-01-31,16:33
+95330,Luffa cylindrica,species,,30,6.3028730072983,5.0304626611117,Africa,Nigeria,Nigeria - Yenegoa,2016-01-14,12:19
+96188,Eichhornia crassipes,species,Water Hyacinth,100,6.3032592457239,5.0273205253664,Africa,Nigeria,Nigeria - Yenegoa,2016-01-17,16:45
+96306,Daphnis nerii,species,Oleander Hawk-moth,1,6.30175176,5.03032769,Africa,Nigeria,Nigeria - Yenegoa,2015-12-09,15:21
+96935,Merremia umbellata,species,Hogvine,50,6.3037884792539,5.0299699221366,Africa,Nigeria,Nigeria - Yenegoa,2016-01-14,15:04
+96977,Musaceae spec.,multispecies,,50,7.3241213243455,5.0639898162842,Africa,Nigeria,Nigeria - Aba South,2014-09-07,14:56
+96994,Carica papaya,species,Papaya,3,7.3243359010667,5.0638924462141,Africa,Nigeria,Nigeria - Aba South,2014-09-07,15:23
+102635,Bunaea alcinoe,species,Cabbage tree emperor moth,1,7.3239174763785,5.0640100027759,Africa,Nigeria,Nigeria - Aba South,2014-10-14,09:09
+102685,Costus lucanusianus,species,,50,7.3221069852116,5.0712904520594,Africa,Nigeria,Nigeria - Aba South,2014-09-13,09:09
+20203,Colocasia esculenta,species,Taro,100,6.30349519646,5.02764393529,Africa,Nigeria,Nigeria - Yenegoa,2016-01-31,11:58
+20223,Ipomoea pileata,species,,50,6.3003838340001,5.02846153291,Africa,Nigeria,Nigeria - Yenegoa,2016-01-31,11:49
+20466,Hibiscus hispidissimus,species,,3,6.3029373,5.02799128,Africa,Nigeria,Nigeria - Yenegoa,2016-01-31,12:09
+25788,Marantochloa congensis,species,,1,6.3034934362599,5.02938507709,Africa,Nigeria,Nigeria - Yenegoa,2016-01-30,12:31
+25945,Sphenoclea zeylanica,species,Chickenspike,1,6.30224537104,5.02918550235,Africa,Nigeria,Nigeria - Yenegoa,2016-01-30,14:33
+26973,Aniseia martinicensis,species,Whitejacket,2,6.30212015,5.0288507,Africa,Nigeria,Nigeria - Yenegoa,2016-01-30,14:14
+30432,Anthocleista vogelii,species,,30,6.30271207508,5.02909465833,Africa,Nigeria,Nigeria - Yenegoa,2016-01-23,16:38
+32627,Glyphaea brevis,species,,1,6.30077015609,5.02760908949,Africa,Nigeria,Nigeria - Yenegoa,2015-04-05,09:01
+32634,Costus lucanusianus,species,,20,6.3009418174599,5.02696783571,Africa,Nigeria,Nigeria - Yenegoa,2015-03-10,11:12
+34175,Ludwigia spec.,multispecies,,100,6.3010098785201,5.0305408506,Africa,Nigeria,Nigeria - Yenegoa,2016-01-29,
+38531,Clathrus ruber,species,,7,6.30186709575,5.03268131312,Africa,Nigeria,Nigeria - Yenegoa,2015-07-14,08:54
+39216,Hyptis lanceolata,species,,1,6.30210405216,5.02954716193,Africa,Nigeria,Nigeria - Yenegoa,2016-01-28,17:13
+45426,Melastomataceae spec.,multispecies,,100,6.30272649229,5.02970722431,Africa,Nigeria,Nigeria - Yenegoa,2016-01-14,12:11
+45459,Merremia umbellata,species,Hogvine,30,6.30008719862,5.02827509461,Africa,Nigeria,Nigeria - Yenegoa,2016-01-27,14:17
+45592,Combretum racemosum,species,,1,6.30401026458,5.0303593299,Africa,Nigeria,Nigeria - Yenegoa,2015-12-04,16:14
+50292,Ceriagrion glabrum,species,Common Orange,25,6.30118137226,5.02790662463,Africa,Nigeria,Nigeria - Yenegoa,2015-11-15,16:28
+50399,Palpopleura portia,species,Portia Widow,20,6.30118137226,5.02790662463,Africa,Nigeria,Nigeria - Yenegoa,2015-11-15,16:28
+54214,Combretum racemosum,species,,1,6.30244385451,5.02765538359,Africa,Nigeria,Nigeria - Yenegoa,2015-12-03,17:03
+56119,Gloriosa superba,species,Flame lily,3,6.30098288879,5.02786387442,Africa,Nigeria,Nigeria - Yenegoa,2015-11-15,16:11
+56470,Crocothemis erythraea,species,Broad Scarlet,5,6.30163735,5.02780509,Africa,Nigeria,Nigeria - Yenegoa,2015-11-15,15:59
+61967,Chromolaena odorata,species,Siamweed,10,6.30075942725,5.02808288573,Africa,Nigeria,Nigeria - Yenegoa,2016-01-24,13:42
+65147,Danaus chrysippus,species,African Monarch,20,6.30235802382,5.02779432182,Africa,Nigeria,Nigeria - Yenegoa,2016-01-24,13:46
+65319,Aspilia africana,species,,100,6.30039464682,5.0278691347,Africa,Nigeria,Nigeria - Yenegoa,2016-01-24,13:58
+65404,Lophoceros fasciatus,species,African Pied Hornbill,8,6.30289815366,5.02754834102,Africa,Nigeria,Nigeria - Yenegoa,2016-01-24,13:36
+65742,Merremia umbellata,species,Hogvine,1,6.30246900022,5.02769796683,Africa,Nigeria,Nigeria - Yenegoa,2016-01-24,13:41
+81358,Corvus albus,species,Pied Crow,10,7.32055666856,5.06309715313,Africa,Nigeria,Nigeria - Aba South,2014-10-24,15:47
+81443,Bubulcus ibis,species,Western Cattle Egret,20,7.32055130415,5.06310249661,Africa,Nigeria,Nigeria - Aba South,2014-10-24,15:36
+87461,Telfairia occidentalis,species,Fluted-pumpkin,3,7.32481425628,5.06481504007,Africa,Nigeria,Nigeria - Aba South,2014-07-06,16:04
+87686,Telfairia occidentalis,species,Fluted-pumpkin,5,7.3201811593,5.06638071735,Africa,Nigeria,Nigeria - Aba South,2014-10-22,08:25
+94828,Clappertonia ficifolia,species,Bolo-bolo,25,6.30102764815,5.02811494838,Africa,Nigeria,Nigeria - Yenegoa,2015-03-10,11:09
+94989,Clappertonia ficifolia,species,Bolo-bolo,50,6.3006450980899,5.02829646971,Africa,Nigeria,Nigeria - Yenegoa,2014-10-26,15:06
+17096,Eichhornia crassipes,species,Water Hyacinth,1,6.3029625266799,5.03039122545,Africa,Nigeria,Nigeria - Yenegoa,2015-11-04,13:44
+17347,Urena lobata,species,Urena-weed,1,7.32106628828,5.06908450222,Africa,Nigeria,Nigeria - Aba South,2013-10-20,11:57
+17388,Crotalaria retusa,species,Rattleweed,1,7.32106453,5.06912186,Africa,Nigeria,Nigeria - Aba South,2013-10-20,11:58
+18163,Asystasia gangetica,species,Philippine violet,1,7.32082664967,5.06323879726,Africa,Nigeria,Nigeria - Aba South,2013-10-24,11:18

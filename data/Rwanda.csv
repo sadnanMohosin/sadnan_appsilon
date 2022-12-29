@@ -1,0 +1,409 @@
+,scientificName,taxonRank,vernacularName,individualCount,longitudeDecimal,latitudeDecimal,continent,country,locality,eventDate,eventTime
+109594,Pytilia melba,species,Green-winged Pytilia,1,30.240730159,-2.19363977205,Africa,Rwanda,Rwanda - Gashora,2015-01-22,15:00
+10177,Pytilia melba,species,Green-winged Pytilia,1,30.0947338343,-1.92278821734,Africa,Rwanda,Rwanda - Rubungo,2015-02-01,15:00
+10415,Cossypha heuglini,species,White-browed Robin-Chat,2,30.0947391987,-1.92278285594,Africa,Rwanda,Rwanda - Rubungo,2015-02-01,15:00
+10421,Cinnyris venustus,species,Variable Sunbird,2,30.0947391987,-1.92278285594,Africa,Rwanda,Rwanda - Rubungo,2015-02-01,15:00
+10433,Terpsiphone viridis,species,African Paradise Flycatcher,1,30.0947391987,-1.92278285594,Africa,Rwanda,Rwanda - Rubungo,2015-02-01,15:00
+10436,Chalcomitra senegalensis,species,Scarlet-chested Sunbird,3,30.0947391987,-1.92278285594,Africa,Rwanda,Rwanda - Rubungo,2015-02-01,15:00
+25682,Terpsiphone viridis,species,African Paradise Flycatcher,1,30.0947284698,-1.92279357874,Africa,Rwanda,Rwanda - Rubungo,2015-01-22,07:00
+26079,Cinnyris stuhlmanni,species,Rwenzori Double-collared Sunbird,1,29.0595674515,-2.47866051769,Africa,Rwanda,Rwanda - Karengera,2015-01-27,14:00
+26083,Cyanomitra verticalis,species,Green-headed Sunbird,2,29.0595674515,-2.47866051769,Africa,Rwanda,Rwanda - Karengera,2015-01-27,14:00
+26194,Corythaeola cristata,species,Great Blue Turaco,1,29.2119598389,-2.48144740227,Africa,Rwanda,Rwanda - Karengera,2015-01-30,10:00
+26229,Lanius humeralis,species,Northern Fiscal,1,29.3312644958,-2.2742591272,Africa,Rwanda,Rwanda - Gisovu,2015-01-29,10:00
+26232,Melaenornis fischeri,species,White-eyed Slaty Flycatcher,1,29.3312644958,-2.2742591272,Africa,Rwanda,Rwanda - Gisovu,2015-01-29,10:00
+26344,Apalis porphyrolaema,species,Chestnut-throated Apalis,1,29.1970252991,-2.48573490554,Africa,Rwanda,Rwanda - Karengera,2015-01-28,16:00
+26346,Melaniparus fasciiventer,species,Stripe-breasted Tit,2,29.1970252991,-2.48573490554,Africa,Rwanda,Rwanda - Karengera,2015-01-28,16:00
+26348,Ceblepyris caesius,species,Grey Cuckooshrike,1,29.1970252991,-2.48573490554,Africa,Rwanda,Rwanda - Karengera,2015-01-28,16:00
+26378,Batis diops,species,Rwenzori Batis,1,29.1525650024,-2.48942214721,Africa,Rwanda,Rwanda - Karengera,2015-01-28,11:30
+26379,Cryptospiza jacksoni,species,Dusky Crimsonwing,3,29.1525650024,-2.48942214721,Africa,Rwanda,Rwanda - Karengera,2015-01-28,11:30
+26380,Pogoniulus bilineatus,species,Yellow-rumped Tinkerbird,1,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26382,Merops oreobates,species,Cinnamon-chested Bee-eater,1,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26383,Cisticola chubbi,species,Chubb's Cisticola,1,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26384,Pycnonotus tricolor,species,Dark-capped Bulbul,2,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26385,Muscicapa adusta,species,African Dusky Flycatcher,1,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26386,Prinia bairdii,species,Banded Prinia,2,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26389,Nigrita canicapillus,species,Grey-headed Nigrita,1,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26391,Dryoscopus gambensis,species,Northern Puffback,1,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26405,Melaenornis ardesiacus,species,Yellow-eyed Black Flycatcher,4,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26416,Chamaetylas poliophrys,species,Red-throated Alethe,1,29.112739563,-2.48796440174,Africa,Rwanda,Rwanda - Karengera,2015-01-28,09:30
+26485,Buteo oreophilus,species,Mountain Buzzard,1,29.2289113998,-2.47578787667,Africa,Rwanda,Rwanda - Karengera,2015-01-27,10:30
+26529,Buteo augur,species,Augur Buzzard,2,29.4302272797,-2.5216636332,Africa,Rwanda,Rwanda - Mudasomwa,2015-01-27,09:30
+46002,Cecropis abyssinica,species,Lesser Striped Swallow,1,30.0916975737,-1.92936127812,Africa,Rwanda,Rwanda - Rubungo,2015-01-26,09:00
+46004,Crithagra sulphurata,species,Brimstone Canary,3,30.0916975737,-1.92936127812,Africa,Rwanda,Rwanda - Rubungo,2015-01-26,09:00
+46012,Chalcomitra senegalensis,species,Scarlet-chested Sunbird,1,30.0916975737,-1.92936127812,Africa,Rwanda,Rwanda - Rubungo,2015-01-26,09:00
+46015,Cinnyris venustus,species,Variable Sunbird,4,30.0916975737,-1.92936127812,Africa,Rwanda,Rwanda - Rubungo,2015-01-26,09:00
+46016,Ploceus baglafecht,species,Baglafecht Weaver,6,30.0916975737,-1.92936127812,Africa,Rwanda,Rwanda - Rubungo,2015-01-26,09:00
+46023,Pycnonotus tricolor,species,Dark-capped Bulbul,6,30.0916975737,-1.92936127812,Africa,Rwanda,Rwanda - Rubungo,2015-01-26,09:00
+46026,Cossypha heuglini,species,White-browed Robin-Chat,2,30.0916975737,-1.92936127812,Africa,Rwanda,Rwanda - Rubungo,2015-01-26,09:00
+55423,Vanellus coronatus,species,Crowned Lapwing,2,30.5844783783,-1.43854283904,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,15:00
+55644,Lophaetus occipitalis,species,Long-crested Eagle,1,30.6285095215,-1.52271462403,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,15:00
+55661,Lanius excubitoroides,species,Grey-backed Fiscal,3,30.6285095215,-1.52271462403,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,15:00
+55665,Balearica regulorum,species,Grey Crowned Crane,2,30.6648159027,-1.51627958602,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,14:00
+55702,Vanellus senegallus,species,African Wattled Lapwing,2,30.7346177101,-1.53575624207,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,12:00
+55709,Haliaeetus vocifer,species,African Fish Eagle,1,30.7363128662,-1.53163784494,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,12:00
+56136,Alopochen aegyptiaca,species,Egyptian Goose,8,30.7295751572,-1.53901663417,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,12:00
+56441,Phalacrocorax lucidus,species,White-breasted Cormorant,1,30.7422780991,-1.72901131629,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,11:00
+56527,Pternistis hildebrandti,species,Hildebrandt's Spurfowl,1,30.7368278503,-1.87982680172,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,10:00
+56530,Lophoceros nasutus,species,African Grey Hornbill,1,30.7368278503,-1.87982680172,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,10:00
+56542,Lamprotornis purpuroptera,species,Rüppell's Starling,6,30.7368278503,-1.87982680172,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,10:00
+56998,Corythaixoides personatus,species,Bare-faced Go-away-bird,2,30.734167099,-1.88926307082,Africa,Rwanda,Rwanda - Akagera NP,2015-01-24,09:00
+101217,Passer griseus,species,Northern Grey-headed Sparrow,1,29.2729452252,-1.7342606832,Africa,Rwanda,Rwanda - Nyamyumba,2014-03-02,07:45
+101220,Lagonosticta senegala,species,Red-billed Firefinch,1,29.2729452252,-1.7342606832,Africa,Rwanda,Rwanda - Nyamyumba,2014-03-02,07:45
+101223,Colius striatus,species,Speckled Mousebird,2,29.2729452252,-1.7342606832,Africa,Rwanda,Rwanda - Nyamyumba,2014-03-02,07:45
+101230,Corvus albus,species,Pied Crow,2,29.2729452252,-1.7342606832,Africa,Rwanda,Rwanda - Nyamyumba,2014-03-02,08:15
+101243,Phalacrocorax lucidus,species,White-breasted Cormorant,1,29.2729452252,-1.7342606832,Africa,Rwanda,Rwanda - Nyamyumba,2014-03-02,08:30
+101248,Ceryle rudis,species,Pied Kingfisher,1,29.2729452252,-1.7342606832,Africa,Rwanda,Rwanda - Nyamyumba,2014-03-02,08:30
+118241,Emberiza flaviventris,species,Golden-breasted Bunting,1,29.7869468294,-2.0489854711,Africa,Rwanda,Rwanda - Nyamabuye,2014-02-28,08:32
+118266,Terpsiphone viridis,species,African Paradise Flycatcher,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-26,10:46
+118269,Ploceus baglafecht stuhlmanni,subspecies,Baglafecht Weaver ssp stuhlmanni,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-26,10:42
+118274,Milvus aegyptius parasitus,subspecies,Yellow-billed Kite ssp parasitus,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-26,10:30
+118281,Lagonosticta senegala senegala,subspecies,Red-billed Firefinch ssp senegala,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-21,10:40
+118295,Milvus aegyptius parasitus,subspecies,Yellow-billed Kite ssp parasitus,5,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-21,10:40
+118341,Ardea melanocephala,species,Black-headed Heron,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-21,10:40
+118343,Ploceus ocularis,species,Spectacled Weaver,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-21,10:40
+118345,Terpsiphone viridis,species,African Paradise Flycatcher,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-21,10:40
+118349,Cossypha heuglini,species,White-browed Robin-Chat,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-20,13:45
+118353,Cinnyris venustus,species,Variable Sunbird,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-20,13:45
+118356,Pycnonotus tricolor,species,Dark-capped Bulbul,1,30.0997299515,-1.92650910698,Africa,Rwanda,Rwanda - Rubungo,2014-02-20,13:21
+118363,Scopus umbretta,species,Hamerkop,4,29.27287817,-1.73434647457,Africa,Rwanda,Rwanda - Nyamyumba,2014-03-02,05:21
+118369,Pogonocichla stellata,species,White-starred Robin,1,29.1214232147,-2.48234844904,Africa,Rwanda,Rwanda - Karengera,2014-02-18,09:35
+118371,Arizelocichla nigriceps nigriceps,subspecies,Mountain Greenbul ssp nigriceps,2,29.1170606017,-2.48093424079,Africa,Rwanda,Rwanda - Karengera,2014-02-18,08:12
+118547,Saxicola torquatus,species,African Stonechat,1,29.0521719307,-2.44969834445,Africa,Rwanda,Rwanda - Karengera,2014-02-14,13:45
+118549,Vidua macroura,species,Pin-tailed Whydah,1,29.0521719307,-2.44969834445,Africa,Rwanda,Rwanda - Karengera,2014-02-14,13:45
+118568,Balearica regulorum,species,Grey Crowned Crane,2,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,15:30
+118570,Centropus superciliosus,species,White-browed Coucal,1,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,15:30
+118573,Vanellus senegallus,species,African Wattled Lapwing,1,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,15:15
+118580,Plectropterus gambensis,species,Spur-winged Goose,2,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,15:15
+118588,Lanius excubitoroides,species,Grey-backed Fiscal,1,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,15:00
+118609,Urocolius macrourus macrourus,subspecies,Blue-naped Mousebird ssp macrourus,1,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,14:15
+118614,Buphagus africanus,species,Yellow-billed Oxpecker,20,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,13:15
+118616,Lamprotornis purpuroptera,species,Rüppell's Starling,1,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,12:55
+118621,Pternistis hildebrandti,species,Hildebrandt's Spurfowl,2,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,11:45
+118626,Lophoceros nasutus,species,African Grey Hornbill,2,30.7399821281,-1.84127697076,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,11:45
+118631,Uraeginthus bengalus,species,Red-cheeked Cordon-bleu,1,30.0998470467,-1.92644740916,Africa,Rwanda,Rwanda - Rubungo,2014-02-14,13:35
+110151,Estrilda paludicola,species,Fawn-breasted Waxbill,15,29.0730294585,-2.45306378108,Africa,Rwanda,Rwanda - Gafunzo,2014-08-17,
+110152,Melaenornis ardesiacus,species,Yellow-eyed Black Flycatcher,1,29.0702855587,-2.48281940483,Africa,Rwanda,Rwanda - Karengera,2014-08-17,
+110153,Pogonocichla stellata,species,White-starred Robin,1,29.1522806883,-2.49259488179,Africa,Rwanda,Rwanda - Karengera,2014-08-17,
+110155,Cisticola chubbi,species,Chubb's Cisticola,8,29.1536539793,-2.48179040305,Africa,Rwanda,Rwanda - Gafunzo,2014-08-17,
+79656,Nectarinia kilimensis,species,Bronzy Sunbird,1,29.6348404882,-1.57025322437,Africa,Rwanda,Rwanda - Nyakinama,2013-09-08,
+79815,Pycnonotus tricolor,species,Dark-capped Bulbul,1,29.6348404882,-1.57025322437,Africa,Rwanda,Rwanda - Nyakinama,2013-09-08,
+80400,Passer griseus,species,Northern Grey-headed Sparrow,1,29.2764651773,-1.73529053694,Africa,Rwanda,Rwanda - Nyamyumba,2013-09-07,
+80403,Corvus albus,species,Pied Crow,1,29.2764651773,-1.73529053694,Africa,Rwanda,Rwanda - Nyamyumba,2013-09-07,
+80458,Phalacrocorax lucidus,species,White-breasted Cormorant,10,29.2764651773,-1.73529053694,Africa,Rwanda,Rwanda - Nyamyumba,2013-09-07,
+80480,Passer griseus,species,Northern Grey-headed Sparrow,1,29.2549037936,-1.69922816881,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,
+80482,Lanius humeralis,species,Northern Fiscal,2,29.2549037936,-1.69922816881,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,
+80505,Corvus albus,species,Pied Crow,1,29.2549037936,-1.69922816881,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,
+80508,Pycnonotus tricolor,species,Dark-capped Bulbul,1,29.2549037936,-1.69922816881,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,
+80510,Colius striatus,species,Speckled Mousebird,1,29.2549037936,-1.69922816881,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,
+80579,Eidolon helvum,species,African Straw-coloured Fruit Bat,1,29.2565989497,-1.70134081893,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,08:20
+80642,Corvus albus,species,Pied Crow,1,29.2607188224,-1.70542133718,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,08:45
+80644,Pycnonotus tricolor,species,Dark-capped Bulbul,1,29.2607188224,-1.70542133718,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,08:45
+80650,Colius striatus,species,Speckled Mousebird,1,29.2597156762,-1.70437037669,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,08:45
+80664,Scopus umbretta,species,Hamerkop,1,29.2607241868,-1.70544278535,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,08:45
+80671,Phalacrocorax lucidus,species,White-breasted Cormorant,1,29.2607241868,-1.70544278535,Africa,Rwanda,Rwanda - Rubavu,2013-09-07,08:45
+80793,Lagonosticta senegala,species,Red-billed Firefinch,2,29.2547339202,-1.69893093205,Africa,Rwanda,Rwanda - Rubavu,2013-09-06,
+80797,Passer griseus,species,Northern Grey-headed Sparrow,1,29.2547339202,-1.69893093205,Africa,Rwanda,Rwanda - Rubavu,2013-09-06,
+80827,Pycnonotus tricolor,species,Dark-capped Bulbul,3,29.2547339202,-1.69893093205,Africa,Rwanda,Rwanda - Rubavu,2013-09-06,
+80829,Ceryle rudis,species,Pied Kingfisher,2,29.2547339202,-1.69893093205,Africa,Rwanda,Rwanda - Rubavu,2013-09-06,
+80851,Phalacrocorax lucidus,species,White-breasted Cormorant,3,29.2547339202,-1.69893093205,Africa,Rwanda,Rwanda - Rubavu,2013-09-06,
+82761,Ruwenzorornis johnstoni,species,Rwenzori Turaco,10,29.1968250266,-2.48369977204,Africa,Rwanda,Rwanda - Karengera,2013-09-04,
+82841,Melaenornis ardesiacus,species,Yellow-eyed Black Flycatcher,3,29.1319155693,-2.49189316494,Africa,Rwanda,Rwanda - Karengera,2013-09-04,
+82847,Pycnonotus tricolor,species,Dark-capped Bulbul,1,29.1319155693,-2.49189316494,Africa,Rwanda,Rwanda - Karengera,2013-09-04,
+82890,Melaenornis ardesiacus,species,Yellow-eyed Black Flycatcher,3,29.1515171527,-2.49093562778,Africa,Rwanda,Rwanda - Karengera,2013-09-04,
+82948,Corythaeola cristata,species,Great Blue Turaco,5,29.1515171527,-2.49093562778,Africa,Rwanda,Rwanda - Karengera,2013-09-04,
+83113,Pycnonotus tricolor,species,Dark-capped Bulbul,1,29.1579008094,-2.48541477209,Africa,Rwanda,Rwanda - Karengera,2013-09-04,
+83356,Chamaetylas poliophrys,species,Red-throated Alethe,2,29.2124891279,-2.47666824856,Africa,Rwanda,Rwanda - Kirambo,2013-09-03,
+83501,Ruwenzorornis johnstoni,species,Rwenzori Turaco,3,29.2066955566,-2.47675828686,Africa,Rwanda,Rwanda - Kirambo,2013-09-03,
+83519,Corythaeola cristata,species,Great Blue Turaco,2,29.2066526411,-2.47671112382,Africa,Rwanda,Rwanda - Kirambo,2013-09-03,
+83665,Pycnonotus tricolor,species,Dark-capped Bulbul,2,29.0867257118,-2.45386270405,Africa,Rwanda,Rwanda - Gafunzo,2013-09-03,
+83777,Pycnonotus tricolor,species,Dark-capped Bulbul,1,29.0922349691,-2.44017018602,Africa,Rwanda,Rwanda - Gafunzo,2013-09-03,
+83861,Ruwenzorornis johnstoni,species,Rwenzori Turaco,1,29.2003118991,-2.47830179527,Africa,Rwanda,Rwanda - Karengera,2013-09-02,09:00
+83962,Pycnonotus tricolor,species,Dark-capped Bulbul,3,29.0951353314,-2.46076822194,Africa,Rwanda,Rwanda - Gafunzo,2013-09-02,07:40
+83965,Corythaeola cristata,species,Great Blue Turaco,2,29.0951353314,-2.46076822194,Africa,Rwanda,Rwanda - Gafunzo,2013-09-02,07:40
+34453,Lanius humeralis,species,Northern Fiscal,1,30.0066947933,-1.94998708459,Africa,Rwanda,Rwanda - Butamwa,2013-09-01,10:40
+34686,Lagonosticta senegala,species,Red-billed Firefinch,2,30.0037550925,-1.96136589356,Africa,Rwanda,Rwanda - Butamwa,2013-09-01,11:20
+34700,Passer griseus,species,Northern Grey-headed Sparrow,3,30.0037550925,-1.96136589356,Africa,Rwanda,Rwanda - Butamwa,2013-09-01,11:20
+34707,Lanius humeralis,species,Northern Fiscal,1,30.0037550925,-1.96136589356,Africa,Rwanda,Rwanda - Butamwa,2013-09-01,11:20
+35263,Ploceus baglafecht stuhlmanni,subspecies,Baglafecht Weaver ssp stuhlmanni,3,30.1080286502,-1.95923567889,Africa,Rwanda,Rwanda - Kanombe,2013-09-01,08:15
+35356,Cinnyris venustus,species,Variable Sunbird,2,30.1080286502,-1.95923567889,Africa,Rwanda,Rwanda - Kanombe,2013-09-01,08:15
+35366,Cossypha heuglini,species,White-browed Robin-Chat,1,30.1080286502,-1.95923567889,Africa,Rwanda,Rwanda - Kanombe,2013-09-01,08:15
+35370,Pycnonotus tricolor,species,Dark-capped Bulbul,4,30.1080286502,-1.95923567889,Africa,Rwanda,Rwanda - Kanombe,2013-09-01,08:15
+57931,Syncerus caffer,species,African Buffalo,1,30.7525777817,-1.84266027547,Africa,Rwanda,Rwanda - Akagera NP,2014-05-24,
+57958,Lanius excubitoroides,species,Grey-backed Fiscal,1,30.7525777817,-1.84266027547,Africa,Rwanda,Rwanda - Akagera NP,2014-05-24,
+57964,Pycnonotus tricolor,species,Dark-capped Bulbul,1,30.7525777817,-1.84266027547,Africa,Rwanda,Rwanda - Akagera NP,2014-05-24,
+57978,Lophoceros nasutus,species,African Grey Hornbill,1,30.7525777817,-1.84266027547,Africa,Rwanda,Rwanda - Akagera NP,2014-05-24,
+58073,Corythaixoides personatus,species,Bare-faced Go-away-bird,1,30.7525777817,-1.84266027547,Africa,Rwanda,Rwanda - Akagera NP,2014-05-24,
+58094,Vanellus senegallus,species,African Wattled Lapwing,1,30.7525777817,-1.84266027547,Africa,Rwanda,Rwanda - Akagera NP,2014-05-24,
+58099,Plectropterus gambensis,species,Spur-winged Goose,1,30.7525777817,-1.84266027547,Africa,Rwanda,Rwanda - Akagera NP,2014-05-24,
+58114,Phalacrocorax lucidus,species,White-breasted Cormorant,1,30.75257778,-1.84266028,Africa,Rwanda,Rwanda - Akagera NP,2014-05-24,
+77342,Lanius humeralis,species,Northern Fiscal,1,30.103456378,-1.95587576002,Africa,Rwanda,Rwanda - Rubungo,2014-05-23,
+77343,Terpsiphone viridis,species,African Paradise Flycatcher,1,30.103456378,-1.95587576002,Africa,Rwanda,Rwanda - Rubungo,2014-05-23,
+77346,Cossypha heuglini,species,White-browed Robin-Chat,1,30.103456378,-1.95587576002,Africa,Rwanda,Rwanda - Rubungo,2014-05-23,
+77347,Cecropis abyssinica,species,Lesser Striped Swallow,1,30.103456378,-1.95587576002,Africa,Rwanda,Rwanda - Rubungo,2014-05-23,
+77369,Ardea melanocephala,species,Black-headed Heron,1,30.103456378,-1.95587576002,Africa,Rwanda,Rwanda - Rubungo,2014-05-23,
+10471,Buphagus africanus,species,Yellow-billed Oxpecker,20,30.7516765594,-1.79871570284,Africa,Rwanda,Rwanda - Akagera NP,2014-05-02,
+10504,Balearica regulorum,species,Grey Crowned Crane,2,30.6720256805,-1.49671695331,Africa,Rwanda,Rwanda - Akagera NP,2014-05-03,
+76751,Milvus aegyptius parasitus,subspecies,Yellow-billed Kite ssp parasitus,15,29.2729210854,-1.73383708825,Africa,Rwanda,Rwanda - Nyamyumba,2014-03-02,07:00
+76882,Scopus umbretta,species,Hamerkop,5,30.0996181369,-1.92662161231,Africa,Rwanda,Rwanda - Rubungo,2014-02-20,05:21
+67292,Serinus flavivertex,species,Yellow-crowned Canary,20,29.5982556045,-1.4321075572,Africa,Rwanda,Rwanda - Kinigi,2014-01-02,
+112194,Pycnonotus tricolor,species,Dark-capped Bulbul,1,30.10779,-1.959277,Africa,Rwanda,Rwanda - Kanombe,2013-11-08,07:13
+112195,Cossypha heuglini,species,White-browed Robin-Chat,1,30.10779,-1.959277,Africa,Rwanda,Rwanda - Kanombe,2013-11-08,07:13
+112196,Nectarinia kilimensis,species,Bronzy Sunbird,1,29.631244,-1.499819,Africa,Rwanda,Rwanda - Kigombe,2013-11-09,17:32
+5844,Ploceus insignis,species,Brown-capped Weaver,5,29.1112241254,-2.44202195729,Africa,Rwanda,Rwanda - Gafunzo,2013-06-25,
+46135,Kobus ellipsiprymnus,species,Waterbuck,1,30.741127847441724,-1.652974999999941,Africa,Rwanda,Rwanda - Akagera NP,2006-12-21,
+46137,Syncerus caffer,species,African Buffalo,1,30.741127847441724,-1.652974999999941,Africa,Rwanda,Rwanda - Akagera NP,2006-12-21,
+46141,Aepyceros melampus,species,Impala,1,30.741127847441724,-1.652974999999941,Africa,Rwanda,Rwanda - Akagera NP,2006-12-21,
+50114,Terathopius ecaudatus,species,Bateleur,1,30.6562042097,-1.65920713864,Africa,Rwanda,Rwanda - Akagera NP,2006-12-21,
+17776,Corythaeola cristata,species,Great Blue Turaco,2,29.171909093857,-2.4948243663746,Africa,Rwanda,Rwanda - Karengera,2013-06-26,
+17777,Ruwenzorornis johnstoni,species,Rwenzori Turaco,2,29.171909093857,-2.4948243663746,Africa,Rwanda,Rwanda - Karengera,2013-06-26,
+17778,Colobus angolensis ruwenzorii,subspecies,Adolf Friedrichs's Angolan Colobus,5,29.086311087012,-2.4509842926224,Africa,Rwanda,Rwanda - Gafunzo,2013-06-24,
+17779,Lophocebus albigena,species,Grey-cheeked Mangabey,5,29.06868159771,-2.474758869421,Africa,Rwanda,Rwanda - Karengera,2013-06-25,
+42239,Colobus angolensis ruwenzorii,subspecies,Adolf Friedrichs's Angolan Colobus,5,29.086311087012,-2.4509842926224,Africa,Rwanda,Rwanda - Gafunzo,2013-06-24,
+42243,Lophocebus albigena,species,Grey-cheeked Mangabey,5,29.06868159771,-2.474758869421,Africa,Rwanda,Rwanda - Karengera,2013-06-25,
+54441,Cinnyris erythrocercus,species,Red-chested Sunbird,2,29.287717433919948,-1.6784589706404005,Africa,Rwanda,Rwanda - Rubavu,2013-05-03,
+54443,Crithagra striolata,species,Streaky Seedeater,1,29.287717433919948,-1.6784589706404005,Africa,Rwanda,Rwanda - Rubavu,2013-05-03,
+54444,Buteo augur,species,Augur Buzzard,1,29.28811969166017,-1.6762619706509794,Africa,Rwanda,Rwanda - Rubavu,2013-05-03,
+54457,Lophocebus albigena,species,Grey-cheeked Mangabey,1,29.156802892685,-2.4830480682979,Africa,Rwanda,Rwanda - Gafunzo,2013-05-02,
+54487,Ruwenzorornis johnstoni,species,Rwenzori Turaco,4,29.156802892685,-2.4830480682979,Africa,Rwanda,Rwanda - Gafunzo,2013-05-02,
+54488,Corythaeola cristata,species,Great Blue Turaco,4,29.156802892685,-2.4830480682979,Africa,Rwanda,Rwanda - Gafunzo,2013-05-02,
+54492,Cryptospiza jacksoni,species,Dusky Crimsonwing,1,29.156802892685,-2.4830480682979,Africa,Rwanda,Rwanda - Gafunzo,2013-05-02,
+54493,Chamaetylas poliophrys,species,Red-throated Alethe,3,29.156802892685,-2.4830480682979,Africa,Rwanda,Rwanda - Gafunzo,2013-05-02,
+34863,Plectropterus gambensis,species,Spur-winged Goose,1,30.750732421875,-1.8625411403089,Africa,Rwanda,Rwanda - Akagera NP,2005-08-29,
+34883,Ardea alba,species,Great Egret,1,30.758800506592,-1.8390358003947,Africa,Rwanda,Rwanda - Akagera NP,2005-08-29,
+34886,Anhinga rufa,species,African Darter,1,30.758800506592,-1.8390358003947,Africa,Rwanda,Rwanda - Akagera NP,2005-08-29,
+34898,Leptoptilos crumenifer,species,Marabou Stork,1,30.71605682373,-1.8779824340695,Africa,Rwanda,Rwanda - Akagera NP,2005-08-29,
+34904,Laniarius major,species,Tropical Boubou,1,30.71605682373,-1.8779824340695,Africa,Rwanda,Rwanda - Akagera NP,2005-08-29,
+35031,Laniarius major,species,Tropical Boubou,1,30.066061019897,-1.9574171309773,Africa,Rwanda,Rwanda - Nyarugenge,2005-08-28,
+35266,Laniarius major,species,Tropical Boubou,1,29.747629165649,-2.5882020348523,Africa,Rwanda,Rwanda - Ngoma,2005-08-25,
+38025,Laniarius major,species,Tropical Boubou,1,29.272982776165,-1.734099824367,Africa,Rwanda,Rwanda - Nyamyumba,2005-08-24,
+38057,Actitis hypoleucos,species,Common Sandpiper,1,29.272982776165,-1.734099824367,Africa,Rwanda,Rwanda - Nyamyumba,2005-08-24,
+38167,Actitis hypoleucos,species,Common Sandpiper,1,29.272982776165,-1.734099824367,Africa,Rwanda,Rwanda - Nyamyumba,2005-08-23,
+38223,Laniarius major,species,Tropical Boubou,1,29.272982776165,-1.734099824367,Africa,Rwanda,Rwanda - Nyamyumba,2005-08-23,
+38232,Actitis hypoleucos,species,Common Sandpiper,1,29.272982776165,-1.734099824367,Africa,Rwanda,Rwanda - Nyamyumba,2005-08-23,
+38924,Laniarius major,species,Tropical Boubou,1,30.066404342651,-1.9573313503698,Africa,Rwanda,Rwanda - Nyarugenge,2005-08-21,
+26348,Phacochoerus africanus,species,Common Warthog,6,30.7354336035,-1.54214985846,Africa,Rwanda,Rwanda - Akagera NP,1987-05-03,
+84699,Anthreptes orientalis,species,Eastern Violet-backed Sunbird,4,30.23551814422669,-2.2190769705094886,Africa,Rwanda,Rwanda - Gashora,2011-04-02,
+84730,Pycnonotus tricolor,species,Dark-capped Bulbul,30,30.201573879509493,-2.0450794705171487,Africa,Rwanda,Rwanda - Kigali,2011-03-30,
+84918,Elanus caeruleus,species,Black-winged Kite,2,30.23551814422669,-2.2190769705094886,Africa,Rwanda,Rwanda - Gashora,2011-04-02,
+84953,Phalacrocorax lucidus,species,White-breasted Cormorant,10,30.74082912988974,-1.6549399999999252,Africa,Rwanda,Rwanda - Akagera NP,2011-04-01,
+83803,Motacilla aguimp,species,African Pied Wagtail,1,29.3479558646,-2.06126195541,Africa,Rwanda,Rwanda - Gitsi,2011-06-29,
+83847,Buteo augur,species,Augur Buzzard,1,29.3479558646,-2.06126195541,Africa,Rwanda,Rwanda - Gitsi,2011-06-29,
+85668,Falco subbuteo,species,Eurasian Hobby,1,29.3479558646,-2.06126195541,Africa,Rwanda,Rwanda - Gitsi,2011-06-29,
+85692,Muscicapa caerulescens,species,Ashy Flycatcher,1,29.3479558646,-2.06126195541,Africa,Rwanda,Rwanda - Gitsi,2011-06-29,
+85739,Turtur afer,species,Blue-spotted Wood Dove,1,29.3479558646,-2.06126195541,Africa,Rwanda,Rwanda - Gitsi,2011-06-28,
+85773,Merops oreobates,species,Cinnamon-chested Bee-eater,5,29.3498441398,-2.06100462994,Africa,Rwanda,Rwanda - Gitsi,2011-06-28,
+85826,Malaconotus blanchoti,species,Grey-headed Bushshrike,1,29.3498441398,-2.06100462994,Africa,Rwanda,Rwanda - Gitsi,2011-06-28,
+85862,Cercopithecus mitis kandti,subspecies,Golden Monkey,50,29.5384227328,-1.42765644998,Africa,Rwanda,Rwanda - Kinigi,2011-06-28,
+85869,Motacilla capensis,species,Cape Wagtail,1,29.6311198764,-1.50021115252,Africa,Rwanda,Rwanda - Kigombe,2011-06-28,
+85878,Motacilla aguimp,species,African Pied Wagtail,1,29.6311198764,-1.50021115252,Africa,Rwanda,Rwanda - Kigombe,2011-06-28,
+85890,Nectarinia kilimensis,species,Bronzy Sunbird,1,29.6311198764,-1.50021115252,Africa,Rwanda,Rwanda - Kigombe,2011-06-27,
+85898,Crithagra striolata,species,Streaky Seedeater,1,30.0691997209,-1.93623986313,Africa,Rwanda,Rwanda - Nyarugenge,2011-06-27,
+85936,Laniarius major,species,Tropical Boubou,2,30.0691997209,-1.93623986313,Africa,Rwanda,Rwanda - Nyarugenge,2011-06-27,
+85966,Passer griseus,species,Northern Grey-headed Sparrow,1,30.0621219138,-1.94600501135,Africa,Rwanda,Rwanda - Nyarugenge,2011-06-27,
+85982,Lagonosticta senegala,species,Red-billed Firefinch,2,30.0621219138,-1.94600501135,Africa,Rwanda,Rwanda - Nyarugenge,2011-06-27,
+102296,Corythornis cristatus,species,Malachite Kingfisher,1,29.7699451447,-1.39163963014,Africa,Rwanda,Rwanda - Kidaho,2010-03-20,14:00
+11221,Actitis hypoleucos,species,Common Sandpiper,1,29.2600269318,-1.71952328461,Africa,Rwanda,Rwanda - Nyamyumba,2004-04-10,
+36822,Pycnonotus tricolor,species,Dark-capped Bulbul,1,29.3396759033,-2.04268085287,Africa,Rwanda,Rwanda,1988-04-23,
+70015,Lanius humeralis,species,Northern Fiscal,1,29.7524356842,-2.61109524366,Africa,Rwanda,Rwanda,1990-06-24,
+7454,Streptopelia capicola,species,Ring-necked Dove,1,29.6363067627,-1.50014900682,Africa,Rwanda,Rwanda,2009-07-22,
+7456,Motacilla flava,species,Western Yellow Wagtail,1,29.6363067627,-1.50014900682,Africa,Rwanda,Rwanda,2009-07-22,
+7457,Corvus albus,species,Pied Crow,1,29.7674560547,-1.48504793126,Africa,Rwanda,Rwanda,2009-07-22,
+7459,Milvus aegyptius,species,Yellow-billed Kite,1,29.7715759277,-1.47063317194,Africa,Rwanda,Rwanda,2009-07-22,
+7461,Merops pusillus,species,Little Bee-eater,1,29.7715759277,-1.47063317194,Africa,Rwanda,Rwanda,2009-07-22,
+7463,Terpsiphone viridis,species,African Paradise Flycatcher,1,29.7715759277,-1.47063317194,Africa,Rwanda,Rwanda,2009-07-22,
+7464,Cinnyris regius,species,Regal Sunbird,1,29.7715759277,-1.47063317194,Africa,Rwanda,Rwanda,2009-07-22,
+7467,Zosterops senegalensis,species,Northern Yellow White-eye,1,29.7715759277,-1.47063317194,Africa,Rwanda,Rwanda,2009-07-22,
+7470,Balearica regulorum,species,Grey Crowned Crane,2,29.6315002441,-1.50220823635,Africa,Rwanda,Rwanda,2009-07-22,
+7473,Crithagra striolata,species,Streaky Seedeater,1,29.6315002441,-1.50220823635,Africa,Rwanda,Rwanda,2009-07-22,
+7474,Nectarinia kilimensis,species,Bronzy Sunbird,1,29.6315002441,-1.50220823635,Africa,Rwanda,Rwanda,2009-07-22,
+7477,Passer griseus,species,Northern Grey-headed Sparrow,1,29.6315002441,-1.50220823635,Africa,Rwanda,Rwanda,2009-07-22,
+7479,Elminia albicauda,species,White-tailed Blue Flycatcher,1,29.6315002441,-1.50220823635,Africa,Rwanda,Rwanda,2009-07-22,
+7480,Lagonosticta senegala,species,Red-billed Firefinch,1,30.0531005859,-1.9483243622,Africa,Rwanda,Rwanda,2009-07-22,
+7482,Hirundo smithii,species,Wire-tailed Swallow,1,30.055847168,-1.9483243622,Africa,Rwanda,Rwanda,2009-07-22,
+15906,Junonia oenone,species,Dark Blue Pansy,1,30.0489807129,-1.94489311592,Africa,Rwanda,Rwanda,2009-07-22,
+3418,Phylloscopus laetus laetus,subspecies,Red-faced Woodland Warbler ssp laetus,1,29.328002929688,-2.5370123584,Africa,Rwanda,Rwanda,2008-02-17,
+37828,Merops pusillus meridionalis,subspecies,Little Bee-eater ssp meridionalis,1,29.632,-1.502,Africa,Rwanda,Rwanda - Kigombe,2009-07-22,
+37842,Crithagra striolata graueri,subspecies,Streaky Seedeater ssp graueri,1,29.632,-1.502,Africa,Rwanda,Rwanda - Kigombe,2009-07-22,
+73271,Passer griseus,species,Northern Grey-headed Sparrow,1,30.11046052,-1.95518898,Africa,Rwanda,Rwanda - Rubungo,2019-04-21,
+73456,Corvus albus,species,Pied Crow,2,30.11046052,-1.95518898,Africa,Rwanda,Rwanda - Rubungo,2019-04-21,
+73460,Ardea melanocephala,species,Black-headed Heron,2,30.11046052,-1.95518898,Africa,Rwanda,Rwanda - Rubungo,2019-04-21,
+95401,Turdus olivaceus,species,Olive Thrush,1,29.64548349,-1.38597893,Africa,Rwanda,Rwanda - Kinigi,2019-04-22,
+95480,Buteo augur,species,Augur Buzzard,1,29.73992228,-1.34135497,Africa,Rwanda,Rwanda - Kidaho,2019-04-21,
+96268,Crithagra striolata,species,Streaky Seedeater,1,29.73978192,-1.34098528,Africa,Rwanda,Rwanda - Kidaho,2019-04-21,
+96277,Saxicola torquatus,species,African Stonechat,2,29.73981142,-1.34099869,Africa,Rwanda,Rwanda - Kidaho,2019-04-21,
+96284,Motacilla aguimp,species,African Pied Wagtail,1,29.73997235,-1.34105589,Africa,Rwanda,Rwanda - Kidaho,2019-04-21,
+96438,Lagonosticta senegala,species,Red-billed Firefinch,2,29.7398302,-1.34091378,Africa,Rwanda,Rwanda - Kidaho,2019-04-21,
+96471,Bostrychia hagedash,species,Hadada Ibis,1,29.7398302,-1.34091378,Africa,Rwanda,Rwanda - Kidaho,2019-04-21,
+107320,Colobus angolensis,species,Angolan Colobus,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2006-08-14,
+10055,Papio anubis,species,Olive Baboon,1,30.74082912988974,-1.6549399999999252,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+75822,Equus quagga,species,Plains Zebra,1,30.74082912988974,-1.6549399999999252,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+63214,Aepyceros melampus,species,Impala,1,30.74082912988974,-1.6549399999999252,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+84179,Damaliscus lunatus,species,Tsessebe s.l.,1,30.74082912988974,-1.6549399999999252,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+80234,Merops oreobates,species,Cinnamon-chested Bee-eater,1,30.73105574,-1.82068812,Africa,Rwanda,Rwanda - Akagera NP,1990-08-09,
+80620,Kobus ellipsiprymnus defassa,subspecies,Defassa Waterbuck,4,30.73105574,-1.82068812,Africa,Rwanda,Rwanda - Akagera NP,1990-08-08,
+80663,Ceryle rudis,species,Pied Kingfisher,1,30.7365489,-1.88725787,Africa,Rwanda,Rwanda - Akagera NP,1990-08-08,
+80825,Haliaeetus vocifer,species,African Fish Eagle,1,30.76264143,-1.8268648,Africa,Rwanda,Rwanda - Akagera NP,1990-08-08,
+80961,Lophaetus occipitalis,species,Long-crested Eagle,1,30.72762251,-1.8611793,Africa,Rwanda,Rwanda - Akagera NP,1990-08-08,
+38540,Aves indet.,multispecies,Unidentified bird,1,29.35485755,-2.06736869,Africa,Rwanda,Rwanda - Gitsi,2019-05-05,13:35
+38562,Aves indet.,multispecies,Unidentified bird,1,29.35585364,-2.06708064,Africa,Rwanda,Rwanda - Gitsi,2019-05-05,13:26
+38780,Aves indet.,multispecies,Unidentified bird,1,29.32460636,-2.03193648,Africa,Rwanda,Rwanda - Mabanza,2019-05-04,09:09
+71324,Aves indet.,multispecies,Unidentified bird,5,29.6883458,-1.84546295,Africa,Rwanda,Rwanda - Nyakabanda,2019-04-14,17:56
+71541,Cisticola chubbi,species,Chubb's Cisticola,5,29.69574758,-1.84759226,Africa,Rwanda,Rwanda - Nyakabanda,2019-04-14,16:46
+71622,Cisticola chubbi,species,Chubb's Cisticola,2,29.68911768,-1.84757022,Africa,Rwanda,Rwanda - Nyakabanda,2019-04-14,15:35
+95180,Cisticola chubbi,species,Chubb's Cisticola,3,29.68732963,-1.85200042,Africa,Rwanda,Rwanda - Nyakabanda,2019-04-13,16:09
+55362,Cisticola chubbi,species,Chubb's Cisticola,5,29.74887719,-2.10091588,Africa,Rwanda,Rwanda - Nyamabuye,2019-04-06,17:33
+55373,Aves indet.,multispecies,Unidentified bird,1,29.74887719,-2.10091588,Africa,Rwanda,Rwanda - Nyamabuye,2019-04-06,17:29
+87716,Aves indet.,multispecies,Unidentified bird,1,29.67987329,-1.85391564,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-31,13:51
+87758,Lanius humeralis,species,Northern Fiscal,1,29.67203638,-1.85387272,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-31,10:47
+87973,Aves indet.,multispecies,Unidentified bird,1,29.68335032,-1.85285624,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-31,10:59
+87976,Ploceus superciliosus,species,Compact Weaver,1,29.68335032,-1.85285624,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-31,10:56
+25790,Lanius humeralis,species,Northern Fiscal,2,29.68427896,-1.85204061,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-29,17:09
+74977,Aves indet.,multispecies,Unidentified bird,1,29.68739973,-1.84796857,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-26,14:14
+94664,Meropidae spec.,multispecies,Bee-eater unknown,1,29.69055689,-1.84349767,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-17,12:58
+95443,Lanius humeralis,species,Northern Fiscal,1,29.67662074,-1.85365163,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-16,11:29
+95471,Lanius humeralis,species,Northern Fiscal,1,29.67843035,-1.85262686,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-16,11:22
+95741,Cisticola chubbi,species,Chubb's Cisticola,2,29.68775804,-1.85150248,Africa,Rwanda,Rwanda - Nyakabanda,2019-03-16,10:25
+41404,Ardea melanocephala,species,Black-headed Heron,1,30.07692991,-1.94381504,Africa,Rwanda,Rwanda - Nyarugenge,2019-02-27,16:43
+51501,Ardea melanocephala,species,Black-headed Heron,1,30.09548686,-1.93923188,Africa,Rwanda,Rwanda - Rubungo,2019-02-26,16:30
+75320,Bradypterus centralis centralis,subspecies,Highland Rush Warbler ssp centralis,2,30.6815795898438,-1.90853095054626,Africa,Rwanda,Rwanda - Rukara,2019-02-20,11:43
+75321,Bradypterus centralis centralis,subspecies,Highland Rush Warbler ssp centralis,1,30.2568302154541,-2.20690870285034,Africa,Rwanda,Rwanda - Gashora,2019-02-22,08:12
+98794,Corvus albus,species,Pied Crow,10,30.06738435,-1.94842103,Africa,Rwanda,Rwanda - Nyarugenge,2019-02-23,17:53
+77490,Bradypterus centralis centralis,subspecies,Highland Rush Warbler ssp centralis,2,29.8365955352783,-1.42271745204926,Africa,Rwanda,Rwanda - Cyeru,2019-02-14,09:50
+16250,Bradypterus centralis centralis,subspecies,Highland Rush Warbler ssp centralis,1,29.1190319061279,-2.33844304084778,Africa,Rwanda,Rwanda - Kirambo,2019-02-10,08:59
+43135,Lanius humeralis,species,Northern Fiscal,1,28.9036064147949,-2.43240213394165,Africa,Rwanda,Rwanda - Kamembe,2019-02-08,14:12
+43136,Corythaeola cristata,species,Great Blue Turaco,4,29.1054210662842,-2.4695417881012,Africa,Rwanda,Rwanda - Gafunzo,2019-02-09,08:38
+43137,Ruwenzorornis johnstoni,species,Rwenzori Turaco,1,29.1528720855713,-2.48993921279907,Africa,Rwanda,Rwanda - Karengera,2019-02-09,12:33
+43138,Ceblepyris caesius,species,Grey Cuckooshrike,1,29.1551647186279,-2.4910261631012,Africa,Rwanda,Rwanda - Karengera,2019-02-09,13:05
+43139,Phoeniculus bollei,species,White-headed Wood Hoopoe,1,29.1551647186279,-2.49102783203125,Africa,Rwanda,Rwanda - Karengera,2019-02-09,13:05
+43140,Muscicapa adusta,species,African Dusky Flycatcher,2,29.1551761627197,-2.49100208282471,Africa,Rwanda,Rwanda - Karengera,2019-02-09,13:05
+43141,Pogonocichla stellata,species,White-starred Robin,1,29.1525344848633,-2.48117208480835,Africa,Rwanda,Rwanda - Gafunzo,2019-02-09,15:13
+43142,Batis diops,species,Rwenzori Batis,2,29.1551780700684,-2.49082064628601,Africa,Rwanda,Rwanda - Karengera,2019-02-09,16:13
+80480,Cisticola chubbi,species,Chubb's Cisticola,2,29.7551078796387,-2.10802340507507,Africa,Rwanda,Rwanda - Nyamabuye,2019-02-04,14:01
+80481,Serinus flavivertex,species,Yellow-crowned Canary,1,29.4173336029053,-2.52621412277222,Africa,Rwanda,Rwanda - Mudasomwa,2019-02-05,09:39
+101488,Passer griseus,species,Northern Grey-headed Sparrow,2,30.1235847473145,-1.97081327438354,Africa,Rwanda,Rwanda - Kanombe,2019-02-02,10:50
+101489,Pycnonotus tricolor,species,Dark-capped Bulbul,1,30.1235694885254,-1.9708399772644,Africa,Rwanda,Rwanda - Kanombe,2019-02-02,10:52
+101493,Bradypterus centralis centralis,subspecies,Highland Rush Warbler ssp centralis,1,30.0416412353516,-1.94155514240265,Africa,Rwanda,Rwanda - Nyarugenge,2019-02-03,09:23
+101503,Bradypterus centralis centralis,subspecies,Highland Rush Warbler ssp centralis,1,30.18971824646,-1.98745894432068,Africa,Rwanda,Rwanda - Kanombe,2019-02-03,14:45
+76903,Acraea disjuncta,species,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-08-02,
+76917,Anoba spec.,multispecies,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-08-02,
+76918,Prasinocyma spec.,multispecies,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-08-02,
+76924,Heterocera indet.,multispecies,Unidentified Moth,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-08-02,
+76986,Precis tugela,species,African leaf butterfly,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+76988,Cleora spec.,multispecies,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+76991,Pseudoclanis spec.,multispecies,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+76996,Acraea oreas,species,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+77001,Cleora spec.,multispecies,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+77004,Dichromia mutilata,species,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+77006,Melinoessa spec.,multispecies,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+77009,Prasinocyma spec.,multispecies,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+77014,Pseudothyretes kamitugensis,species,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+77016,Cyana nussi,species,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+77019,Galtara spec.,multispecies,,1,29.272660500000068,-2.555454999999938,Africa,Rwanda,Rwanda - Nyungwe NP,2011-07-31,
+112259,Ploceus insignis,species,Brown-capped Weaver,5,29.1112241254,-2.44202195729,Africa,Rwanda,Rwanda - Gafunzo,2013-06-25,
+112260,Corythaeola cristata,species,Great Blue Turaco,2,29.171909093857,-2.4948243663746,Africa,Rwanda,Rwanda - Karengera,2013-06-26,
+112261,Ruwenzorornis johnstoni,species,Rwenzori Turaco,2,29.171909093857,-2.4948243663746,Africa,Rwanda,Rwanda - Karengera,2013-06-26,
+73026,Hemidactylus mabouia,species,Tropical House Gecko,1,29.23461378,-1.69672391,Africa,Rwanda,Rwanda,2017-02-21,
+84362,Leptoptilos crumenifer,species,Marabou Stork,1,29.21599474,-2.48978401,Africa,Rwanda,Rwanda - Karengera,2006-08-13,
+92761,Corythaeola cristata,species,Great Blue Turaco,1,29.23556328,-2.50412814,Africa,Rwanda,Rwanda - Nyungwe NP,2016-06-17,
+79157,Catharanthus roseus,species,Madagascar rosy periwinkle,1,29.32385806,-2.03071622,Africa,Rwanda,Rwanda - Mabanza,2017-02-25,
+51261,Asystasia gangetica,species,Philippine violet,1,30.02895718,-1.98448078,Africa,Rwanda,Rwanda - Butamwa,2017-02-19,
+84290,Leonotis nepetifolia,species,Christmas candlestick,1,30.06587687,-1.97266997,Africa,Rwanda,Rwanda - Nyarugenge,2017-02-17,
+47010,Lantana camara,species,Largeleaf lantana,1,30.02917176,-1.98464697,Africa,Rwanda,Rwanda - Butamwa,2017-02-19,
+38193,Phalacrocorax lucidus,species,White-breasted Cormorant,1,29.33851015,-2.05856025,Africa,Rwanda,Rwanda - Gitsi,2017-02-25,
+77781,Balearica regulorum gibbericeps,subspecies,Grey Crowned Crane ssp gibbericeps,2,29.23457983,-1.69678561,Africa,Rwanda,Rwanda,2017-02-21,
+43647,Ardea melanocephala,species,Black-headed Heron,1,30.06679427,-1.94609422,Africa,Rwanda,Rwanda - Nyarugenge,2017-02-18,
+43929,Corvus albus,species,Pied Crow,1,30.06025496,-1.9314603,Africa,Rwanda,Rwanda - Nyarugenge,2017-02-17,
+44836,Passer griseus,species,Northern Grey-headed Sparrow,1,30.06582323,-1.97266193,Africa,Rwanda,Rwanda - Nyarugenge,2017-02-17,
+44844,Cossypha heuglini,species,White-browed Robin-Chat,1,30.06582323,-1.97266193,Africa,Rwanda,Rwanda - Nyarugenge,2017-02-17,
+91644,Funisciurus carruthersi,species,Carruther's Mountain Squirrel,1,29.21311855,-2.50136274,Africa,Rwanda,Rwanda - Karengera,2017-01-16,
+92192,Cecropis daurica,species,Red-rumped Swallow,1,29.09364223,-2.45334248,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+92247,Estrilda paludicola,species,Fawn-breasted Waxbill,2,29.09364223,-2.45334248,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+19873,Ploceus bicolor,species,Dark-backed Weaver,1,29.2135638,-2.47304654,Africa,Rwanda,Rwanda - Kirambo,2017-01-16,
+19877,Laniarius poensis,species,Mountain Sooty Boubou,1,29.2135638,-2.47304654,Africa,Rwanda,Rwanda - Kirambo,2017-01-16,
+19883,Hirundo angolensis,species,Angolan Swallow,1,29.09511745,-2.45932634,Africa,Rwanda,Rwanda - Gafunzo,2017-01-14,
+19911,Dryoscopus gambensis,species,Northern Puffback,1,29.20034587,-2.47870607,Africa,Rwanda,Rwanda - Karengera,2017-01-15,
+19913,Apalis porphyrolaema,species,Chestnut-throated Apalis,1,29.20034587,-2.47870607,Africa,Rwanda,Rwanda - Karengera,2017-01-15,
+19999,Paraxerus boehmi,species,Boehm's Bush Squirrel,1,29.09975231,-2.46121288,Africa,Rwanda,Rwanda - Gafunzo,2017-01-14,
+20125,Cercopithecus mitis,species,Blue Monkey,1,29.20005888,-2.47819023,Africa,Rwanda,Rwanda - Karengera,2017-01-15,
+20127,Telophorus dohertyi,species,Doherty's Bushshrike,1,29.20005888,-2.47819023,Africa,Rwanda,Rwanda - Karengera,2017-01-15,
+20130,Cisticola chubbi,species,Chubb's Cisticola,1,29.20005888,-2.47819023,Africa,Rwanda,Rwanda - Karengera,2017-01-14,
+20132,Ceblepyris caesius,species,Grey Cuckooshrike,1,29.20005888,-2.47819023,Africa,Rwanda,Rwanda - Karengera,2017-01-14,
+20136,Crithagra frontalis,species,Western Citril,1,29.09706473,-2.46052955,Africa,Rwanda,Rwanda - Gafunzo,2017-01-14,
+20145,Pogonocichla stellata,species,White-starred Robin,1,29.199908,-2.47836073,Africa,Rwanda,Rwanda - Karengera,2017-01-14,
+20146,Corvus albicollis,species,White-necked Raven,2,29.199908,-2.47836073,Africa,Rwanda,Rwanda - Karengera,2017-01-14,
+20147,Melaniparus fasciiventer,species,Stripe-breasted Tit,1,29.199908,-2.47836073,Africa,Rwanda,Rwanda - Karengera,2017-01-14,
+20156,Nigrita canicapillus,species,Grey-headed Nigrita,1,29.09654707,-2.45160734,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20158,Cryptospiza jacksoni,species,Dusky Crimsonwing,1,29.09654707,-2.45160734,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20164,Merops oreobates,species,Cinnamon-chested Bee-eater,1,29.104186,-2.47064417,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20165,Prinia bairdii,species,Banded Prinia,1,29.10075277,-2.4685004,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20167,Arizelocichla kikuyuensis,species,Olive-breasted Greenbul,1,29.10075277,-2.4685004,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20173,Eurillas latirostris,species,Yellow-whiskered Greenbul,1,29.10075277,-2.4685004,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20190,Melaenornis ardesiacus,species,Yellow-eyed Black Flycatcher,1,29.10075277,-2.4685004,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20194,Cisticola chubbi,species,Chubb's Cisticola,1,29.10058111,-2.46575636,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20533,Estrilda nonnula,species,Black-crowned Waxbill,1,29.09465879,-2.46001102,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20536,Ruwenzorornis johnstoni,species,Rwenzori Turaco,1,29.10135359,-2.47295944,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20538,Corythaeola cristata,species,Great Blue Turaco,5,29.10135359,-2.47295944,Africa,Rwanda,Rwanda - Gafunzo,2017-01-13,
+20550,Muscicapa adusta,species,African Dusky Flycatcher,1,29.09691855,-2.4519068,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20555,Psalidoprocne pristoptera,species,Black Saw-wing,1,29.0909104,-2.44684741,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20559,Crithagra striolata,species,Streaky Seedeater,1,29.09219787,-2.44024446,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20560,Merops oreobates,species,Cinnamon-chested Bee-eater,1,29.09219787,-2.44024446,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20563,Melaenornis fischeri toruensis,subspecies,White-eyed Slaty Flycatcher ssp toruensis,5,29.09219787,-2.44024446,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20593,Phoeniculus bollei,species,White-headed Wood Hoopoe,5,29.09683272,-2.45126366,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20598,Cyanomitra verticalis,species,Green-headed Sunbird,1,29.09224078,-2.43994433,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20602,Oriolus percivali,species,Mountain Oriole,1,29.09224078,-2.43994433,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20742,Batis diops,species,Rwenzori Batis,1,29.09666106,-2.45079202,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20752,Pogoniulus bilineatus,species,Yellow-rumped Tinkerbird,1,29.09670398,-2.45049189,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+20755,Saxicola torquatus,species,African Stonechat,2,29.09558818,-2.44984875,Africa,Rwanda,Rwanda - Gafunzo,2017-01-12,
+69554,Bubulcus ibis,species,Western Cattle Egret,2,29.25358057,-1.69814968,Africa,Rwanda,Rwanda - Rubavu,2004-04-10,
+70658,Motacilla aguimp,species,African Pied Wagtail,1,29.263204983401906,-1.7351709706449123,Africa,Rwanda,Rwanda - Nyamyumba,2004-04-10,
+103300,Plectropterus gambensis,species,Spur-winged Goose,1,30.719375606859,-1.8750314501515,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103302,Lophoceros alboterminatus,species,Crowned Hornbill,1,30.719375606859,-1.8750314501515,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103371,Anhinga rufa,species,African Darter,1,30.71937561,-1.87503145,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103372,Ardea alba,species,Great Egret,1,30.719375606859,-1.8750314501515,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103373,Leptoptilos crumenifer,species,Marabou Stork,1,30.719375606859,-1.8750314501515,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103379,Corythaixoides personatus,species,Bare-faced Go-away-bird,1,30.719375606859,-1.8750314501515,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103386,Circaetus cinereus,species,Brown Snake Eagle,1,30.719375606859,-1.8750314501515,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103387,Halcyon senegalensis,species,Woodland Kingfisher,1,30.719375606859,-1.8750314501515,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103394,Lophoceros nasutus,species,African Grey Hornbill,1,30.719375606859,-1.8750314501515,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103395,Gyps rueppelli,species,Rüppell's Vulture,1,30.719375606859,-1.8750314501515,Africa,Rwanda,Rwanda - Akagera NP,2006-08-15,
+103402,Merops oreobates,species,Cinnamon-chested Bee-eater,1,29.27604673896,-2.5426373288854,Africa,Rwanda,Rwanda - Karengera,2006-08-13,
+117524,Nectarinia famosa,species,Malachite Sunbird,1,29.506,-1.4582,Africa,Rwanda,Rwanda - Kinigi,2015-11-18,09:20
+117525,Lanius humeralis,species,Northern Fiscal,1,29.3967,-2.0309,Africa,Rwanda,Rwanda - Mabanza,2015-11-16,09:25
+117526,Streptopelia decipiens,species,Mourning Collared Dove,1,29.3529,-2.0661,Africa,Rwanda,Rwanda - Gitsi,2015-11-15,08:12
+117527,Phalacrocorax lucidus,species,White-breasted Cormorant,1,29.3566,-2.0668,Africa,Rwanda,Rwanda - Gitsi,2015-11-15,06:41
+109139,Lanius humeralis,species,Northern Fiscal,1,30.0106,-1.9622,Africa,Rwanda,Rwanda - Butamwa,2015-11-10,18:17
+109971,Cecropis abyssinica,species,Lesser Striped Swallow,1,30.0175,-1.9476,Africa,Rwanda,Rwanda - Butamwa,2015-11-10,11:16
+113164,Terpsiphone viridis,species,African Paradise Flycatcher,1,30.0925,-1.9462,Africa,Rwanda,Rwanda - Rubungo,2015-11-08,22:20
+121896,Pycnonotus tricolor,species,Dark-capped Bulbul,1,30.0924,-1.9463,Africa,Rwanda,Rwanda - Rubungo,2015-11-08,11:45
+121897,Cossypha heuglini,species,White-browed Robin-Chat,1,30.0923,-1.9462,Africa,Rwanda,Rwanda - Rubungo,2015-11-08,11:44
+121898,Chalcomitra senegalensis,species,Scarlet-chested Sunbird,1,30.0924,-1.9462,Africa,Rwanda,Rwanda - Rubungo,2015-11-08,11:43
+121899,Passer griseus,species,Northern Grey-headed Sparrow,3,30.0926,-1.9467,Africa,Rwanda,Rwanda - Rubungo,2015-11-08,09:37
+17361,Lanius humeralis,species,Northern Fiscal,1,29.9261891842,-1.73935453911,Africa,Rwanda,Rwanda - Mbogo,2015-08-12,
+17365,Chalcomitra senegalensis,species,Scarlet-chested Sunbird,1,30.0926980376,-1.94618117442,Africa,Rwanda,Rwanda - Rubungo,2015-08-12,
+17561,Pycnonotus tricolor,species,Dark-capped Bulbul,1,30.0250071287,-1.95004266337,Africa,Rwanda,Rwanda - Butamwa,2015-08-12,
+57922,Paraxerus boehmi,species,Boehm's Bush Squirrel,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57924,Cercopithecus mitis,species,Blue Monkey,10,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57926,Melaniparus fasciiventer,species,Stripe-breasted Tit,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57928,Corvus albicollis,species,White-necked Raven,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57936,Ruwenzorornis johnstoni,species,Rwenzori Turaco,2,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57939,Muscicapa adusta,species,African Dusky Flycatcher,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57941,Oriolus percivali,species,Mountain Oriole,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57944,Pogoniulus bilineatus,species,Yellow-rumped Tinkerbird,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57945,Estrilda nonnula,species,Black-crowned Waxbill,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57948,Merops oreobates,species,Cinnamon-chested Bee-eater,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57954,Corythaeola cristata,species,Great Blue Turaco,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57955,Dryoscopus gambensis,species,Northern Puffback,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57961,Melaenornis ardesiacus,species,Yellow-eyed Black Flycatcher,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+57962,Batis diops,species,Rwenzori Batis,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+58020,Phoeniculus bollei,species,White-headed Wood Hoopoe,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+58023,Chamaetylas poliophrys,species,Red-throated Alethe,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+58085,Apalis porphyrolaema,species,Chestnut-throated Apalis,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+58086,Cisticola chubbi,species,Chubb's Cisticola,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+58087,Pogonocichla stellata,species,White-starred Robin,1,29.1182474792,-2.48582132538,Africa,Rwanda,Rwanda - Karengera,2015-08-21,
+58193,Terpsiphone viridis,species,African Paradise Flycatcher,1,30.0610975921,-1.93095427649,Africa,Rwanda,Rwanda - Nyarugenge,2015-08-10,
+58204,Ardea melanocephala,species,Black-headed Heron,1,30.0212862343,-1.95006176304,Africa,Rwanda,Rwanda - Butamwa,2015-08-10,
+58211,Scopus umbretta,species,Hamerkop,1,30.0857739151,-1.94746722145,Africa,Rwanda,Rwanda - Nyarugenge,2015-08-10,
+58236,Ploceus baglafecht,species,Baglafecht Weaver,1,30.0925257057,-1.94618016918,Africa,Rwanda,Rwanda - Rubungo,2015-08-10,
+58243,Cossypha heuglini,species,White-browed Robin-Chat,4,30.0925257057,-1.94618016918,Africa,Rwanda,Rwanda - Rubungo,2015-08-10,
+77211,Chalcomitra senegalensis,species,Scarlet-chested Sunbird,1,30.098863095,-1.94099073497,Africa,Rwanda,Rwanda - Rubungo,2015-09-08,13:00
+70680,Syncerus caffer,species,African Buffalo,20,30.7163100227,-1.81635800312,Africa,Rwanda,Rwanda - Akagera NP,2014-02-15,

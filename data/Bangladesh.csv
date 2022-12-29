@@ -1,0 +1,155 @@
+,scientificName,taxonRank,vernacularName,individualCount,longitudeDecimal,latitudeDecimal,continent,country,locality,eventDate,eventTime
+65197,Parus cinereus,species,Cinereous Tit,1,91.77833086,24.30317022,Asia,Bangladesh,Bangladesh - Sylhet,2015-02-23,13:47
+65198,Tyto javanica stertens,subspecies,Eastern Barn Owl ssp stertens,16,90.40147509,23.89033054,Asia,Bangladesh,Bangladesh - Dhaka,2015-02-24,18:29
+78532,Surniculus lugubris,species,Square-tailed Drongo-Cuckoo,1,91.78509415,24.32688488,Asia,Bangladesh,Bangladesh - Sylhet,2015-02-23,11:39
+84295,Megalurus palustris,species,Striated Grassbird,5,91.70608305,24.37055243,Asia,Bangladesh,Bangladesh - Sylhet,2015-02-22,15:52
+20667,Tringa guttifer,species,Nordmann's Greenshank,3,91.86410643,21.55626046,Asia,Bangladesh,Bangladesh,2015-02-15,10:09
+20668,Calidris pygmaea,species,Spoon-billed Sandpiper,3,91.86397824,21.55645338,Asia,Bangladesh,Bangladesh,2015-02-15,10:20
+20669,Charadrius leschenaultii,species,Greater Sand Plover,30,91.8639753,21.5564063,Asia,Bangladesh,Bangladesh,2015-02-15,10:30
+28835,Parus cinereus planorum,subspecies,Cinereous Tit ssp planorum,2,91.97573688,21.43484254,Asia,Bangladesh,Bangladesh - Chittagong,2015-02-14,10:02
+28837,Charadrius leschenaultii,species,Greater Sand Plover,55,91.8449717,21.54398297,Asia,Bangladesh,Bangladesh - Chittagong,2015-02-14,13:23
+28838,Calidris pygmaea,species,Spoon-billed Sandpiper,8,91.85969294,21.55643772,Asia,Bangladesh,Bangladesh,2015-02-14,15:17
+102340,Dicrurus hottentottus,species,Hair-crested Drongo,1,89.5092771202,22.5815537738,Asia,Bangladesh,Bangladesh - Khulna,2014-12-04,
+14911,Argya striata,species,Jungle Babbler,1,89.82813835,24.38524335,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-04,
+23489,Riparia chinensis chinensis,subspecies,Grey-throated Martin ssp chinensis,1,89.83411789,24.39216675,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-11,
+23507,Lanius cristatus,species,Brown Shrike,1,89.83411789,24.39216675,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-06,
+23566,Acridotheres ginginianus,species,Bank Myna,1,89.83411789,24.39216675,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-05,
+23649,Dendrocopos macei,species,Fulvous-breasted Woodpecker,1,89.83411789,24.39216675,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-05,
+23659,Psilopogon lineatus,species,Lineated Barbet,1,89.83411789,24.39216675,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-05,
+23662,Upupa epops,species,Eurasian Hoopoe,1,89.83411789,24.39216675,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-05,
+23694,Dicrurus macrocercus,species,Black Drongo,1,90.08560178,23.97094438,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-03,
+23697,Columba livia,species,Rock Dove,1,90.08560178,23.97094438,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-03,
+23698,Lanius schach,species,Long-tailed Shrike,1,90.08560178,23.97094438,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-03,
+23704,Coracias benghalensis,species,Indian Roller,1,90.08560178,23.97094438,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-03,
+23709,Elanus caeruleus,species,Black-winged Kite,1,90.08560178,23.97094438,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-03,
+23827,Corvus culminatus,species,Indian Jungle Crow,1,90.43487549,23.73557204,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-01,
+23829,Acridotheres tristis,species,Common Myna,1,90.43487549,23.73557204,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-01,
+23831,Gracupica contra,species,Pied Myna,1,90.43487549,23.73557204,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-01,
+23841,Eudynamys scolopaceus,species,Asian Koel,1,90.43487549,23.73557204,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-01,
+23843,Corvus splendens,species,House Crow,1,90.43,23.73,Asia,Bangladesh,Bangladesh - Dhaka,2012-09-01,
+59214,Chroicocephalus brunnicephalus,species,Brown-headed Gull,5,91.250443897,22.208319223,Asia,Bangladesh,Bangladesh - Chittagong,2017-01-20,15:35
+59267,Clanga hastata,species,Indian Spotted Eagle,3,90.5183580248531,22.7469568345857,Asia,Bangladesh,Bangladesh - Barisal,2017-01-16,12:12
+59268,Falco jugger,species,Laggar Falcon,1,90.59962925,22.81213758,Asia,Bangladesh,Bangladesh - Barisal,2017-01-16,16:04
+59272,Pluvialis fulva,species,Pacific Golden Plover,70,90.7605447310335,22.6447746154871,Asia,Bangladesh,Bangladesh - Barisal,2017-01-17,11:19
+59284,Orcaella brevirostris,species,Irrawaddy Dolphin,1,90.5678952412605,21.9925888222565,Asia,Bangladesh,Bangladesh - Barisal,2017-01-23,08:57
+59285,Spilornis cheela,species,Crested Serpent Eagle,1,90.6480803923478,21.964929328725,Asia,Bangladesh,Bangladesh - Barisal,2017-01-22,08:02
+59286,Hierococcyx varius,species,Common Hawk-Cuckoo,1,90.6530866723671,21.9732384184529,Asia,Bangladesh,Bangladesh - Barisal,2017-01-22,08:53
+59289,Heliopais personatus,species,Masked Finfoot,1,89.6956584920642,22.18183014975,Asia,Bangladesh,Bangladesh - Khulna,2017-01-26,16:46
+59290,Halcyon pileata,species,Black-capped Kingfisher,1,89.7316503932799,21.9206362546379,Asia,Bangladesh,Bangladesh,2017-01-27,07:17
+59291,Pelargopsis amauroptera,species,Brown-winged Kingfisher,1,89.7323366920717,21.9193554638892,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,07:21
+59292,Centropus sinensis,species,Greater Coucal,3,89.7528489719866,21.9152456181274,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,08:16
+59293,Pelargopsis amauroptera,species,Brown-winged Kingfisher,1,89.7534556834693,21.916152793258,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,08:24
+59294,Macaca mulatta,species,Rhesus Macaque,3,89.7536026402292,21.9173073373335,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,08:27
+59295,Axis axis,species,Chital,20,89.7785908857706,21.8559995435125,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,12:53
+59296,Macaca mulatta,species,Rhesus Macaque,5,89.7824462756778,21.8567527580663,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,13:07
+59334,Dicrurus hottentottus,species,Hair-crested Drongo,2,89.7818298620612,21.8551860253031,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,14:27
+59340,Caprimulgus asiaticus,species,Indian Nightjar,2,89.5861935,22.42741741,Asia,Bangladesh,Bangladesh - Khulna,2017-01-29,10:04
+71612,Heliopais personatus,species,Masked Finfoot,1,89.6956584920642,22.18183014975,Asia,Bangladesh,Bangladesh - Khulna,2017-01-26,16:46
+71613,Halcyon pileata,species,Black-capped Kingfisher,1,89.7316503932799,21.9206362546379,Asia,Bangladesh,Bangladesh,2017-01-27,07:17
+71614,Pelargopsis amauroptera,species,Brown-winged Kingfisher,1,89.7323366920717,21.9193554638892,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,07:21
+71615,Centropus sinensis,species,Greater Coucal,3,89.7528489719866,21.9152456181274,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,08:16
+71616,Pelargopsis amauroptera,species,Brown-winged Kingfisher,1,89.7534556834693,21.916152793258,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,08:24
+71617,Macaca mulatta,species,Rhesus Macaque,3,89.7536026402292,21.9173073373335,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,08:27
+71618,Axis axis,species,Chital,20,89.7785908857706,21.8559995435125,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,12:53
+71619,Dicrurus hottentottus,species,Hair-crested Drongo,2,89.78182986,21.85518603,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,14:27
+71623,Caprimulgus asiaticus,species,Indian Nightjar,1,89.5861934988184,22.4274174081755,Asia,Bangladesh,Bangladesh - Khulna,2017-01-29,10:04
+76228,Caprimulgus asiaticus,species,Indian Nightjar,3,89.586648434,22.427705335,Asia,Bangladesh,Bangladesh - Khulna,2017-01-29,09:52
+78731,Heliopais personatus,species,Masked Finfoot,1,89.695672588,22.181831232,Asia,Bangladesh,Bangladesh - Khulna,2017-01-26,16:47
+78732,Pelargopsis amauroptera,species,Brown-winged Kingfisher,1,89.732080878,21.919761615,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,07:20
+78733,Axis axis,species,Chital,1,89.738164517,21.91744268,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,07:34
+78734,Halcyon pileata,species,Black-capped Kingfisher,1,89.741028723,21.917501425,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,07:41
+78735,Centropus sinensis,species,Greater Coucal,5,89.754428986,21.914276843,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,09:15
+78736,Halcyon pileata,species,Black-capped Kingfisher,1,89.789707603,21.89190864,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,11:32
+78737,Axis axis,species,Chital,75,89.778305372,21.856021033,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,12:53
+78738,Macaca mulatta,species,Rhesus Macaque,5,89.782221788,21.856852476,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,13:17
+78739,Dicrurus hottentottus,species,Hair-crested Drongo,2,89.78191907,21.85519108,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,14:29
+78740,Axis axis,species,Chital,1,89.781971248,21.855540438,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,14:44
+78748,Pelargopsis amauroptera,species,Brown-winged Kingfisher,1,89.796275858,21.855072098,Asia,Bangladesh,Bangladesh - Khulna,2017-01-27,16:05
+78771,Pelargopsis amauroptera,species,Brown-winged Kingfisher,2,89.781135446,21.929501672,Asia,Bangladesh,Bangladesh - Khulna,2017-01-28,07:46
+2101,Orcaella brevirostris,species,Irrawaddy Dolphin,1,90.5678952412605,21.9925888222565,Asia,Bangladesh,Bangladesh - Barisal,2017-01-23,08:57
+19867,Leptoptilos javanicus,species,Lesser Adjutant,3,90.47389326,21.87689596,Asia,Bangladesh,Bangladesh - Barisal,2017-01-22,16:22
+20984,Hierococcyx varius,species,Common Hawk-Cuckoo,1,90.6530866723671,21.9732384184529,Asia,Bangladesh,Bangladesh - Barisal,2017-01-22,08:53
+21353,Chroicocephalus brunnicephalus,species,Brown-headed Gull,5,91.250443897,22.208319223,Asia,Bangladesh,Bangladesh - Chittagong,2017-01-20,15:35
+21354,Spilornis cheela,species,Crested Serpent Eagle,1,90.64549895,21.961812404,Asia,Bangladesh,Bangladesh - Barisal,2017-01-22,07:57
+21355,Microcarbo niger,species,Little Cormorant,1,90.654143963,21.978590204,Asia,Bangladesh,Bangladesh - Barisal,2017-01-22,08:47
+21667,Rynchops albicollis,species,Indian Skimmer,1,91.0490705267833,22.0884500473617,Asia,Bangladesh,Bangladesh - Nijhum Dweep NP,2017-01-18,15:24
+21690,Spilornis cheela,species,Crested Serpent Eagle,1,90.6480803923478,21.964929328725,Asia,Bangladesh,Bangladesh - Barisal,2017-01-22,08:02
+21694,Hierococcyx varius,species,Common Hawk-Cuckoo,1,90.6530866723671,21.9732384184529,Asia,Bangladesh,Bangladesh - Barisal,2017-01-22,08:53
+68977,Clanga hastata,species,Indian Spotted Eagle,3,90.520254252,22.751039948,Asia,Bangladesh,Bangladesh - Barisal,2017-01-16,12:16
+68978,Haliastur indus,species,Brahminy Kite,1,90.57649221,22.812183044,Asia,Bangladesh,Bangladesh - Barisal,2017-01-16,14:32
+68979,Falco jugger,species,Laggar Falcon,1,90.594149904,22.811178165,Asia,Bangladesh,Bangladesh,2017-01-16,15:57
+68980,Pluvialis fulva,species,Pacific Golden Plover,50,90.760421262,22.644757374,Asia,Bangladesh,Bangladesh - Barisal,2017-01-17,11:12
+68981,Clanga hastata,species,Indian Spotted Eagle,3,90.5183580248531,22.7469568345857,Asia,Bangladesh,Bangladesh - Barisal,2017-01-16,12:12
+68982,Falco jugger,species,Laggar Falcon,1,90.59962925,22.81213758,Asia,Bangladesh,Bangladesh - Barisal,2017-01-16,16:04
+68983,Pluvialis fulva,species,Pacific Golden Plover,70,90.7605447310335,22.6447746154871,Asia,Bangladesh,Bangladesh - Barisal,2017-01-17,11:19
+94213,Iole cacharensis,species,Cachar Bulbul,1,91.90805672,24.27706777,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-13,12:38
+98786,Saxicola jerdoni,species,Jerdon's Bush Chat,1,91.8685837079579,24.2003069202458,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,08:45
+99249,Saxicola jerdoni,species,Jerdon's Bush Chat,1,91.86858371,24.20030692,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,08:45
+99251,Amandava amandava,species,Red Avadavat,5,91.8688009118924,24.1998997436908,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,09:18
+99252,Mirafra assamica,species,Bengal Bush Lark,10,91.86881787,24.20017779,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,09:42
+99253,Glaucidium cuculoides,species,Asian Barred Owlet,1,91.8648689830925,24.2013933229792,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,10:36
+99254,Lanius schach tricolor,subspecies,Long-tailed Shrike ssp tricolor,3,91.8682219231905,24.1998334569623,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,10:48
+100151,Mirafra assamica,species,Bengal Bush Lark,15,91.86,24.2,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,08:30
+100152,Lonchura punctulata,species,Scaly-breasted Munia,25,91.87,24.19,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,09:15
+100153,Amandava amandava,species,Red Avadavat,3,91.86,24.19,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,09:27
+100154,Glaucidium cuculoides,species,Asian Barred Owlet,1,91.86,24.2,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-14,10:51
+110377,Leptocoma brasiliana,species,Van Hasselt's Sunbird,20,91.90318514,24.27222137,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-13,09:49
+110403,Macronus gularis,species,Pin-striped Tit-Babbler,1,91.90248002,24.271558483,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-13,09:32
+110404,Leptocoma brasiliana,species,Van Hasselt's Sunbird,25,91.90311303,24.27185319,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-13,09:49
+110405,Dicrurus remifer,species,Lesser Racket-tailed Drongo,1,91.908056715,24.277067765,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-13,12:38
+110406,Phylloscopus cantator,species,Yellow-vented Warbler,1,91.90814168,24.27711414,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-13,12:40
+115919,Megalurus palustris,species,Striated Grassbird,10,91.7036504238449,24.3497547168892,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,08:28
+115923,Acrocephalus bistrigiceps,species,Black-browed Reed Warbler,2,91.7014554057208,24.3464161729268,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,09:25
+115925,Merops orientalis,species,Green Bee-eater,2,91.7003569139288,24.3455868450881,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,09:36
+115929,Vanellus cinereus,species,Grey-headed Lapwing,10,91.7001830517106,24.3451461344081,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,10:51
+115936,Lanius tephronotus,species,Grey-backed Shrike,1,91.7055176748146,24.3516381109151,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,14:27
+115937,Lanius cristatus,species,Brown Shrike,1,91.7056355439085,24.3531913896989,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,15:48
+115938,Ixobrychus sinensis,species,Yellow Bittern,1,91.70889261,24.35511609,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,16:21
+116310,Megalurus palustris,species,Striated Grassbird,5,91.702361384,24.347252623,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,09:00
+116312,Dicrurus macrocercus,species,Black Drongo,1,91.701622327,24.346427687,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,09:11
+116313,Acrocephalus bistrigiceps,species,Black-browed Reed Warbler,2,91.701565727,24.346305688,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,09:21
+116314,Merops orientalis,species,Green Bee-eater,10,91.700409488,24.345395769,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,09:55
+116315,Vanellus cinereus,species,Grey-headed Lapwing,25,91.700283315,24.345198147,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,10:10
+116316,Parus cinereus,species,Cinereous Tit,1,91.70381926,24.35061447,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,12:12
+116317,Lanius tephronotus,species,Grey-backed Shrike,1,91.702990446,24.350965029,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,14:23
+116318,Ixobrychus sinensis,species,Yellow Bittern,1,91.703008363,24.350837124,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-12,14:23
+1356,Halcyon smyrnensis,species,White-throated Kingfisher,1,92.036187653,24.527684818,Asia,Bangladesh,Bangladesh - Sylhet,2017-01-11,14:40
+17816,Ceryle rudis,species,Pied Kingfisher,3,91.9990707601749,21.3960719167355,Asia,Bangladesh,Bangladesh - Chittagong,2017-01-07,16:17
+17817,Calidris pygmaea,species,Spoon-billed Sandpiper,4,91.86480419,21.5565547,Asia,Bangladesh,Bangladesh,2017-01-08,09:14
+17818,Tringa guttifer,species,Nordmann's Greenshank,3,91.86480419,21.5565547,Asia,Bangladesh,Bangladesh,2017-01-08,09:14
+17819,Charadrius leschenaultii,species,Greater Sand Plover,2,91.8648050480165,21.5566072915278,Asia,Bangladesh,Bangladesh,2017-01-08,10:47
+17820,Todiramphus chloris,species,Collared Kingfisher,1,91.8861306853141,21.5095670862453,Asia,Bangladesh,Bangladesh - Chittagong,2017-01-08,15:56
+18228,Copsychus saularis,species,Oriental Magpie-Robin,2,90.26541429,23.87600444,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,11:45
+29337,Calidris pygmaea,species,Spoon-billed Sandpiper,4,91.864802147,21.556589178,Asia,Bangladesh,Bangladesh,2017-01-08,09:53
+29338,Tringa guttifer,species,Nordmann's Greenshank,5,91.86485866,21.55655394,Asia,Bangladesh,Bangladesh,2017-01-08,10:24
+29339,Charadrius leschenaultii,species,Greater Sand Plover,5,91.86483331,21.55656764,Asia,Bangladesh,Bangladesh,2017-01-08,11:00
+29340,Todiramphus chloris,species,Collared Kingfisher,1,91.887096502,21.508876552,Asia,Bangladesh,Bangladesh - Chittagong,2017-01-08,15:56
+39395,Ceryle rudis,species,Pied Kingfisher,3,91.999182609,21.39602287,Asia,Bangladesh,Bangladesh - Chittagong,2017-01-07,16:13
+39396,Accipiter badius,species,Shikra,1,91.999027755,21.395898573,Asia,Bangladesh,Bangladesh - Chittagong,2017-01-07,16:25
+50107,Oriolus xanthornus,species,Black-hooded Oriole,1,90.2677369028778,23.8846505571797,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,07:51
+50108,Dendrocopos macei,species,Fulvous-breasted Woodpecker,1,90.2677828100823,23.885810328894,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,08:07
+50109,Spilopelia chinensis,species,Spotted Dove,5,90.2678304308765,23.8861353184299,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,08:13
+50110,Amaurornis phoenicurus,species,White-breasted Waterhen,4,90.2664758569925,23.8856448500703,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,08:55
+50111,Halcyon smyrnensis,species,White-throated Kingfisher,1,90.2672613555081,23.8854080145631,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,09:05
+50112,Metopidius indicus,species,Bronze-winged Jacana,10,90.2681383295525,23.8858307379277,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,10:04
+50113,Copsychus saularis,species,Oriental Magpie-Robin,2,90.2678606460746,23.8852816595069,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,10:15
+50114,Dendrocygna javanica,species,Lesser Whistling Duck,1000,90.2680842729829,23.8852432114394,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,10:25
+52726,Metopidius indicus,species,Bronze-winged Jacana,15,90.267750616,23.883771934,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,07:33
+52727,Dendrocygna javanica,species,Lesser Whistling Duck,1200,90.267745917,23.883679304,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,07:33
+52728,Spilopelia chinensis,species,Spotted Dove,15,90.267718568,23.883918394,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,07:39
+52729,Halcyon smyrnensis,species,White-throated Kingfisher,2,90.267772622,23.883940415,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,07:40
+52730,Dinopium benghalense benghalense,subspecies,Black-rumped Flameback ssp benghalense,4,90.267463742,23.884561154,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,07:47
+52731,Oriolus xanthornus,species,Black-hooded Oriole,15,90.267789628,23.884648796,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,07:50
+52732,Dendrocitta vagabunda vagabunda,subspecies,Rufous Treepie ssp vagabunda,3,90.26772607,23.88492297,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,07:57
+52733,Dendrocopos macei,species,Fulvous-breasted Woodpecker,1,90.269236908,23.887041717,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,08:33
+52734,Amaurornis phoenicurus,species,White-breasted Waterhen,2,90.266506379,23.885524547,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,08:54
+52735,Callosciurus pygerythrus,species,Irrawaddy Squirrel,1,90.267819972,23.882037336,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,10:38
+52736,Prinia hodgsonii hodgsonii,subspecies,Grey-breasted Prinia ssp hodgsonii,15,90.26525882,23.87735222,Asia,Bangladesh,Bangladesh - Dhaka,2017-01-06,11:21
+114009,Chrysocolaptes guttacristatus,species,Greater Flameback,1,90.67168844,21.93243973,Asia,Bangladesh,Bangladesh - Barisal,2016-02-05,
+5000,Parus cinereus,species,Cinereous Tit,1,90.34880476,23.81554247,Asia,Bangladesh,Bangladesh - Dhaka,2016-01-29,
+5014,Merops orientalis,species,Green Bee-eater,1,91.69918413,24.35156749,Asia,Bangladesh,Bangladesh - Sylhet,2016-01-28,
+5021,Ixobrychus sinensis,species,Yellow Bittern,1,91.69918413,24.35156749,Asia,Bangladesh,Bangladesh - Sylhet,2016-01-28,
+5030,Cyornis whitei whitei,subspecies,Hill Blue Flycatcher ssp whitei,1,91.80299291,24.34313979,Asia,Bangladesh,Bangladesh - Sylhet,2016-01-26,
+5054,Dicrurus hottentottus,species,Hair-crested Drongo,1,91.80265732,24.33608949,Asia,Bangladesh,Bangladesh - Sylhet,2016-01-26,
+18864,Riparia chinensis,species,Grey-throated Martin,1,91.91348875,24.54102706,Asia,Bangladesh,Bangladesh - Sylhet,2016-01-20,
+19832,Porphyrio poliocephalus,species,Grey-headed Swamphen,1,92.05,24.7,Asia,Bangladesh,Bangladesh - Sylhet,2016-01-18,
