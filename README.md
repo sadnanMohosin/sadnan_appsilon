@@ -24,3 +24,4 @@ Dataset provided was very big and could not be loaded into rstudio without optim
 3. Normalizing Data: To increase data quality, i performed some transformation process. This made writing code and analyzing data more easy.
 4. Partitioning: I broke a single big size csv file  into sections stored in multiple files. Separated those file based on country column and aggregating data row wise. Some data files were still very large so i selected around 110 country for this project. 
 5. Calling only the necessary file: I wrote the code in ``R programming`` in a was so that only the selected country csv file will be loaded for visualization. This makes the data visualization fast and refresh rate is also fast
+https://education.github.com/discount_requests/9133718/additional_information
